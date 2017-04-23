@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+<Package name="ffaa_et_tigre">
+<Container name="ffaa_et_tigre">
+    <Key ID="str_ffaa_tigre_sneb">
+      <Original>SNEB 70MM</Original>
+      <English>SNEB 70MM</English>
+      <Czech>SNEB 70MM</Czech>
+      <French>SNEB 70MM</French>
+      <German>SNEB 70MM</German>
+      <Italian>SNEB 70MM</Italian>
+      <Polish>SNEB 70MM</Polish>
+      <Portuguese>SNEB 70MM</Portuguese>
+      <Russian>SNEB 70MM</Russian>
+      <Spanish>SNEB 70MM</Spanish>
+   </Key>
+   <Key ID="str_ffaa_dn_tigre_cas">
+      <Original>EC665 Tiger (CAS)</Original>
+      <English>EC665 Tiger (CAS)</English>
+      <Czech>EC665 Tiger (CAS)</Czech>
+      <French>EC665 Tiger (CAS)</French>
+      <German>EC665 Tiger (CAS)</German>
+      <Italian>EC665 Tiger (CAS)</Italian>
+      <Polish>EC665 Tiger (CAS)</Polish>
+      <Portuguese>EC665 Tiger (CAS)</Portuguese>
+      <Russian>EC665 Tiger (CAS)</Russian>
+      <Spanish>EC665 Tigre (CAS)</Spanish>
+   </Key>
+      <Key ID="str_ffaa_dn_tigre_at">
+      <Original>EC665 Tiger (AT)</Original>
+      <English>EC665 Tiger (AT)</English>
+      <Czech>EC665 Tiger (AT)</Czech>
+      <French>EC665 Tiger (AT)</French>
+      <German>EC665 Tiger (AT)</German>
+      <Italian>EC665 Tiger (AT)</Italian>
+      <Polish>EC665 Tiger (AT)</Polish>
+      <Portuguese>EC665 Tiger (AT)</Portuguese>
+      <Russian>EC665 Tiger (AT)</Russian>
+      <Spanish>EC665 Tigre (AT)</Spanish>
+   </Key>
+         <Key ID="str_ffaa_dn_tigre_aa">
+      <Original>EC665 Tiger (AA)</Original>
+      <English>EC665 Tiger (AA)</English>
+      <Czech>EC665 Tiger (AA)</Czech>
+      <French>EC665 Tiger (AA)</French>
+      <German>EC665 Tiger (AA)</German>
+      <Italian>EC665 Tiger (AA)</Italian>
+      <Polish>EC665 Tiger (AA)</Polish>
+      <Portuguese>EC665 Tiger (AA)</Portuguese>
+      <Russian>EC665 Tiger (AA)</Russian>
+      <Spanish>EC665 Tigre (AA)</Spanish>
+   </Key>
+         <Key ID="str_ffaa_tigre_activar_hud">
+      <Original>Switch on HUD</Original>
+      <English>Switch on HUD</English>
+      <Czech>Switch on HUD</Czech>
+      <French>Switch on HUD</French>
+      <German>Switch on HUD</German>
+      <Italian>Switch on HUD</Italian>
+      <Polish>Switch on HUD</Polish>
+      <Portuguese>Switch on HUD</Portuguese>
+      <Russian>Switch on HUD</Russian>
+      <Spanish>Encender HUD</Spanish>
+   </Key>
+    <Key ID="str_ffaa_tigre_desactivar_hud">
+      <Original>Switch off HUD</Original>
+      <English>Switch of HUD</English>
+      <Czech>Switch off HUD</Czech>
+      <French>Switch off HUD</French>
+      <German>Switch off HUD</German>
+      <Italian>Switch off HUD</Italian>
+      <Polish>Switch off HUD</Polish>
+      <Portuguese>Switch off HUD</Portuguese>
+      <Russian>Switch off HUD</Russian>
+      <Spanish>Apagar HUD</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_abrir_gunner1">
+      <Original>Open right gunner door</Original>
+      <English>Open right gunner door</English>
+      <Czech>Open right gunner door</Czech>
+      <French>Open right gunner door</French>
+      <German>Open right gunner door</German>
+      <Italian>Open right gunner door</Italian>
+      <Polish>Open right gunner door</Polish>
+      <Portuguese>Open right gunner door</Portuguese>
+      <Russian>Open right gunner door</Russian>
+      <Spanish>Abrir puerta derecha del artillero</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_abrir_gunner2">
+      <Original>Open left gunner door</Original>
+      <English>Open left gunner door</English>
+      <Czech>Open left gunner door</Czech>
+      <French>Open left gunner door</French>
+      <German>Open left gunner door</German>
+      <Italian>Open left gunner door</Italian>
+      <Polish>Open left gunner door</Polish>
+      <Portuguese>Open left gunner door</Portuguese>
+      <Russian>Open left gunner door</Russian>
+      <Spanish>Abrir puerta izquierda del artillero</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_abrir_pilot1">
+      <Original>Open left pilot door</Original>
+      <English>Open left pilot door</English>
+      <Czech>Open left pilot door</Czech>
+      <French>Open left pilot door</French>
+      <German>Open left pilot door</German>
+      <Italian>Open left pilot door</Italian>
+      <Polish>Open left pilot door</Polish>
+      <Portuguese>Open left pilot door</Portuguese>
+      <Russian>Open left pilot door</Russian>
+      <Spanish>Abrir puerta izquierda del piloto</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_abrir_pilot2">
+      <Original>Open right pilot door</Original>
+      <English>Open right pilot door</English>
+      <Czech>Open right pilot door</Czech>
+      <French>Open right pilot door</French>
+      <German>Open right pilot door</German>
+      <Italian>Open right pilot door</Italian>
+      <Polish>Open right pilot door</Polish>
+      <Portuguese>Open right pilot door</Portuguese>
+      <Russian>Open right pilot door</Russian>
+      <Spanish>Abrir puerta derecha del piloto</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_cerrar_gunner1">
+      <Original>Close right gunner door</Original>
+      <English>Close right gunner door</English>
+      <Czech>Close right gunner door</Czech>
+      <French>Close right gunner door</French>
+      <German>Close right gunner door</German>
+      <Italian>Close right gunner door</Italian>
+      <Polish>Close right gunner door</Polish>
+      <Portuguese>Close right gunner door</Portuguese>
+      <Russian>Close right gunner door</Russian>
+      <Spanish>Cerrar puerta derecha del artillero</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_cerrar_gunner2">
+      <Original>Close left gunner door</Original>
+      <English>Close left gunner door</English>
+      <Czech>Close left gunner door</Czech>
+      <French>Close left gunner door</French>
+      <German>Close left gunner door</German>
+      <Italian>Close left gunner door</Italian>
+      <Polish>Close left gunner door</Polish>
+      <Portuguese>Close left gunner door</Portuguese>
+      <Russian>Close left gunner door</Russian>
+      <Spanish>Cerrar puerta izquierda del artillero</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_cerrar_pilot1">
+      <Original>Close left pilot door</Original>
+      <English>Close left pilot door</English>
+      <Czech>Close left pilot door</Czech>
+      <French>Close left pilot door</French>
+      <German>Close left pilot door</German>
+      <Italian>Close left pilot door</Italian>
+      <Polish>Close left pilot door</Polish>
+      <Portuguese>Close left pilot door</Portuguese>
+      <Russian>Close left pilot door</Russian>
+      <Spanish>Cerrar puerta izquierda del piloto</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_cerrar_pilot2">
+      <Original>Close right pilot door</Original>
+      <English>Close right pilot door</English>
+      <Czech>Close right pilot door</Czech>
+      <French>Close right pilot door</French>
+      <German>Close right pilot door</German>
+      <Italian>Close right pilot door</Italian>
+      <Polish>Close right pilot door</Polish>
+      <Portuguese>Close right pilot door</Portuguese>
+      <Russian>Close right pilot door</Russian>
+      <Spanish>Cerrar puerta derecha del piloto</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_modo_manual_spike">
+      <Original>Switch to Manual Mode</Original>
+      <English>Switch to Manual Mode</English>
+      <Czech>Switch to Manual Mode</Czech>
+      <French>Switch to Manual Mode</French>
+      <German>Switch to Manual Mode</German>
+      <Italian>Switch to Manual Mode</Italian>
+      <Polish>Switch to Manual Mode</Polish>
+      <Portuguese>Switch to Manual Mode</Portuguese>
+      <Russian>Switch to Manual Mode</Russian>
+      <Spanish>Cambiar a Modo Manual</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_modo_autoguiado_spike">
+      <Original>Switch to Autoguided Mode</Original>
+      <English>Switch to Autoguided Mode</English>
+      <Czech>Switch to Autoguided Mode</Czech>
+      <French>Switch to Autoguided Mode</French>
+      <German>Switch to Autoguided Mode</German>
+      <Italian>Switch to Autoguided Mode</Italian>
+      <Polish>Switch to Autoguided Mode</Polish>
+      <Portuguese>Switch to Autoguided Mode</Portuguese>
+      <Russian>Switch to Autoguided Mode</Russian>
+      <Spanish>Cambiar a Modo Autoguiado</Spanish>
+	</Key>
+	<Key ID="str_ffaa_tigre_lib">
+      <Original>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</Original>
+      <English>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</English>
+      <Czech>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</Czech>
+      <French>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</French>
+      <German>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</German>
+      <Italian>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</Italian>
+      <Polish>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</Polish>
+      <Portuguese>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</Portuguese>
+      <Russian>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</Russian>
+      <Spanish>El Eurocopter Tiger esta formado por cuatro palas y dos potentes motores que conforman un gran helicoptero de ataque el cual entró en servicio el 2003. Fabricado por Eurocopter, designado como EC 665. En Alemania es conocido como Tiger; en Francia y España es llamado Tigre.</Spanish>
+	</Key>
+  </Container>
+ </Package>
+</Project>

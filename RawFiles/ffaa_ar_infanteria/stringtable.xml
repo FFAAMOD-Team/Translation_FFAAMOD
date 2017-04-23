@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project 
+  name="ffaa">
+  <Package
+    name="ffaa_ar_infanteria">
+	<Container
+	 name="infanteria">
+    <Key 
+	  ID="str_ffaa_classe_marina_inf">
+      <Original>Man (ARMADA)</Original>
+      <English>Man (ARMADA)</English>
+      <Czech>Man (ARMADA)</Czech>
+      <French>Hommes (ARMADA)</French>
+      <German>Männer (ARMADA)</German>
+      <Italian>Uomini (ARMADA)</Italian>
+      <Polish>Men (ARMADA)</Polish>
+      <Portuguese>Homens (ARMADA)</Portuguese>
+      <Russian>Men (ARMADA)</Russian>
+      <Spanish>Hombres (ARMADA)</Spanish>
+   </Key>
+   <Key 
+	  ID="str_ffaa_ar_marinero">
+      <Original>Sailor </Original>
+      <English>Sailor</English>
+      <Czech>Sailor</Czech>
+      <French>Sailor</French>
+      <German>Sailor</German>
+      <Italian>Sailor</Italian>
+      <Polish>Sailor</Polish>
+      <Portuguese>Sailor</Portuguese>
+      <Russian>Sailor</Russian>
+      <Spanish>Marinero</Spanish>
+   </Key>
+   <Key 
+	  ID="str_ffaa_ar_marinero_uniforme">
+      <Original>Sailor Uniform</Original>
+      <English>Sailor Uniform</English>
+      <Czech>Sailor Uniform</Czech>
+      <French>Sailor Uniform</French>
+      <German>Sailor Uniform</German>
+      <Italian>Sailor Uniform</Italian>
+      <Polish>Sailor Uniform</Polish>
+      <Portuguese>Sailor Uniform</Portuguese>
+      <Russian>Sailor Uniform</Russian>
+      <Spanish>Uniforme de Marinero</Spanish>
+   </Key>
+      <Key ID="str_ffaa_ar_marinero_gorra">
+      <Original>Sailor Cap</Original>
+      <English>Sailor Cap</English>
+      <Czech>Sailor Cap</Czech>
+      <French>Sailor Cap</French>
+      <German>Sailor Cap</German>
+      <Italian>Sailor Cap</Italian>
+      <Polish>Sailor Cap</Polish>
+      <Portuguese>Sailor Cap</Portuguese>
+      <Russian>Sailor Cap</Russian>
+      <Spanish>Gorra de Marinero</Spanish>
+   </Key>
+	</Container>
+ </Package>
+</Project>

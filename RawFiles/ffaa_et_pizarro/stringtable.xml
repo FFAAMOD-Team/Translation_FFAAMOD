@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project 
+  name="ffaa">
+  <Package
+    name="ffaa_et_pizarro">
+	<Container
+	 name="pizarro">
+    <Key 
+	  ID="str_ffaa_dn_pizarro">
+      <Original>Pizarro VCI/C</Original>
+      <English>Pizarro VCI/C</English>
+      <Czech>Pizarro VCI/C</Czech>
+      <French>Pizarro VCI/C</French>
+      <German>Pizarro VCI/C</German>
+      <Italian>Pizarro VCI/C</Italian>
+      <Polish>Pizarro VCI/C</Polish>
+      <Portuguese>Pizarro VCI/C</Portuguese>
+      <Russian>Pizarro VCI/C</Russian>
+      <Spanish>Pizarro VCI/C</Spanish>
+   </Key>
+    <Key ID="str_ffaa_vci_mk30">
+      <Original>Mauser MK 30-2 30 mm</Original>
+      <English>Mauser MK 30-2 30 mm</English>
+      <Czech>Mauser MK 30-2 30 mm</Czech>
+      <French>Mauser MK 30-2 30 mm</French>
+      <German>Mauser MK 30-2 30 mm</German>
+      <Italian>Mauser MK 30-2 30 mm</Italian>
+      <Polish>Mauser MK 30-2 30 mm</Polish>
+      <Portuguese>Mauser MK 30-2 30 mm</Portuguese>
+      <Russian>Mauser MK 30-2 30 mm</Russian>
+      <Spanish>Mauser MK 30-2 30 mm</Spanish>
+   </Key>
+   <Key ID="str_ffaa_Tank_Platoon_pizzaro">
+          <Original>VCI Pizzaro Tanks Platoon</Original>
+          <English>VCI Pizzaro Tanks Platoon</English>
+          <Czech>VCI Pizzaro Tanks Platoon</Czech>
+          <French>VCI Pizzaro Tanks Platoon</French>
+          <German>VCI Pizzaro Tanks Platoon</German>
+          <Italian>VCI Pizzaro Tanks Platoon</Italian>
+          <Polish>VCI Pizzaro Tanks Platoon</Polish>
+          <Portuguese>VCI Pizzaro Tanks Platoon</Portuguese>
+          <Russian>VCI Pizzaro Tanks Platoon</Russian>
+          <Spanish>Escuadrón de tanques VCI Pizzaro</Spanish>
+        </Key>
+   <Key ID="str_ffaa_lib_pizarro">
+        <Original>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</Original>
+        <Chinese>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</Chinese>
+        <French>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</French>
+        <Spanish>El proyecto Pizarro formaba parte del programa Coraza puesto en marcha para sustituir los viejos vehículos M113, cuyo diseño data de los años 1960. Un programa similar se había puesto en marcha en Austria al mismo tiempo. En el año 2005, el Ejército Austriaco estaba equipado con 112 Ulan y el Ejército Español con 144 Pizarro.</Spanish>
+        <Italian>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</Italian>
+        <Hungarian>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</Hungarian>
+        <Polish>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</Polish>
+        <Russian>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</Russian>
+        <German>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</German>
+        <Czech>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</Czech>
+        <English>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</English>
+        <Japanese>The project Pizarro was part of the program Armor started to substitute the old vehicles M113 whose design dates of the years 1960. A similar program had started at the same time in Austria. In the year 2005, the Austrian Army was equipped with 112 Ulan and the Spanish Army with 144 Pizarro.</Japanese>
+	</Key>
+	</Container>
+ </Package>
+</Project>

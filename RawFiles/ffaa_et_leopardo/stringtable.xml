@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+<Package name="ffaa_et_leopardo">
+<Container name="ffaa_et_leopardo">
+   <Key ID="str_ffaa_dn_leopardo2e">
+        <Original>Leopardo 2E</Original>
+   </Key>
+   <Key ID="str_ffaa_dn_cargadortorreta">
+      <Original>Loader</Original>
+      <English>Loader</English>
+      <Czech>Loader</Czech>
+      <French>Loader</French>
+      <German>Loader</German>
+      <Italian>Loader</Italian>
+      <Polish>Loader</Polish>
+      <Portuguese>Loader</Portuguese>
+      <Russian>Loader</Russian>
+      <Spanish>Cargador</Spanish>
+   </Key>
+   <Key ID="str_ffaa_leo_activar_espejo">
+      <Original>Fold out rearmirrors</Original>
+      <English>Fold out rearmirrors</English>
+      <Czech>Fold out rearmirrors</Czech>
+      <French>Fold out rearmirrors</French>
+      <German>Fold out rearmirrors</German>
+      <Italian>Fold out rearmirrors</Italian>
+      <Polish>Fold out rearmirrors</Polish>
+      <Portuguese>Fold out rearmirrors</Portuguese>
+      <Russian>Fold out rearmirrors</Russian>
+      <Spanish>Desplegar espejos retrovisores</Spanish>
+   </Key>
+   <Key ID="str_ffaa_leo_desactivar_espejo">
+      <Original>Fold in rearmirrors</Original>
+      <English>Fold in rearmirrors</English>
+      <Czech>Fold in rearmirrors</Czech>
+      <French>Fold in rearmirrors</French>
+      <German>Fold in rearmirrors</German>
+      <Italian>Fold in rearmirrors</Italian>
+      <Polish>Fold in rearmirrors</Polish>
+      <Portuguese>Fold in rearmirrors</Portuguese>
+      <Russian>Fold in rearmirrors</Russian>
+      <Spanish>Doblar espejos retrovisores</Spanish>
+   </Key>
+     <Key ID="str_ffaa_tank_platoon_leopard">
+          <Original>Leopard Tanks Platoon</Original>
+          <English>Leopard Tanks Platoon</English>
+          <Czech>Leopard Tanks Platoon</Czech>
+          <French>Leopard Tanks Platoon</French>
+          <German>Leopard Tanks Platoon</German>
+          <Italian>Leopard Tanks Platoon</Italian>
+          <Polish>Leopard Tanks Platoon</Polish>
+          <Portuguese>Leopard Tanks Platoon</Portuguese>
+          <Russian>Leopard Platoon</Russian>
+          <Spanish>Escuadrón de tanques Leopardo</Spanish>
+    </Key>
+   <Key ID="str_ffaa_lib_leopar2e">
+        <Original>El ejercito español reemplazo sus tanques M60 Patton y AMX-30 con el Leopard 2 entre 1995 y el 2008, lo que le represento una considerable mejora con materiales blindados de calidad. En procura de mantener un mayor nivel de proteccion balistica, durante unas pruebas entre un Leopard 2A4 aleman y un T-80 ruso, este sobrevivio a un impacto directo del T-80U a una distancia de 1,2 kilometros.</Original>
+   </Key>
+  </Container>
+ </Package>
+</Project>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+  <Package name="ffaa_et_raven">
+	<Container name="raven">
+		<Key ID="str_ffaa_lanzarraven">
+			<Original>Launch Raven</Original>
+			<English>Launch Raven</English>
+			<Czech>Launch Raven</Czech>
+			<French>Launch Raven</French>
+			<German>Launch Raven</German>
+			<Italian>Launch Raven</Italian>
+			<Polish>Launch Raven</Polish>
+			<Portuguese>Launch Raven</Portuguese>
+			<Russian>Launch Raven</Russian>
+			<Spanish>Lanzar Raven</Spanish>
+		</Key>
+		<Key ID="str_ffaa_repararraven">
+			<Original>Repair Raven</Original>
+			<English>Repair Raven</English>
+			<Czech>Repair Raven</Czech>
+			<French>Repair Raven</French>
+			<German>Repair Raven</German>
+			<Italian>Repair Raven</Italian>
+			<Polish>Repair Raven</Polish>
+			<Portuguese>Repair Raven</Portuguese>
+			<Russian>Repair Raven</Russian>
+			<Spanish>Reparar Raven</Spanish>
+		</Key>
+	</Container>
+ </Package>
+</Project>
