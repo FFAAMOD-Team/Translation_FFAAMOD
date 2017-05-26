@@ -1,130 +1,137 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Project 
-  name="ffaa">
-  <Package name="ffaa_ar_lcm">
-	<Container name="lcm">
-    <Key  ID="str_ffaa_ar_lcm_ramp_nivel">
-      <Original>Set ramp to the middle level</Original>
-      <English>Set ramp to the middle level</English>
-      <Czech>Set ramp to the middle level</Czech>
-      <French>Set ramp to the middle level</French>
-      <German>Set ramp to the middle level</German>
-      <Italian>Set ramp to the middle level</Italian>
-      <Polish>Set ramp to the middle level</Polish>
-      <Portuguese>Set ramp to the middle level</Portuguese>
-      <Russian>Set ramp to the middle level</Russian>
-      <Spanish>Establecer rampa a nivel</Spanish>
-   </Key>
-   <Key  ID="str_ffaa_ar_lcm_ramp_subir">
-      <Original>Raise ramp</Original>
-      <English>Raise ramp</English>
-      <Czech>Raise ramp</Czech>
-      <French>Raise ramp</French>
-      <German>Raise ramp</German>
-      <Italian>Raise ramp</Italian>
-      <Polish>Raise ramp</Polish>
-      <Portuguese>Raise ramp</Portuguese>
-      <Russian>Raise ramp</Russian>
-      <Spanish>Subir rampa</Spanish>
-   </Key>
-      <Key  ID="str_ffaa_ar_lcm_ramp_bajar">
-      <Original>Lower ramp</Original>
-      <English>Lower ramp</English>
-      <Czech>Lower ramp</Czech>
-      <French>Lower ramp</French>
-      <German>Lower ramp</German>
-      <Italian>Lower ramp</Italian>
-      <Polish>Lower ramp</Polish>
-      <Portuguese>Lower ramp</Portuguese>
-      <Russian>Lower ramp</Russian>
-      <Spanish>Bajar rampa</Spanish>
-   </Key>
-      <Key  ID="str_ffaa_ar_lcm_ramp_tras_subir">
-      <Original>Raise rear ramp</Original>
-      <English>Raise rear ramp</English>
-      <Czech>Raise rear ramp</Czech>
-      <French>Raise rear ramp</French>
-      <German>Raise rear ramp</German>
-      <Italian>Raise rear ramp</Italian>
-      <Polish>Raise rear ramp</Polish>
-      <Portuguese>Raise rear ramp</Portuguese>
-      <Russian>Raise rear ramp</Russian>
-      <Spanish>Subir rampa trasera</Spanish>
-   </Key>
-      <Key  ID="str_ffaa_ar_lcm_ramp_tras_bajar">
-      <Original>Lower rear ramp</Original>
-      <English>Lower rear ramp</English>
-      <Czech>Lower rear ramp</Czech>
-      <French>Lower rear ramp</French>
-      <German>Lower rear ramp</German>
-      <Italian>Lower rear ramp</Italian>
-      <Polish>Lower rear ramp</Polish>
-      <Portuguese>Lower rear ramp</Portuguese>
-      <Russian>Lower rear ramp</Russian>
-      <Spanish>Bajar rampa trasera</Spanish>
-   </Key>
-       <Key  ID="str_ffaa_ar_lcm_asegurar">
-      <Original>Attach vehicle to the cover</Original>
-      <English>Attach vehicle to the cover</English>
-      <Czech>Attach vehicle to the cover</Czech>
-      <French>Attach vehicle to the cover</French>
-      <German>Attach vehicle to the cover</German>
-      <Italian>Attach vehicle to the cover</Italian>
-      <Polish>Attach vehicle to the cover</Polish>
-      <Portuguese>Attach vehicle to the cover</Portuguese>
-      <Russian>Attach vehicle to the cover</Russian>
-      <Spanish>Asegurar vehiculo en cubierta</Spanish>
-   </Key>
-    <Key  ID="str_ffaa_ar_lcm_liberar">
-      <Original>Detach vehicle</Original>
-      <English>Detach vehicle</English>
-      <Czech>Detach vehicle</Czech>
-      <French>Detach vehicle</French>
-      <German>Detach vehicle</German>
-      <Italian>Detach vehicle</Italian>
-      <Polish>Detach vehicle</Polish>
-      <Portuguese>Detach vehicle</Portuguese>
-      <Russian>Detach vehicle</Russian>
-      <Spanish>Liberar vehiculo</Spanish>
-   </Key>
-    <Key  ID="str_ffaa_ar_lcm_no_pos">
-      <Original>VEHICLE IS NOT IN POSITION</Original>
-      <English>VEHICLE IS NOT IN POSITION</English>
-      <Czech>VEHICLE IS NOT IN POSITION</Czech>
-      <French>VEHICLE IS NOT IN POSITION</French>
-      <German>VEHICLE IS NOT IN POSITION</German>
-      <Italian>VEHICLE IS NOT IN POSITION</Italian>
-      <Polish>VEHICLE IS NOT IN POSITION</Polish>
-      <Portuguese>VEHICLE IS NOT IN POSITION</Portuguese>
-      <Russian>VEHICLE IS NOT IN POSITION</Russian>
-      <Spanish>EL VEHICULO NO ESTA EN POSICION</Spanish>
-   </Key>
-       <Key  ID="str_ffaa_ar_lcm_anclado">
-      <Original>VEHICLE ATTACHED</Original>
-      <English>VEHICLE ATTACHED</English>
-      <Czech>VEHICLE ATTACHED</Czech>
-      <French>VEHICLE ATTACHED</French>
-      <German>VEHICLE ATTACHED</German>
-      <Italian>VEHICLE ATTACHED</Italian>
-      <Polish>VEHICLE ATTACHED</Polish>
-      <Portuguese>VEHICLE ATTACHED</Portuguese>
-      <Russian>VEHICLE ATTACHED</Russian>
-      <Spanish>VEHICULO ANCLADO</Spanish>
-   </Key>
-         <Key  ID="str_ffaa_ar_lcm_subir">
-      <Original>to upper</Original>
-      <English>to upper</English>
-      <Czech>to upper</Czech>
-      <French>to upper</French>
-      <German>to upper</German>
-      <Italian>to upper</Italian>
-      <Polish>to upper</Polish>
-      <Portuguese>to upper</Portuguese>
-      <Russian>to upper</Russian>
-      <Spanish>Subir por escala</Spanish>
-   </Key> 
-   
-   
-	</Container>
- </Package>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_ar_lcm">
+		<Container name="lcm">
+			<Key ID="str_ffaa_ar_lcm_ramp_nivel">
+				<Original>Set ramp to the middle level</Original>
+				<English>Set ramp to the middle level</English>
+				<Czech>Set ramp to the middle level</Czech>
+				<French>Set ramp to the middle level</French>
+				<German>Set ramp to the middle level</German>
+				<Italian>Set ramp to the middle level</Italian>
+				<Polish>Set ramp to the middle level</Polish>
+				<Portuguese>Set ramp to the middle level</Portuguese>
+				<Russian>Set ramp to the middle level</Russian>
+				<Spanish>Establecer rampa a nivel</Spanish>
+				<Japanese>ランプを中間レベルに設定</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_lcm_ramp_subir">
+				<Original>Raise ramp</Original>
+				<English>Raise ramp</English>
+				<Czech>Raise ramp</Czech>
+				<French>Raise ramp</French>
+				<German>Raise ramp</German>
+				<Italian>Raise ramp</Italian>
+				<Polish>Raise ramp</Polish>
+				<Portuguese>Raise ramp</Portuguese>
+				<Russian>Raise ramp</Russian>
+				<Spanish>Subir rampa</Spanish>
+				<Japanese>ランプを上げる</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_lcm_ramp_bajar">
+				<Original>Lower ramp</Original>
+				<English>Lower ramp</English>
+				<Czech>Lower ramp</Czech>
+				<French>Lower ramp</French>
+				<German>Lower ramp</German>
+				<Italian>Lower ramp</Italian>
+				<Polish>Lower ramp</Polish>
+				<Portuguese>Lower ramp</Portuguese>
+				<Russian>Lower ramp</Russian>
+				<Spanish>Bajar rampa</Spanish>
+				<Japanese>ランプを下げる</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_lcm_ramp_tras_subir">
+				<Original>Raise rear ramp</Original>
+				<English>Raise rear ramp</English>
+				<Czech>Raise rear ramp</Czech>
+				<French>Raise rear ramp</French>
+				<German>Raise rear ramp</German>
+				<Italian>Raise rear ramp</Italian>
+				<Polish>Raise rear ramp</Polish>
+				<Portuguese>Raise rear ramp</Portuguese>
+				<Russian>Raise rear ramp</Russian>
+				<Spanish>Subir rampa trasera</Spanish>
+				<Japanese>後部ランプを上げる</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_lcm_ramp_tras_bajar">
+				<Original>Lower rear ramp</Original>
+				<English>Lower rear ramp</English>
+				<Czech>Lower rear ramp</Czech>
+				<French>Lower rear ramp</French>
+				<German>Lower rear ramp</German>
+				<Italian>Lower rear ramp</Italian>
+				<Polish>Lower rear ramp</Polish>
+				<Portuguese>Lower rear ramp</Portuguese>
+				<Russian>Lower rear ramp</Russian>
+				<Spanish>Bajar rampa trasera</Spanish>
+				<Japanese>後部ランプを下げる</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_lcm_asegurar">
+				<Original>Attach vehicle to the cover</Original>
+				<English>Attach vehicle to the cover</English>
+				<Czech>Attach vehicle to the cover</Czech>
+				<French>Attach vehicle to the cover</French>
+				<German>Attach vehicle to the cover</German>
+				<Italian>Attach vehicle to the cover</Italian>
+				<Polish>Attach vehicle to the cover</Polish>
+				<Portuguese>Attach vehicle to the cover</Portuguese>
+				<Russian>Attach vehicle to the cover</Russian>
+				<Spanish>Asegurar vehiculo en cubierta</Spanish>
+				<Japanese>カバーに車両を取りつけ</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_lcm_liberar">
+				<Original>Detach vehicle</Original>
+				<English>Detach vehicle</English>
+				<Czech>Detach vehicle</Czech>
+				<French>Detach vehicle</French>
+				<German>Detach vehicle</German>
+				<Italian>Detach vehicle</Italian>
+				<Polish>Detach vehicle</Polish>
+				<Portuguese>Detach vehicle</Portuguese>
+				<Russian>Detach vehicle</Russian>
+				<Spanish>Liberar vehiculo</Spanish>
+				<Japanese>車両を外す</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_lcm_no_pos">
+				<Original>VEHICLE IS NOT IN POSITION</Original>
+				<English>VEHICLE IS NOT IN POSITION</English>
+				<Czech>VEHICLE IS NOT IN POSITION</Czech>
+				<French>VEHICLE IS NOT IN POSITION</French>
+				<German>VEHICLE IS NOT IN POSITION</German>
+				<Italian>VEHICLE IS NOT IN POSITION</Italian>
+				<Polish>VEHICLE IS NOT IN POSITION</Polish>
+				<Portuguese>VEHICLE IS NOT IN POSITION</Portuguese>
+				<Russian>VEHICLE IS NOT IN POSITION</Russian>
+				<Spanish>EL VEHICULO NO ESTA EN POSICION</Spanish>
+				<Japanese>車両は位置にありません</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_lcm_anclado">
+				<Original>VEHICLE ATTACHED</Original>
+				<English>VEHICLE ATTACHED</English>
+				<Czech>VEHICLE ATTACHED</Czech>
+				<French>VEHICLE ATTACHED</French>
+				<German>VEHICLE ATTACHED</German>
+				<Italian>VEHICLE ATTACHED</Italian>
+				<Polish>VEHICLE ATTACHED</Polish>
+				<Portuguese>VEHICLE ATTACHED</Portuguese>
+				<Russian>VEHICLE ATTACHED</Russian>
+				<Spanish>VEHICULO ANCLADO</Spanish>
+				<Japanese>車両が取りつけられた</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_lcm_subir">
+				<Original>to upper</Original>
+				<English>to upper</English>
+				<Czech>to upper</Czech>
+				<French>to upper</French>
+				<German>to upper</German>
+				<Italian>to upper</Italian>
+				<Polish>to upper</Polish>
+				<Portuguese>to upper</Portuguese>
+				<Russian>to upper</Russian>
+				<Spanish>Subir por escala</Spanish>
+				<Japanese>上に</Japanese>
+			</Key>
+		</Container>
+	</Package>
 </Project>
