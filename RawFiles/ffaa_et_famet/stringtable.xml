@@ -1,159 +1,163 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Project 
-  name="ffaa">
-  <Package
-    name="ffaa_et_famet">
-	<Container
-	 name="famet">
-	<Key ID="str_ffaa_boina_famet">
-      <Original>Beret (FAMET)</Original>
-      <English>Beret (FAMET)</English>
-      <Czech>Beret (FAMET)</Czech>
-      <French>Beret (FAMET)</French>
-      <German>Beret (FAMET)</German>
-      <Italian>Beret (FAMET)</Italian>
-      <Polish>Beret (FAMET)</Polish>
-      <Portuguese>Beret (FAMET)</Portuguese>
-      <Russian>Beret (FAMET)</Russian>
-      <Spanish>Boina (FAMET)</Spanish>
-   </Key>
-    <Key 
-	  ID="str_ffaa_piloto_famet">
-      <Original>wl FAMET Pilot</Original>
-      <English>wl FAMET Pilot</English>
-      <Czech>wl FAMET Pilot</Czech>
-      <French>wl FAMET Pilot</French>
-      <German>wl FAMET Pilot</German>
-      <Italian>wl FAMET Pilot</Italian>
-      <Polish>wl FAMET Pilot</Polish>
-      <Portuguese>wl FAMET Pilot</Portuguese>
-      <Russian>wl FAMET Pilot</Russian>
-      <Spanish>bs Piloto FAMET</Spanish>
-   </Key>
-   <Key 
-	  ID="str_ffaa_piloto_tigre_famet">
-      <Original>FAMET Tiger Pilot</Original>
-      <English>FAMET Tiger Pilot</English>
-      <Czech>FAMET Tiger Pilot</Czech>
-      <French>FAMET Tiger Pilot</French>
-      <German>FAMET Tiger Pilot</German>
-      <Italian>FAMET Tiger Pilot</Italian>
-      <Polish>FAMET Tiger Pilot</Polish>
-      <Portuguese>FAMET Tiger Pilot</Portuguese>
-      <Russian>FAMET Tiger Pilot</Russian>
-      <Spanish>Piloto Tigre FAMET</Spanish>
-   </Key>
-   <Key 
-	  ID="str_ffaa_piloto_famet_des">
-      <Original>ds FAMET Pilot</Original>
-      <English>ds FAMET Pilot</English>
-      <Czech>ds FAMET Pilot</Czech>
-      <French>ds FAMET Pilot</French>
-      <German>ds FAMET Pilot</German>
-      <Italian>ds FAMET Pilot</Italian>
-      <Polish>ds FAMET Pilot</Polish>
-      <Portuguese>ds FAMET Pilot</Portuguese>
-      <Russian>ds FAMET Pilot</Russian>
-      <Spanish>ds Piloto FAMET</Spanish>
-   </Key>
-   <Key 
-	  ID="str_ffaa_crew_famet_des">
-      <Original>ds FAMET Crew</Original>
-      <English>ds FAMET Crew</English>
-      <Czech>ds FAMET Crew</Czech>
-      <French>ds FAMET Crew</French>
-      <German>ds FAMET Crew</German>
-      <Italian>ds FAMET Crew</Italian>
-      <Polish>ds FAMET Crew</Polish>
-      <Portuguese>ds FAMET Crew</Portuguese>
-      <Russian>ds FAMET Crew</Russian>
-      <Spanish>ds Tripulación FAMET</Spanish>
-   </Key>
-      <Key 
-	  ID="str_ffaa_crew_famet">
-      <Original>wl FAMET Crew</Original>
-      <English>wl FAMET Crew</English>
-      <Czech>wl FAMET Crew</Czech>
-      <French>wl FAMET Crew</French>
-      <German>wl FAMET Crew</German>
-      <Italian>wl FAMET Crew</Italian>
-      <Polish>wl FAMET Crew</Polish>
-      <Portuguese>wl FAMET Crew</Portuguese>
-      <Russian>wl FAMET Crew</Russian>
-      <Spanish>bs Tripulación FAMET</Spanish>
-   </Key>
-   <Key ID="str_ffaa_classe_famet">
-      <Original>Men (FAMET)</Original>
-      <English>Men (FAMET)</English>
-      <Czech>Men (FAMET)</Czech>
-      <French>Hommes (FAMET)</French>
-      <German>Männer (FAMET)</German>
-      <Italian>Uomini (FAMET)</Italian>
-      <Polish>Men (FAMET)</Polish>
-      <Portuguese>Homens (FAMET)</Portuguese>
-      <Russian>Men (FAMET)</Russian>
-      <Spanish>Hombres (FAMET)</Spanish>
-   </Key>
-   <Key ID="str_ffaa_famet_uniforme">
-            <Original>Heli Pilot Coveralls (Woodland) [FFAA]</Original>
-            <English>Heli Pilot Coveralls (Woodland) [FFAA]</English>
-            <Czech>Heli Pilot Coveralls (Woodland) [FFAA]</Czech>
-            <French>Heli Pilot Coveralls (Woodland) [FFAA]</French>
-            <German>Heli Pilot Coveralls (Woodland) [FFAA]</German>
-            <Italian>Heli Pilot Coveralls (Woodland) [FFAA]</Italian>
-            <Polish>Heli Pilot Coveralls (Woodland) [FFAA]</Polish>
-            <Portuguese>Heli Pilot Coveralls (Woodland) [FFAA]</Portuguese>
-            <Russian>Heli Pilot Coveralls (Woodland) [FFAA]</Russian>
-            <Spanish>Mono de piloto de helicóptero (Boscoso) [FFAA]</Spanish>
-   </Key>
-   <Key ID="str_ffaa_famet_uniforme_des">
-			<Original>Heli Pilot Coveralls (Desert) [FFAA]</Original>
-            <English>Heli Pilot Coveralls (Desert) [FFAA]</English>
-            <Czech>Heli Pilot Coveralls (Desert) [FFAA]</Czech>
-            <French>Heli Pilot Coveralls (Desert) [FFAA]</French>
-            <German>Heli Pilot Coveralls (Desert) [FFAA]</German>
-            <Italian>Heli Pilot Coveralls (Desert) [FFAA]</Italian>
-            <Polish>Heli Pilot Coveralls (Desert) [FFAA]</Polish>
-            <Portuguese>Heli Pilot Coveralls (Desert) [FFAA]</Portuguese>
-            <Russian>Heli Pilot Coveralls (Desert) [FFAA]</Russian>
-            <Spanish>Mono de piloto de helicóptero (Desertico) [FFAA]</Spanish>
-   </Key>
-	<Key ID="str_ffaa_casco_famet_piloto">
-            <Original>Heli Pilot Helmet [FFAA]</Original>
-            <English>Heli Pilot Helmet [FFAA]</English>
-            <Czech>Přilba pilota helikoptéry [FFAA]</Czech>
-            <French>Casque de pilote d'hélico [FFAA]</French>
-            <German>Helipilotenhelm [FFAA]</German>
-            <Italian>Heli Pilot Helmet [FFAA]</Italian>
-            <Polish>Hełm pilota śmigłowca [FFAA]</Polish>
-            <Portuguese>Capacete de Piloto de Helicóptero [FFAA]</Portuguese>
-            <Russian>Шлем вертолетчика [FFAA]</Russian>
-            <Spanish>Casco de piloto de helicóptero [FFAA]</Spanish>
-	</Key>
-	<Key ID="str_ffaa_casco_famet_crew">
-            <Original>Heli Crew Helmet [FFAA]</Original>
-            <English>Heli Crew Helmet [FFAA]</English>
-            <Czech>Přilba posádky helikoptéry [FFAA]</Czech>
-            <French>Casque d'équipage d'hélico [FFAA]</French>
-            <German>Helicrew-Helm [FFAA]</German>
-            <Italian>Casco equipaggio elicottero [FFAA]</Italian>
-            <Polish>Hełm załogi śmigłowca [FFAA]</Polish>
-            <Portuguese>Capacete de tripulação de helicóptero [FFAA]</Portuguese>
-            <Russian>Вертолетный шлем [FFAA]</Russian>
-            <Spanish>Casco de tripulación de helicóptero [FFAA]</Spanish>
-	</Key>
-	<Key ID="str_ffaa_casco_famet_tigre">
-            <Original>HMSD TopOwl Helmet</Original>
-            <English>HMSD TopOwl Helmet</English>
-            <Czech>HMSD TopOwl Helmet</Czech>
-            <French>HMSD TopOwl Helmet</French>
-            <German>HMSD TopOwl Helmet</German>
-            <Italian>HMSD TopOwl Helmet</Italian>
-            <Polish>HMSD TopOwl Helmet</Polish>
-            <Portuguese>HMSD TopOwl Helmet</Portuguese>
-            <Russian>HMSD TopOwl Helmet</Russian>
-            <Spanish>Casco HMSD TopOwl</Spanish>
-	</Key>
-	</Container>
- </Package>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_et_famet">
+		<Container name="famet">
+			<Key ID="str_ffaa_boina_famet">
+				<Original>Beret (FAMET)</Original>
+				<English>Beret (FAMET)</English>
+				<Czech>Beret (FAMET)</Czech>
+				<French>Beret (FAMET)</French>
+				<German>Beret (FAMET)</German>
+				<Italian>Beret (FAMET)</Italian>
+				<Polish>Beret (FAMET)</Polish>
+				<Portuguese>Beret (FAMET)</Portuguese>
+				<Russian>Beret (FAMET)</Russian>
+				<Spanish>Boina (FAMET)</Spanish>
+				<Japanese>ベレー帽 (FAMET)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_piloto_famet">
+				<Original>wl FAMET Pilot</Original>
+				<English>wl FAMET Pilot</English>
+				<Czech>wl FAMET Pilot</Czech>
+				<French>wl FAMET Pilot</French>
+				<German>wl FAMET Pilot</German>
+				<Italian>wl FAMET Pilot</Italian>
+				<Polish>wl FAMET Pilot</Polish>
+				<Portuguese>wl FAMET Pilot</Portuguese>
+				<Russian>wl FAMET Pilot</Russian>
+				<Spanish>bs Piloto FAMET</Spanish>
+				<Japanese>森林 FAMET パイロット</Japanese>
+			</Key>
+			<Key ID="str_ffaa_piloto_tigre_famet">
+				<Original>FAMET Tiger Pilot</Original>
+				<English>FAMET Tiger Pilot</English>
+				<Czech>FAMET Tiger Pilot</Czech>
+				<French>FAMET Tiger Pilot</French>
+				<German>FAMET Tiger Pilot</German>
+				<Italian>FAMET Tiger Pilot</Italian>
+				<Polish>FAMET Tiger Pilot</Polish>
+				<Portuguese>FAMET Tiger Pilot</Portuguese>
+				<Russian>FAMET Tiger Pilot</Russian>
+				<Spanish>Piloto Tigre FAMET</Spanish>
+				<Japanese>FAMET ティガー パイロット</Japanese>
+			</Key>
+			<Key ID="str_ffaa_piloto_famet_des">
+				<Original>ds FAMET Pilot</Original>
+				<English>ds FAMET Pilot</English>
+				<Czech>ds FAMET Pilot</Czech>
+				<French>ds FAMET Pilot</French>
+				<German>ds FAMET Pilot</German>
+				<Italian>ds FAMET Pilot</Italian>
+				<Polish>ds FAMET Pilot</Polish>
+				<Portuguese>ds FAMET Pilot</Portuguese>
+				<Russian>ds FAMET Pilot</Russian>
+				<Spanish>ds Piloto FAMET</Spanish>
+				<Japanese>砂漠 FAMET パイロット</Japanese>
+			</Key>
+			<Key ID="str_ffaa_crew_famet_des">
+				<Original>ds FAMET Crew</Original>
+				<English>ds FAMET Crew</English>
+				<Czech>ds FAMET Crew</Czech>
+				<French>ds FAMET Crew</French>
+				<German>ds FAMET Crew</German>
+				<Italian>ds FAMET Crew</Italian>
+				<Polish>ds FAMET Crew</Polish>
+				<Portuguese>ds FAMET Crew</Portuguese>
+				<Russian>ds FAMET Crew</Russian>
+				<Spanish>ds Tripulación FAMET</Spanish>
+				<Japanese>森林 FAMET 乗員</Japanese>
+			</Key>
+			<Key ID="str_ffaa_crew_famet">
+				<Original>wl FAMET Crew</Original>
+				<English>wl FAMET Crew</English>
+				<Czech>wl FAMET Crew</Czech>
+				<French>wl FAMET Crew</French>
+				<German>wl FAMET Crew</German>
+				<Italian>wl FAMET Crew</Italian>
+				<Polish>wl FAMET Crew</Polish>
+				<Portuguese>wl FAMET Crew</Portuguese>
+				<Russian>wl FAMET Crew</Russian>
+				<Spanish>bs Tripulación FAMET</Spanish>
+				<Japanese>森林 FAMET 乗員</Japanese>
+			</Key>
+			<Key ID="str_ffaa_classe_famet">
+				<Original>Men (FAMET)</Original>
+				<English>Men (FAMET)</English>
+				<Czech>Men (FAMET)</Czech>
+				<French>Hommes (FAMET)</French>
+				<German>Männer (FAMET)</German>
+				<Italian>Uomini (FAMET)</Italian>
+				<Polish>Men (FAMET)</Polish>
+				<Portuguese>Homens (FAMET)</Portuguese>
+				<Russian>Men (FAMET)</Russian>
+				<Spanish>Hombres (FAMET)</Spanish>
+				<Japanese>兵士 (FAMET)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_famet_uniforme">
+				<Original>Heli Pilot Coveralls (Woodland) [FFAA]</Original>
+				<English>Heli Pilot Coveralls (Woodland) [FFAA]</English>
+				<Czech>Heli Pilot Coveralls (Woodland) [FFAA]</Czech>
+				<French>Heli Pilot Coveralls (Woodland) [FFAA]</French>
+				<German>Heli Pilot Coveralls (Woodland) [FFAA]</German>
+				<Italian>Heli Pilot Coveralls (Woodland) [FFAA]</Italian>
+				<Polish>Heli Pilot Coveralls (Woodland) [FFAA]</Polish>
+				<Portuguese>Heli Pilot Coveralls (Woodland) [FFAA]</Portuguese>
+				<Russian>Heli Pilot Coveralls (Woodland) [FFAA]</Russian>
+				<Spanish>Mono de piloto de helicóptero (Boscoso) [FFAA]</Spanish>
+				<Japanese>ヘリ パイロット服 (森林) [FFAA]</Japanese>
+			</Key>
+			<Key ID="str_ffaa_famet_uniforme_des">
+				<Original>Heli Pilot Coveralls (Desert) [FFAA]</Original>
+				<English>Heli Pilot Coveralls (Desert) [FFAA]</English>
+				<Czech>Heli Pilot Coveralls (Desert) [FFAA]</Czech>
+				<French>Heli Pilot Coveralls (Desert) [FFAA]</French>
+				<German>Heli Pilot Coveralls (Desert) [FFAA]</German>
+				<Italian>Heli Pilot Coveralls (Desert) [FFAA]</Italian>
+				<Polish>Heli Pilot Coveralls (Desert) [FFAA]</Polish>
+				<Portuguese>Heli Pilot Coveralls (Desert) [FFAA]</Portuguese>
+				<Russian>Heli Pilot Coveralls (Desert) [FFAA]</Russian>
+				<Spanish>Mono de piloto de helicóptero (Desertico) [FFAA]</Spanish>
+				<Japanese>ヘリ パイロット服 (砂漠) [FFAA]</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_famet_piloto">
+				<Original>Heli Pilot Helmet [FFAA]</Original>
+				<English>Heli Pilot Helmet [FFAA]</English>
+				<Czech>Přilba pilota helikoptéry [FFAA]</Czech>
+				<French>Casque de pilote d'hélico [FFAA]</French>
+				<German>Helipilotenhelm [FFAA]</German>
+				<Italian>Heli Pilot Helmet [FFAA]</Italian>
+				<Polish>Hełm pilota śmigłowca [FFAA]</Polish>
+				<Portuguese>Capacete de Piloto de Helicóptero [FFAA]</Portuguese>
+				<Russian>Шлем вертолетчика [FFAA]</Russian>
+				<Spanish>Casco de piloto de helicóptero [FFAA]</Spanish>
+				<Japanese>ヘリ パイロットのヘルメット [FFAA]</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_famet_crew">
+				<Original>Heli Crew Helmet [FFAA]</Original>
+				<English>Heli Crew Helmet [FFAA]</English>
+				<Czech>Přilba posádky helikoptéry [FFAA]</Czech>
+				<French>Casque d'équipage d'hélico [FFAA]</French>
+				<German>Helicrew-Helm [FFAA]</German>
+				<Italian>Casco equipaggio elicottero [FFAA]</Italian>
+				<Polish>Hełm załogi śmigłowca [FFAA]</Polish>
+				<Portuguese>Capacete de tripulação de helicóptero [FFAA]</Portuguese>
+				<Russian>Вертолетный шлем [FFAA]</Russian>
+				<Spanish>Casco de tripulación de helicóptero [FFAA]</Spanish>
+				<Japanese>ヘリ乗員のヘルメット [FFAA]</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_famet_tigre">
+				<Original>HMSD TopOwl Helmet</Original>
+				<English>HMSD TopOwl Helmet</English>
+				<Czech>HMSD TopOwl Helmet</Czech>
+				<French>HMSD TopOwl Helmet</French>
+				<German>HMSD TopOwl Helmet</German>
+				<Italian>HMSD TopOwl Helmet</Italian>
+				<Polish>HMSD TopOwl Helmet</Polish>
+				<Portuguese>HMSD TopOwl Helmet</Portuguese>
+				<Russian>HMSD TopOwl Helmet</Russian>
+				<Spanish>Casco HMSD TopOwl</Spanish>
+				<Japanese>HMSD TopOwl ヘルメット</Japanese>
+			</Key>
+		</Container>
+	</Package>
 </Project>
