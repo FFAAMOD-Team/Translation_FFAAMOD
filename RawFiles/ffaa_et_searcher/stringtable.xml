@@ -13,6 +13,7 @@
 			<Portuguese>Ground Control Station</Portuguese>
 			<Russian>Ground Control Station</Russian>
 			<Spanish>Estación de Control Terrestre</Spanish>
+			<Japanese>地上管制所</Japanese>
 		</Key>
 		<Key ID="str_ffaa_uav_artillero">
 			<Original>UAV Operator</Original>
@@ -25,6 +26,7 @@
 			<Portuguese>UAV Operator</Portuguese>
 			<Russian>UAV Operator</Russian>
 			<Spanish>Operador UAV</Spanish>
+			<Japanese>UAV オペレーター</Japanese>
 		</Key>
 	</Container>
  </Package>
