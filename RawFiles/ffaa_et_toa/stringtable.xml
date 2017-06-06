@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project name="ffaa">
 	<Package name="ffaa_et_toa">
 		<Container name="toa">
@@ -13,6 +13,7 @@
 				<Portuguese>TOA M113 (M2)</Portuguese>
 				<Russian>TOA M113 (M2)</Russian>
 				<Spanish>TOA M113 (M2)</Spanish>
+				<Japanese>TOA M113 (M2)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_toa_spike">
 				<Original>TOA M113 (Spike)</Original>
@@ -25,6 +26,7 @@
 				<Portuguese>TOA M113 (Spike)</Portuguese>
 				<Russian>TOA M113 (Spike)</Russian>
 				<Spanish>TOA M113 (Spike)</Spanish>
+				<Japanese>TOA M113 (スパイク)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_toa_mando">
 				<Original>TOA M577 (HQ)</Original>
@@ -37,6 +39,7 @@
 				<Portuguese>TOA M577 (HQ)</Portuguese>
 				<Russian>TOA M577 (HQ)</Russian>
 				<Spanish>TOA M577 (Mando)</Spanish>
+				<Japanese>TOA M113 (指揮)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_toa_ambulancia">
 				<Original>TOA M113 (Medical)</Original>
@@ -49,6 +52,7 @@
 				<Portuguese>TOA M113 (Medical)</Portuguese>
 				<Russian>TOA M113 (Medical)</Russian>
 				<Spanish>TOA M113 (Ambulancia)</Spanish>
+				<Japanese>TOA M113 (医療)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_toa_zapador">
 				<Original>TOA M113 (Sapper)</Original>
@@ -61,6 +65,7 @@
 				<Portuguese>TOA M113 (Sapper)</Portuguese>
 				<Russian>TOA M113 (Sapper)</Russian>
 				<Spanish>TOA M113 (Zapador)</Spanish>
+				<Japanese>TOA M113 (工兵)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_toamando_montartoldo">
 				<Original>Deploy cover</Original>
@@ -73,6 +78,7 @@
 				<Portuguese>Deploy cover</Portuguese>
 				<Russian>Deploy cover</Russian>
 				<Spanish>Montar toldo</Spanish>
+				<Japanese>カバーを展開</Japanese>
 			</Key>
 			<Key ID="str_ffaa_toamando_quitartoldo">
 				<Original>Undeploy cover</Original>
@@ -85,6 +91,7 @@
 				<Portuguese>Undeploy cover</Portuguese>
 				<Russian>Undeploy cover</Russian>
 				<Spanish>Desmontar toldo</Spanish>
+				<Japanese>カバーを収納</Japanese>
 			</Key>
 			<Key ID="str_ffaa_toamando_bajarpala">
 				<Original>Lower front shovel</Original>
@@ -97,6 +104,7 @@
 				<Portuguese>Lower front shovel</Portuguese>
 				<Russian>Lower front shovel</Russian>
 				<Spanish>Bajar pala</Spanish>
+				<Japanese>前のスペードを下げる</Japanese>
 			</Key>
 			<Key ID="str_ffaa_toamando_subirpala">
 				<Original>Lift front shovel</Original>
@@ -109,6 +117,7 @@
 				<Portuguese>Lift front shovel</Portuguese>
 				<Russian>Lift front shovel</Russian>
 				<Spanish>Levantar pala</Spanish>
+				<Japanese>前のスペードを上げる</Japanese>
 			</Key>
 			<Key ID="str_ffaa_toamando_retraerpala">
 				<Original>Retract front shovel</Original>
@@ -121,6 +130,7 @@
 				<Portuguese>Retract front shovel</Portuguese>
 				<Russian>Retract front shovel</Russian>
 				<Spanish>Retraer pala</Spanish>
+				<Japanese>スペードを戻す</Japanese>
 			</Key>
 			<Key ID="str_ffaa_toa_cargo_turret">
 				<Original>Commander</Original>
@@ -133,6 +143,7 @@
 				<Portuguese>Comandante</Portuguese>
 				<Russian>командир</Russian>
 				<Spanish>Comandante</Spanish>
+				<Japanese>車長</Japanese>
 			</Key>
 			<Key ID="str_ffaa_tank_platoon_toa">
 				<Original>TOA Platoon</Original>
@@ -145,6 +156,7 @@
 				<Portuguese>TOA Platoon</Portuguese>
 				<Russian>TOA Platoon</Russian>
 				<Spanish>Escuadrón de Transporte Oruga Acorazado</Spanish>
+				<Japanese>TOA 小隊</Japanese>
 			</Key>
 			<Key ID="str_ffaa_lib_toa">
 				<Original>El transporte M113 es un vehículo blindado de tracción por cadenas destinado para el transporte de personal, material y varias armas. El Ejército de tierra dispone de alrededor de 850 vehículos TOA M113 de origen estadounidense, que entraron en servicio a partir de 1963. Son conocidas comúnmente con las siglas TAP (Transporte Acorazado de Personal) o TOA (Transporte Oruga Acorazado).</Original>
@@ -158,7 +170,7 @@
 				<German>El transporte M113 es un vehículo blindado de tracción por cadenas destinado para el transporte de personal, material y varias armas. El Ejército de tierra dispone de alrededor de 850 vehículos TOA M113 de origen estadounidense, que entraron en servicio a partir de 1963. Son conocidas comúnmente con las siglas TAP (Transporte Acorazado de Personal) o TOA (Transporte Oruga Acorazado).</German>
 				<Czech>El transporte M113 es un vehículo blindado de tracción por cadenas destinado para el transporte de personal, material y varias armas. El Ejército de tierra dpone de alrededor de 850 vehículos TOA M113 de origen estadounidense, que entraron en servicio a partir de 1963. Son conocidas comúnmente con las siglas TAP (Transporte Acorazado de Personal) o TOA (Transporte Oruga Acorazado).</Czech>
 				<English>El transporte M113 es un vehículo blindado de tracción por cadenas destinado para el transporte de personal, material y varias armas. El Ejército de tierra dispone de alrededor de 850 vehículos TOA M113 de origen estadounidense, que entraron en servicio a partir de 1963. Son conocidas comúnmente con las siglas TAP (Transporte Acorazado de Personal) o TOA (Transporte Oruga Acorazado).</English>
-				<Japanese>El transporte M113 es un vehículo blindado de tracción por cadenas destinado para el transporte de personal, material y varias armas. El Ejército de tierra dispone de alrededor de 850 vehículos TOA M113 de origen estadounidense, que entraron en servicio a partir de 1963. Son conocidas comúnmente con las siglas TAP (Transporte Acorazado de Personal) o TOA (Transporte Oruga Acorazado).</Japanese>
+				<Japanese>N113 は装甲歩兵輸送車である。オリジナルの TOA M113 車両は 1963 年から 850 両が軍で使われており、主に TAP (Transporte Acorazado de Personal) や TOA (Transporte Oruga Acorazado) と略して呼称される。</Japanese>
 			</Key>
 		</Container>
 	</Package>
