@@ -1,226 +1,242 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Project 
-  name="ffaa">
-  <Package name="ffaa_et_vamtac">
-	<Container name="vamtac">
-	<Key ID="str_ffaa_dn_vamtac_m2">
-      <Original>Vamtac (M2)</Original>
-      <English>Vamtac (M2)</English>
-      <Czech>Vamtac (M2)</Czech>
-      <French>Vamtac (M2)</French>
-      <German>Vamtac (M2)</German>
-      <Italian>Vamtac (M2)</Italian>
-      <Polish>Vamtac (M2)</Polish>
-      <Portuguese>Vamtac (M2)</Portuguese>
-      <Russian>Vamtac (M2)</Russian>
-      <Spanish>Vamtac (M2)</Spanish>
-   </Key>
-	  <Key ID="str_ffaa_dn_vamtac_tow">
-      <Original>Vamtac (TOW)</Original>
-      <English>Vamtac (TOW)</English>
-      <Czech>Vamtac (TOW)</Czech>
-      <French>Vamtac (TOW)</French>
-      <German>Vamtac (TOW)</German>
-      <Italian>Vamtac (TOW)</Italian>
-      <Polish>Vamtac (TOW)</Polish>
-      <Portuguese>Vamtac (TOW)</Portuguese>
-      <Russian>Vamtac (TOW)</Russian>
-      <Spanish>Vamtac (TOW)</Spanish>
-   </Key>
-	  <Key ID="str_ffaa_dn_vamtac_lag">
-      <Original>Vamtac (LAG40)</Original>
-      <English>Vamtac (LAG40)</English>
-      <Czech>Vamtac (LAG40)</Czech>
-      <French>Vamtac (LAG40)</French>
-      <German>Vamtac (LAG40)</German>
-      <Italian>Vamtac (LAG40)</Italian>
-      <Polish>Vamtac (LAG40)</Polish>
-      <Portuguese>Vamtac (LAG40)</Portuguese>
-      <Russian>Vamtac (LAG40)</Russian>
-      <Spanish>Vamtac (LAG40)</Spanish>
-   </Key>
-	  <Key ID="str_ffaa_dn_vamtac_ume">
-      <Original>Vamtac (UME)</Original>
-      <English>Vamtac (UME)</English>
-      <Czech>Vamtac (UME)</Czech>
-      <French>Vamtac (UME)</French>
-      <German>Vamtac (UME)</German>
-      <Italian>Vamtac (UME)</Italian>
-      <Polish>Vamtac (UME)</Polish>
-      <Portuguese>Vamtac (UME)</Portuguese>
-      <Russian>Vamtac (UME)</Russian>
-      <Spanish>Vamtac (UME)</Spanish>
-   </Key>
-	<Key ID="str_ffaa_dn_vamtac_ambu">
-      <Original>Vamtac Ambulance</Original>
-      <English>Vamtac Ambulance</English>
-      <Czech>Vamtac Ambulance</Czech>
-      <French>Vamtac Ambulancia</French>
-      <German>Vamtac Krankenwagen</German>
-      <Italian>Vamtac Ambulanza</Italian>
-      <Polish>Vamtac Ambulance</Polish>
-      <Portuguese>Vamtac Ambulância</Portuguese>
-      <Russian>Vamtac Ambulance</Russian>
-      <Spanish>Vamtac Ambulancia</Spanish>
-   </Key>
-	<Key ID="str_ffaa_dn_vamtac_estaci">
-      <Original>Vamtac Station</Original>
-      <English>Vamtac Station</English>
-      <Czech>Vamtac Station</Czech>
-      <French>Vamtac Poste</French>
-      <German>Vamtac Station</German>
-      <Italian>Vamtac Stazione</Italian>
-      <Polish>Vamtac Station</Polish>
-      <Portuguese>Vamtac Estação</Portuguese>
-      <Russian>Vamtac Station</Russian>
-      <Spanish>Vamtac Estacion</Spanish>
-   </Key>
-	<Key ID="str_ffaa_dn_vamtac_taller">
-      <Original>Vamtac Taller</Original>
-      <English>Vamtac Taller</English>
-      <Czech>Vamtac Taller</Czech>
-      <French>Vamtac Taller</French>
-      <German>Vamtac Taller</German>
-      <Italian>Vamtac Taller</Italian>
-      <Polish>Vamtac Taller</Polish>
-      <Portuguese>Vamtac Taller</Portuguese>
-      <Russian>Vamtac Taller</Russian>
-      <Spanish>Vamtac Taller</Spanish>
-   </Key>
-	<Key ID="str_ffaa_dn_vamtac_mistral">
-      <Original>Vamtac Mistral</Original>
-      <English>Vamtac Mistral</English>
-      <Czech>Vamtac Mistral</Czech>
-      <French>Vamtac Mistral</French>
-      <German>Vamtac Mistral</German>
-      <Italian>Vamtac Mistral</Italian>
-      <Polish>Vamtac Mistral</Polish>
-      <Portuguese>Vamtac Mistral</Portuguese>
-      <Russian>Vamtac Mistral</Russian>
-      <Spanish>Vamtac Mistral</Spanish>
-   </Key>
-	<Key ID="str_ffaa_dn_vamtac_crows">
-      <Original>Vamtac crows (M2)</Original>
-      <English>Vamtac crows (M2)</English>
-      <Czech>Vamtac crows (M2)</Czech>
-      <French>Vamtac crows (M2)</French>
-      <German>Vamtac crows (M2)</German>
-      <Italian>Vamtac crows (M2)</Italian>
-      <Polish>Vamtac crows (M2)</Polish>
-      <Portuguese>Vamtac crows (M2)</Portuguese>
-      <Russian>Vamtac crows (M2)</Russian>
-      <Spanish>Vamtac crows (M2)</Spanish>
-   </Key>
-	<Key ID="str_ffaa_dn_vamtac_cardom">
-      <Original>Vamtac Cardom</Original>
-      <English>Vamtac Cardom</English>
-      <Czech>Vamtac Cardom</Czech>
-      <French>Vamtac Cardom</French>
-      <German>Vamtac Cardom</German>
-      <Italian>Vamtac Cardom</Italian>
-      <Polish>Vamtac Cardom</Polish>
-      <Portuguese>Vamtac Cardom</Portuguese>
-      <Russian>Vamtac Cardom</Russian>
-      <Spanish>Vamtac Cardom</Spanish>
-   </Key>
-   	<Key ID="str_ffaa_dn_vamtac_trans">
-      <Original>Vamtac Transport</Original>
-      <English>Vamtac Transport</English>
-      <Czech>Vamtac Transport</Czech>
-      <French>Vamtac Transport</French>
-      <German>Vamtac Transport</German>
-      <Italian>Vamtac Transport</Italian>
-      <Polish>Vamtac Transport</Polish>
-      <Portuguese>Vamtac Transport</Portuguese>
-      <Russian>Vamtac Transport</Russian>
-      <Spanish>Vamtac Transporte</Spanish>
-   </Key>
-   	<Key ID="str_ffaa_dn_vamtac_trans_blind">
-      <Original>Vamtac Transport (Armored)</Original>
-      <English>Vamtac Transport (Armored)</English>
-      <Czech>Vamtac Transport (Armored)</Czech>
-      <French>Vamtac Transport (Armored)</French>
-      <German>Vamtac Transport (Armored)</German>
-      <Italian>Vamtac Transport (Armored)</Italian>
-      <Polish>Vamtac Transport (Armored)</Polish>
-      <Portuguese>Vamtac Transport (Armored)</Portuguese>
-      <Russian>Vamtac Transport (Armored)</Russian>
-      <Spanish>Vamtac Transporte (Blindado)</Spanish>
-   </Key>
-   <Key ID="str_ffaa_vamtac_quitartoldo">
-      <Original>Quitar toldo</Original>
-      <English>Release cover</English>
-      <Czech>Release cover</Czech>
-      <French>Release cover</French>
-      <German>Release cover</German>
-      <Italian>Release cover</Italian>
-      <Polish>Release cover</Polish>
-      <Portuguese>Release cover</Portuguese>
-      <Russian>Release cover</Russian>
-      <Spanish>Desmontar toldo</Spanish>
-   </Key>
-   <Key ID="str_ffaa_vamtac_montartoldo">
-      <Original>Montar toldo</Original>
-      <English>Mount cover</English>
-      <Czech>Mount cover</Czech>
-      <French>Mount cover</French>
-      <German>Mount cover</German>
-      <Italian>Mount cover</Italian>
-      <Polish>Mount cover</Polish>
-      <Portuguese>Mount cover</Portuguese>
-      <Russian>Mount cover</Russian>
-      <Spanish>Montar toldo</Spanish>
-   </Key>
-      <Key ID="str_ffaa_vamtac_subir_fijacion">
-      <Original>Retract hydraulic support</Original>
-      <English>Retract hydraulic support</English>
-      <Czech>Retract hydraulic support</Czech>
-      <French>Retract hydraulic support</French>
-      <German>Retract hydraulic support</German>
-      <Italian>Retract hydraulic support</Italian>
-      <Polish>Retract hydraulic support</Polish>
-      <Portuguese>Retract hydraulic support</Portuguese>
-      <Russian>Retract hydraulic support</Russian>
-      <Spanish>Retraer soporte hidráulico</Spanish>
-   </Key>
-   <Key ID="str_ffaa_vamtac_bajar_fijacion">
-      <Original>Deploy hydraulic support</Original>
-      <English>Deploy hydraulic support</English>
-      <Czech>Deploy hydraulic support</Czech>
-      <French>Deploy hydraulic support</French>
-      <German>Deploy hydraulic support</German>
-      <Italian>Deploy hydraulic support</Italian>
-      <Polish>Deploy hydraulic support</Polish>
-      <Portuguese>Deploy hydraulic support</Portuguese>
-      <Russian>Deploy hydraulic support</Russian>
-      <Spanish>Desplegar soporte hidráulico</Spanish>
-   </Key>
-   <Key ID="str_ffaa_lib_vamtac">
-        <Original>El nuevo S3 blindado cuenta con protección balística de hasta nivel 3, basada en una cápsula de supervivencia para la tripulación de tipo modular, dotada de spall-liners interiores, planchas de acero balístico, cristales blindados con marco y placas exteriores de cerámica. Además cuenta con protección contra minas y cargas explosivas improvisadas IED conseguido gracias a su estructura anti-deformación, un difusor de acero inferior en forma de V, elementos de absorción de la onda expansiva, suelo elevado con manta anti-minas, puertas con difusor anti-deformación, cierres de seguridad, asientos especiales con reposacabezas, apoya pies y cinturones de seguridad.</Original>
-        <Chinese>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Chinese>
-        <French>Le nouveau S3 a blindé le billet avec protection balistique de jusqu'à niveau 3, basé sur une capsule de survie pour la compagnie du type moduler, doté de spall paquebots intérieurs, fers d'acier balistique, lunettes blindées avec marque et insignes externes de céramique. Aussi facturez avec protection contre mines et a improvisé explosif charge IED obtenu grâce à leur structure anti-difformité, un difusor d'acier inférieur dans forme de V, éléments d'absorption de l'onde de choc, haut sol avec couverture anti-mines, portes avec difusor anti-difformité, fermetures de sécurité, sièges spéciaux avec reposacabezas, il supporte pieds et ceintures de sécurité.</French>
-        <Spanish>El nuevo S3 blindado cuenta con protección balística de hasta nivel 3, basada en una cápsula de supervivencia para la tripulación de tipo modular, dotada de spall-liners interiores, planchas de acero balístico, cristales blindados con marco y placas exteriores de cerámica. Además cuenta con protección contra minas y cargas explosivas improvisadas IED conseguido gracias a su estructura anti-deformación, un difusor de acero inferior en forma de V, elementos de absorción de la onda expansiva, suelo elevado con manta anti-minas, puertas con difusor anti-deformación, cierres de seguridad, asientos especiales con reposacabezas, apoya pies y cinturones de seguridad.</Spanish>
-        <Italian>Il S3 nuovo corazzò conto con protezione balistica di fino a che livello 3, basato su una capsula di sopravvivenza per la società di tipo per modulare, dotato con spall-navi di linea interne, ferri di acciaio balistico, occhiali blindati con marchio e distintivi esterni di relativo alla ceramica. Anche accrediti con protezione contro miniere ed improvvissò esplosivo carica IED ottenuto grazie alla loro anti-deformazione di struttura, un difusor di acciaio inferiore in forma di V, elementi dell'assorbimento dell'onda di colpo, pavimento alto con anti-miniere di coperta porte con anti-deformazione di difusor, chiusure della sicurezza, posti speciali con reposacabezas sostiene piedi e cinture della sicurezza.</Italian>
-        <Hungarian>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Hungarian>
-        <Polish>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Polish>
-        <Russian>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Russian>
-        <German>Der neue S3 gepanzerte Rechnung mit ballistischem Schutz von bis Niveau 3, basierte auf einer Kapsel des Überlebens für die Artengesellschaft, zu modulieren, der mit Innenspall-Passagierschiffen ausgestattet wurde, Eisen ballistischen Stahles, gepanzerte Gläser mit Fleck und externen Abzeichen der Keramik. Berechnen Sie auch mit Schutz gegen Bergwerke und improvisierte explosive Lasten IED, gebracht Dank Elemente der Absorption der Druckwelle zu ihrer Struktur-Antideformierung, einem difusor minderwertigen Stahles in Form von V, hoher Boden mit Decken-Antibergwerken, Türen mit difusor-Antideformierung, Schließungen der Sicherheit, besondere Sitze mit reposacabezas, es unterstützt Füße und Gürtel der Sicherheit.</German>
-        <Czech>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Czech>
-        <English>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</English>
-        <Japanese>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Japanese>
-	</Key>
-	   <Key ID="str_ffaa_vamtac_sirena">
-      <Original>Siren</Original>
-      <English>Siren</English>
-      <Czech>Siren</Czech>
-      <French>Siren</French>
-      <German>Siren</German>
-      <Italian>Siren</Italian>
-      <Polish>Siren</Polish>
-      <Portuguese>Siren</Portuguese>
-      <Russian>Siren</Russian>
-      <Spanish>Sirena</Spanish>
-   </Key>
-	</Container>
- </Package>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_et_vamtac">
+		<Container name="vamtac">
+			<Key ID="str_ffaa_dn_vamtac_m2">
+				<Original>Vamtac (M2)</Original>
+				<English>Vamtac (M2)</English>
+				<Czech>Vamtac (M2)</Czech>
+				<French>Vamtac (M2)</French>
+				<German>Vamtac (M2)</German>
+				<Italian>Vamtac (M2)</Italian>
+				<Polish>Vamtac (M2)</Polish>
+				<Portuguese>Vamtac (M2)</Portuguese>
+				<Russian>Vamtac (M2)</Russian>
+				<Spanish>Vamtac (M2)</Spanish>
+				<Japanese>Vamtac (M2)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_tow">
+				<Original>Vamtac (TOW)</Original>
+				<English>Vamtac (TOW)</English>
+				<Czech>Vamtac (TOW)</Czech>
+				<French>Vamtac (TOW)</French>
+				<German>Vamtac (TOW)</German>
+				<Italian>Vamtac (TOW)</Italian>
+				<Polish>Vamtac (TOW)</Polish>
+				<Portuguese>Vamtac (TOW)</Portuguese>
+				<Russian>Vamtac (TOW)</Russian>
+				<Spanish>Vamtac (TOW)</Spanish>
+				<Japanese>Vamtac (TOW)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_lag">
+				<Original>Vamtac (LAG40)</Original>
+				<English>Vamtac (LAG40)</English>
+				<Czech>Vamtac (LAG40)</Czech>
+				<French>Vamtac (LAG40)</French>
+				<German>Vamtac (LAG40)</German>
+				<Italian>Vamtac (LAG40)</Italian>
+				<Polish>Vamtac (LAG40)</Polish>
+				<Portuguese>Vamtac (LAG40)</Portuguese>
+				<Russian>Vamtac (LAG40)</Russian>
+				<Spanish>Vamtac (LAG40)</Spanish>
+				<Japanese>Vamtac (LAG40)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_ume">
+				<Original>Vamtac (UME)</Original>
+				<English>Vamtac (UME)</English>
+				<Czech>Vamtac (UME)</Czech>
+				<French>Vamtac (UME)</French>
+				<German>Vamtac (UME)</German>
+				<Italian>Vamtac (UME)</Italian>
+				<Polish>Vamtac (UME)</Polish>
+				<Portuguese>Vamtac (UME)</Portuguese>
+				<Russian>Vamtac (UME)</Russian>
+				<Spanish>Vamtac (UME)</Spanish>
+				<Japanese>Vamtac (UME)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_ambu">
+				<Original>Vamtac Ambulance</Original>
+				<English>Vamtac Ambulance</English>
+				<Czech>Vamtac Ambulance</Czech>
+				<French>Vamtac Ambulancia</French>
+				<German>Vamtac Krankenwagen</German>
+				<Italian>Vamtac Ambulanza</Italian>
+				<Polish>Vamtac Ambulance</Polish>
+				<Portuguese>Vamtac Ambulância</Portuguese>
+				<Russian>Vamtac Ambulance</Russian>
+				<Spanish>Vamtac Ambulancia</Spanish>
+				<Japanese>Vamtac 救急車</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_estaci">
+				<Original>Vamtac Station</Original>
+				<English>Vamtac Station</English>
+				<Czech>Vamtac Station</Czech>
+				<French>Vamtac Poste</French>
+				<German>Vamtac Station</German>
+				<Italian>Vamtac Stazione</Italian>
+				<Polish>Vamtac Station</Polish>
+				<Portuguese>Vamtac Estação</Portuguese>
+				<Russian>Vamtac Station</Russian>
+				<Spanish>Vamtac Estacion</Spanish>
+				<Japanese>Vamtac ステーション</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_taller">
+				<Original>Vamtac Taller</Original>
+				<English>Vamtac Taller</English>
+				<Czech>Vamtac Taller</Czech>
+				<French>Vamtac Taller</French>
+				<German>Vamtac Taller</German>
+				<Italian>Vamtac Taller</Italian>
+				<Polish>Vamtac Taller</Polish>
+				<Portuguese>Vamtac Taller</Portuguese>
+				<Russian>Vamtac Taller</Russian>
+				<Spanish>Vamtac Taller</Spanish>
+				<Japanese>Vamtac 背高</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_mistral">
+				<Original>Vamtac Mistral</Original>
+				<English>Vamtac Mistral</English>
+				<Czech>Vamtac Mistral</Czech>
+				<French>Vamtac Mistral</French>
+				<German>Vamtac Mistral</German>
+				<Italian>Vamtac Mistral</Italian>
+				<Polish>Vamtac Mistral</Polish>
+				<Portuguese>Vamtac Mistral</Portuguese>
+				<Russian>Vamtac Mistral</Russian>
+				<Spanish>Vamtac Mistral</Spanish>
+				<Japanese>Vamtac ミストラル</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_crows">
+				<Original>Vamtac crows (M2)</Original>
+				<English>Vamtac crows (M2)</English>
+				<Czech>Vamtac crows (M2)</Czech>
+				<French>Vamtac crows (M2)</French>
+				<German>Vamtac crows (M2)</German>
+				<Italian>Vamtac crows (M2)</Italian>
+				<Polish>Vamtac crows (M2)</Polish>
+				<Portuguese>Vamtac crows (M2)</Portuguese>
+				<Russian>Vamtac crows (M2)</Russian>
+				<Spanish>Vamtac crows (M2)</Spanish>
+				<Japanese>Vamtac CROWS (M2)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_cardom">
+				<Original>Vamtac Cardom</Original>
+				<English>Vamtac Cardom</English>
+				<Czech>Vamtac Cardom</Czech>
+				<French>Vamtac Cardom</French>
+				<German>Vamtac Cardom</German>
+				<Italian>Vamtac Cardom</Italian>
+				<Polish>Vamtac Cardom</Polish>
+				<Portuguese>Vamtac Cardom</Portuguese>
+				<Russian>Vamtac Cardom</Russian>
+				<Spanish>Vamtac Cardom</Spanish>
+				<Japanese>Vamtac Cardom</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_trans">
+				<Original>Vamtac Transport</Original>
+				<English>Vamtac Transport</English>
+				<Czech>Vamtac Transport</Czech>
+				<French>Vamtac Transport</French>
+				<German>Vamtac Transport</German>
+				<Italian>Vamtac Transport</Italian>
+				<Polish>Vamtac Transport</Polish>
+				<Portuguese>Vamtac Transport</Portuguese>
+				<Russian>Vamtac Transport</Russian>
+				<Spanish>Vamtac Transporte</Spanish>
+				<Japanese>Vamtac 輸送</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_vamtac_trans_blind">
+				<Original>Vamtac Transport (Armored)</Original>
+				<English>Vamtac Transport (Armored)</English>
+				<Czech>Vamtac Transport (Armored)</Czech>
+				<French>Vamtac Transport (Armored)</French>
+				<German>Vamtac Transport (Armored)</German>
+				<Italian>Vamtac Transport (Armored)</Italian>
+				<Polish>Vamtac Transport (Armored)</Polish>
+				<Portuguese>Vamtac Transport (Armored)</Portuguese>
+				<Russian>Vamtac Transport (Armored)</Russian>
+				<Spanish>Vamtac Transporte (Blindado)</Spanish>
+				<Japanese>Vamtac 輸送 (装甲)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_vamtac_quitartoldo">
+				<Original>Quitar toldo</Original>
+				<English>Release cover</English>
+				<Czech>Release cover</Czech>
+				<French>Release cover</French>
+				<German>Release cover</German>
+				<Italian>Release cover</Italian>
+				<Polish>Release cover</Polish>
+				<Portuguese>Release cover</Portuguese>
+				<Russian>Release cover</Russian>
+				<Spanish>Desmontar toldo</Spanish>
+				<Japanese>カバーを解放</Japanese>
+			</Key>
+			<Key ID="str_ffaa_vamtac_montartoldo">
+				<Original>Montar toldo</Original>
+				<English>Mount cover</English>
+				<Czech>Mount cover</Czech>
+				<French>Mount cover</French>
+				<German>Mount cover</German>
+				<Italian>Mount cover</Italian>
+				<Polish>Mount cover</Polish>
+				<Portuguese>Mount cover</Portuguese>
+				<Russian>Mount cover</Russian>
+				<Spanish>Montar toldo</Spanish>
+				<Japanese>カバーを積載</Japanese>
+			</Key>
+			<Key ID="str_ffaa_vamtac_subir_fijacion">
+				<Original>Retract hydraulic support</Original>
+				<English>Retract hydraulic support</English>
+				<Czech>Retract hydraulic support</Czech>
+				<French>Retract hydraulic support</French>
+				<German>Retract hydraulic support</German>
+				<Italian>Retract hydraulic support</Italian>
+				<Polish>Retract hydraulic support</Polish>
+				<Portuguese>Retract hydraulic support</Portuguese>
+				<Russian>Retract hydraulic support</Russian>
+				<Spanish>Retraer soporte hidráulico</Spanish>
+				<Japanese>油圧支持脚を戻す</Japanese>
+			</Key>
+			<Key ID="str_ffaa_vamtac_bajar_fijacion">
+				<Original>Deploy hydraulic support</Original>
+				<English>Deploy hydraulic support</English>
+				<Czech>Deploy hydraulic support</Czech>
+				<French>Deploy hydraulic support</French>
+				<German>Deploy hydraulic support</German>
+				<Italian>Deploy hydraulic support</Italian>
+				<Polish>Deploy hydraulic support</Polish>
+				<Portuguese>Deploy hydraulic support</Portuguese>
+				<Russian>Deploy hydraulic support</Russian>
+				<Spanish>Desplegar soporte hidráulico</Spanish>
+				<Japanese>油圧支持脚を出す</Japanese>
+			</Key>
+			<Key ID="str_ffaa_lib_vamtac">
+				<Original>El nuevo S3 blindado cuenta con protección balística de hasta nivel 3, basada en una cápsula de supervivencia para la tripulación de tipo modular, dotada de spall-liners interiores, planchas de acero balístico, cristales blindados con marco y placas exteriores de cerámica. Además cuenta con protección contra minas y cargas explosivas improvisadas IED conseguido gracias a su estructura anti-deformación, un difusor de acero inferior en forma de V, elementos de absorción de la onda expansiva, suelo elevado con manta anti-minas, puertas con difusor anti-deformación, cierres de seguridad, asientos especiales con reposacabezas, apoya pies y cinturones de seguridad.</Original>
+				<Chinese>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Chinese>
+				<French>Le nouveau S3 a blindé le billet avec protection balistique de jusqu'à niveau 3, basé sur une capsule de survie pour la compagnie du type moduler, doté de spall paquebots intérieurs, fers d'acier balistique, lunettes blindées avec marque et insignes externes de céramique. Aussi facturez avec protection contre mines et a improvisé explosif charge IED obtenu grâce à leur structure anti-difformité, un difusor d'acier inférieur dans forme de V, éléments d'absorption de l'onde de choc, haut sol avec couverture anti-mines, portes avec difusor anti-difformité, fermetures de sécurité, sièges spéciaux avec reposacabezas, il supporte pieds et ceintures de sécurité.</French>
+				<Spanish>El nuevo S3 blindado cuenta con protección balística de hasta nivel 3, basada en una cápsula de supervivencia para la tripulación de tipo modular, dotada de spall-liners interiores, planchas de acero balístico, cristales blindados con marco y placas exteriores de cerámica. Además cuenta con protección contra minas y cargas explosivas improvisadas IED conseguido gracias a su estructura anti-deformación, un difusor de acero inferior en forma de V, elementos de absorción de la onda expansiva, suelo elevado con manta anti-minas, puertas con difusor anti-deformación, cierres de seguridad, asientos especiales con reposacabezas, apoya pies y cinturones de seguridad.</Spanish>
+				<Italian>Il S3 nuovo corazzò conto con protezione balistica di fino a che livello 3, basato su una capsula di sopravvivenza per la società di tipo per modulare, dotato con spall-navi di linea interne, ferri di acciaio balistico, occhiali blindati con marchio e distintivi esterni di relativo alla ceramica. Anche accrediti con protezione contro miniere ed improvvissò esplosivo carica IED ottenuto grazie alla loro anti-deformazione di struttura, un difusor di acciaio inferiore in forma di V, elementi dell'assorbimento dell'onda di colpo, pavimento alto con anti-miniere di coperta porte con anti-deformazione di difusor, chiusure della sicurezza, posti speciali con reposacabezas sostiene piedi e cinture della sicurezza.</Italian>
+				<Hungarian>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Hungarian>
+				<Polish>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Polish>
+				<Russian>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Russian>
+				<German>Der neue S3 gepanzerte Rechnung mit ballistischem Schutz von bis Niveau 3, basierte auf einer Kapsel des Überlebens für die Artengesellschaft, zu modulieren, der mit Innenspall-Passagierschiffen ausgestattet wurde, Eisen ballistischen Stahles, gepanzerte Gläser mit Fleck und externen Abzeichen der Keramik. Berechnen Sie auch mit Schutz gegen Bergwerke und improvisierte explosive Lasten IED, gebracht Dank Elemente der Absorption der Druckwelle zu ihrer Struktur-Antideformierung, einem difusor minderwertigen Stahles in Form von V, hoher Boden mit Decken-Antibergwerken, Türen mit difusor-Antideformierung, Schließungen der Sicherheit, besondere Sitze mit reposacabezas, es unterstützt Füße und Gürtel der Sicherheit.</German>
+				<Czech>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</Czech>
+				<English>The new S3 armored bill with ballistic protection of until level 3, based on a capsule of survival for the type company to modulate, endowed with interior spall-liners, irons of ballistic steel, armored glasses with mark and external badges of ceramic. Also bill with protection against mines and improvised explosive loads IED gotten thanks to their structure anti-deformation, a difusor of inferior steel in form of V, elements of absorption of the shock wave, high floor with blanket anti-mines, doors with difusor anti-deformation, closings of security, special seats with reposacabezas, it supports feet and belts of security.</English>
+				<Japanese>新しい S3 装甲車は生存性のためにカプセル型の乗員モジュールや内装に飛散防止ライナー、防弾性のある鉄、防弾ガラス、セラミック装甲で弾道防護レベル 3 を備える。また地雷や即席爆発装置に耐えうるよう、車体の構造が V 字型、衝撃波を吸収する構成、空間による高床式、シートベルトやヘッドレストを持つ専用の座席がある。</Japanese>
+			</Key>
+			<Key ID="str_ffaa_vamtac_sirena">
+				<Original>Siren</Original>
+				<English>Siren</English>
+				<Czech>Siren</Czech>
+				<French>Siren</French>
+				<German>Siren</German>
+				<Italian>Siren</Italian>
+				<Polish>Siren</Polish>
+				<Portuguese>Siren</Portuguese>
+				<Russian>Siren</Russian>
+				<Spanish>Sirena</Spanish>
+				<Japanese>サイレン</Japanese>
+			</Key>
+		</Container>
+	</Package>
 </Project>
