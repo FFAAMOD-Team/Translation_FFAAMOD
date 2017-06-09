@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project name="ffaa">
 	<Package name="ffaa_et_ch47">
 		<Container name="chinook">
@@ -14,7 +14,7 @@
 				<German>CH-47D woodland</German>
 				<Czech>CH-47D woodland</Czech>
 				<English>CH-47D woodland</English>
-				<Japanese>CH-47D woodland</Japanese>
+				<Japanese>CH-47D 森林</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_ch47d_des">
 				<Original>CH-47D Desert</Original>
@@ -28,7 +28,7 @@
 				<German>CH-47D Desert</German>
 				<Czech>CH-47D Desert</Czech>
 				<English>CH-47D Desert</English>
-				<Japanese>CH-47D Desert</Japanese>
+				<Japanese>CH-47D 砂漠</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_ch47d">
 				<Original>CH-47D</Original>
@@ -55,6 +55,7 @@
 				<Portuguese>Raise ramp</Portuguese>
 				<Russian>Raise ramp</Russian>
 				<English>Raise ramp</English>
+				<Japanese>ランプを上げる</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_ch47_baja_rampa">
 				<Original>Lower ramp</Original>
@@ -67,6 +68,7 @@
 				<Portuguese>Lower ramp</Portuguese>
 				<Russian>Lower ramp</Russian>
 				<English>Lower ramp</English>
+				<Japanese>ランプを下げる</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_ch47_maniobra_enganche">
 				<Original>Maniobra de Enganche</Original>
@@ -79,6 +81,7 @@
 				<Portuguese>Cargo hook operation</Portuguese>
 				<Russian>Cargo hook operation</Russian>
 				<English>Cargo hook operation</English>
+				<Japanese>吊り下げ輸送</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_ch47_cancelar_enganche">
 				<Original>Cancelar Enganche</Original>
@@ -91,6 +94,7 @@
 				<Portuguese>Cancel cargo hook operation</Portuguese>
 				<Russian>Cancel cargo hook operation</Russian>
 				<English>Cancel cargo hook operation</English>
+				<Japanese>吊り下げ輸送を中止</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_ch47_asegurar_posicion">
 				<Original>Attach position</Original>
@@ -103,12 +107,14 @@
 				<Portuguese>Attach position</Portuguese>
 				<Russian>Attach position</Russian>
 				<English>Attach position</English>
+				<Japanese>この位置に取り付け</Japanese>
 			</Key>
 			<Key ID="str_ffaa_lib_ch47">
 				<Original>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</Original>
 				<Chinese>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</Chinese>
 				<French>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</French>
-				<Spanish>El CH-47 Chinook es un versatil helicóptero bimotor con rotores en tándem, de transporte de carga pesada. Su velocidad máxima de 315 km/h era superior a la de cualquier helicóptero comparable en los años 60, e incluso a la de muchos actuales.&lt;br/&gt;Los principales usos del CH-47 son el desplazamiento de tropas, emplazamiento de artillería y reabastecimiento en el campo de batalla.</Spanish>
+				<Spanish>El CH-47 Chinook es un versatil helicóptero bimotor con rotores en tándem, de transporte de carga pesada. Su velocidad máxima de 315 km/h era superior a la de cualquier helicóptero comparable en los años 60, e incluso a la de muchos
+					actuales.&lt;br/&gt;Los principales usos del CH-47 son el desplazamiento de tropas, emplazamiento de artillería y reabastecimiento en el campo de batalla.</Spanish>
 				<Italian>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</Italian>
 				<Hungarian>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</Hungarian>
 				<Polish>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicoptDFSADr. Its primary roles are troop movement, artillery placement and battlefield resupply.</Polish>
@@ -116,7 +122,7 @@
 				<German>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</German>
 				<Czech>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</Czech>
 				<English>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</English>
-				<Japanese>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</Japanese>
+				<Japanese>ボーイング CH-47 チヌークは双発エンジンのタンデム ローター式大型輸送ヘリコプター。主に歩兵や砲迫の運搬、補給物資の輸送に使われる。</Japanese>
 			</Key>
 		</Container>
 	</Package>

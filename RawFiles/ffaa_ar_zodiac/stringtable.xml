@@ -1,127 +1,137 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Project name="ffaa">
-  <Package name="ffaa_ar_zodiac">
-	<Container name="passenger">
-		<Key ID="str_ffaa_ar_zodiac_passenger_0">
-            <Original>Front passenger</Original>
-            <English>Front passenger</English>
-            <Czech>Front passenger</Czech>
-            <French>Front passenger</French>
-            <German>Front passenger</German>
-            <Italian>Front passenger</Italian>
-            <Polish>Front passenger</Polish>
-            <Portuguese>Front passenger</Portuguese>
-            <Russian>Front passenger</Russian>
-            <Spanish>Pasajero delantero</Spanish>
-        </Key>
-		<Key ID="str_ffaa_ar_zodiac_passenger_1">
-            <Original>Left front passenger</Original>
-            <English>Left front passenger</English>
-            <Czech>Left front passenger</Czech>
-            <French>Left front passenger</French>
-            <German>Left front passenger</German>
-            <Italian>Left front passenger</Italian>
-            <Polish>Left front passenger</Polish>
-            <Portuguese>Left front passenger</Portuguese>
-            <Russian>Left front passenger</Russian>
-            <Spanish>Pasajero delantero izquierdo</Spanish>
-        </Key>
-		<Key ID="str_ffaa_ar_zodiac_passenger_2">
-            <Original>Right front passenger</Original>
-            <English>Right front passenger</English>
-            <Czech>Right front passenger</Czech>
-            <French>Right front passenger</French>
-            <German>Right front passenger</German>
-            <Italian>Right front passenger</Italian>
-            <Polish>Right front passenger</Polish>
-            <Portuguese>Right front passenger</Portuguese>
-            <Russian>Right front passenger</Russian>
-            <Spanish>Pasajero delantero derecho</Spanish>
-        </Key>
-		<Key ID="str_ffaa_ar_zodiac_passenger_3">
-            <Original>Left passenger</Original>
-            <English>Left passenger</English>
-            <Czech>Left passenger</Czech>
-            <French>Left passenger</French>
-            <German>Left passenger</German>
-            <Italian>Left passenger</Italian>
-            <Polish>Left passenger</Polish>
-            <Portuguese>Left passenger</Portuguese>
-            <Russian>Left passenger</Russian>
-            <Spanish>Pasajero izquierdo</Spanish>
-        </Key>
-		<Key ID="str_ffaa_ar_zodiac_passenger_4">
-            <Original>Right passenger</Original>
-            <English>Right passenger</English>
-            <Czech>Right passenger</Czech>
-            <French>Right passenger</French>
-            <German>Right passenger</German>
-            <Italian>Right passenger</Italian>
-            <Polish>Right passenger</Polish>
-            <Portuguese>Right passenger</Portuguese>
-            <Russian>Right passenger</Russian>
-            <Spanish>Pasajero derecho</Spanish>
-        </Key>
-		<Key ID="str_ffaa_ar_zodiac_passenger_5">
-            <Original>Left back passenger</Original>
-            <English>Left back passenger</English>
-            <Czech>Left back passenger</Czech>
-            <French>Left back passenger</French>
-            <German>Left back passenger</German>
-            <Italian>Left back passenger</Italian>
-            <Polish>Left back passenger</Polish>
-            <Portuguese>Left back passenger</Portuguese>
-            <Russian>Left back passenger</Russian>
-            <Spanish>Pasajero trasero izquierdo</Spanish>
-        </Key>
-		<Key ID="str_ffaa_ar_zodiac_passenger_6">
-            <Original>Right back passenger</Original>
-            <English>Right back passenger</English>
-            <Czech>Right back passenger</Czech>
-            <French>Right back passenger</French>
-            <German>Right back passenger</German>
-            <Italian>Right back passenger</Italian>
-            <Polish>Right back passenger</Polish>
-            <Portuguese>Right back passenger</Portuguese>
-            <Russian>Right back passenger</Russian>
-            <Spanish>Pasajero trasero derecho</Spanish>
-        </Key>
-		<Key ID="str_ffaa_ar_zodiac_long">
-            <Original>Zodiac Hurricane (Long)</Original>
-            <English>Zodiac Hurricane (Long)</English>
-            <Czech>Zodiac Hurricane (Long)</Czech>
-            <French>Zodiac Hurricane (Long)</French>
-            <German>Zodiac Hurricane (Long)</German>
-            <Italian>Zodiac Hurricane (Long)</Italian>
-            <Polish>Zodiac Hurricane (Long)</Polish>
-            <Portuguese>Zodiac Hurricane (Long)</Portuguese>
-            <Russian>Zodiac Hurricane (Long)</Russian>
-            <Spanish>Zodiac Hurricane (Larga)</Spanish>
-        </Key>
-		<Key ID="str_ffaa_ar_zodiac_short">
-            <Original>Zodiac Hurricane</Original>
-            <English>Zodiac Hurricane</English>
-            <Czech>Zodiac Hurricane</Czech>
-            <French>Zodiac Hurricane</French>
-            <German>Zodiac Hurricane</German>
-            <Italian>Zodiac Hurricane</Italian>
-            <Polish>Zodiac Hurricane</Polish>
-            <Portuguese>Zodiac Hurricane</Portuguese>
-            <Russian>Zodiac Hurricane</Russian>
-            <Spanish>Zodiac Hurricane</Spanish>
-        </Key>
-		<Key ID="str_ffaa_ar_zodiac_library">
-            <Original>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Original>
-            <English>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</English>
-            <Czech>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Czech>
-            <French>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</French>
-            <German>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</German>
-            <Italian>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Italian>
-            <Polish>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Polish>
-            <Portuguese>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Portuguese>
-            <Russian>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Russian>
-            <Spanish>La Zodiac Hurricane H733 IO RIB es parte de la gama hurricane de RIBS que son diseñados para una misión específica y son utilizados por los operadores más exigentes que demandan el máximo en aspereza y confiabilidad. Todos los modelos del hurricane tienen collares desprendibles para la facilidad de mantenimiento, así como la capacidad de intercambiar con los collares de espuma Durarib.</Spanish>
-        </Key>
-	</Container>
- </Package>
+	<Package name="ffaa_ar_zodiac">
+		<Container name="passenger">
+			<Key ID="str_ffaa_ar_zodiac_passenger_0">
+				<Original>Front passenger</Original>
+				<English>Front passenger</English>
+				<Czech>Front passenger</Czech>
+				<French>Front passenger</French>
+				<German>Front passenger</German>
+				<Italian>Front passenger</Italian>
+				<Polish>Front passenger</Polish>
+				<Portuguese>Front passenger</Portuguese>
+				<Russian>Front passenger</Russian>
+				<Spanish>Pasajero delantero</Spanish>
+				<Japanese>前の座席</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_zodiac_passenger_1">
+				<Original>Left front passenger</Original>
+				<English>Left front passenger</English>
+				<Czech>Left front passenger</Czech>
+				<French>Left front passenger</French>
+				<German>Left front passenger</German>
+				<Italian>Left front passenger</Italian>
+				<Polish>Left front passenger</Polish>
+				<Portuguese>Left front passenger</Portuguese>
+				<Russian>Left front passenger</Russian>
+				<Spanish>Pasajero delantero izquierdo</Spanish>
+				<Japanese>左前の座席</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_zodiac_passenger_2">
+				<Original>Right front passenger</Original>
+				<English>Right front passenger</English>
+				<Czech>Right front passenger</Czech>
+				<French>Right front passenger</French>
+				<German>Right front passenger</German>
+				<Italian>Right front passenger</Italian>
+				<Polish>Right front passenger</Polish>
+				<Portuguese>Right front passenger</Portuguese>
+				<Russian>Right front passenger</Russian>
+				<Spanish>Pasajero delantero derecho</Spanish>
+				<Japanese>右前の座席</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_zodiac_passenger_3">
+				<Original>Left passenger</Original>
+				<English>Left passenger</English>
+				<Czech>Left passenger</Czech>
+				<French>Left passenger</French>
+				<German>Left passenger</German>
+				<Italian>Left passenger</Italian>
+				<Polish>Left passenger</Polish>
+				<Portuguese>Left passenger</Portuguese>
+				<Russian>Left passenger</Russian>
+				<Spanish>Pasajero izquierdo</Spanish>
+				<Japanese>左の座席</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_zodiac_passenger_4">
+				<Original>Right passenger</Original>
+				<English>Right passenger</English>
+				<Czech>Right passenger</Czech>
+				<French>Right passenger</French>
+				<German>Right passenger</German>
+				<Italian>Right passenger</Italian>
+				<Polish>Right passenger</Polish>
+				<Portuguese>Right passenger</Portuguese>
+				<Russian>Right passenger</Russian>
+				<Spanish>Pasajero derecho</Spanish>
+				<Japanese>右の座席</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_zodiac_passenger_5">
+				<Original>Left back passenger</Original>
+				<English>Left back passenger</English>
+				<Czech>Left back passenger</Czech>
+				<French>Left back passenger</French>
+				<German>Left back passenger</German>
+				<Italian>Left back passenger</Italian>
+				<Polish>Left back passenger</Polish>
+				<Portuguese>Left back passenger</Portuguese>
+				<Russian>Left back passenger</Russian>
+				<Spanish>Pasajero trasero izquierdo</Spanish>
+				<Japanese>左後ろの座席</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_zodiac_passenger_6">
+				<Original>Right back passenger</Original>
+				<English>Right back passenger</English>
+				<Czech>Right back passenger</Czech>
+				<French>Right back passenger</French>
+				<German>Right back passenger</German>
+				<Italian>Right back passenger</Italian>
+				<Polish>Right back passenger</Polish>
+				<Portuguese>Right back passenger</Portuguese>
+				<Russian>Right back passenger</Russian>
+				<Spanish>Pasajero trasero derecho</Spanish>
+				<Japanese>右後ろの座席</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_zodiac_long">
+				<Original>Zodiac Hurricane (Long)</Original>
+				<English>Zodiac Hurricane (Long)</English>
+				<Czech>Zodiac Hurricane (Long)</Czech>
+				<French>Zodiac Hurricane (Long)</French>
+				<German>Zodiac Hurricane (Long)</German>
+				<Italian>Zodiac Hurricane (Long)</Italian>
+				<Polish>Zodiac Hurricane (Long)</Polish>
+				<Portuguese>Zodiac Hurricane (Long)</Portuguese>
+				<Russian>Zodiac Hurricane (Long)</Russian>
+				<Spanish>Zodiac Hurricane (Larga)</Spanish>
+				<Japanese>ゾディアック ハリケーン (長)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_zodiac_short">
+				<Original>Zodiac Hurricane</Original>
+				<English>Zodiac Hurricane</English>
+				<Czech>Zodiac Hurricane</Czech>
+				<French>Zodiac Hurricane</French>
+				<German>Zodiac Hurricane</German>
+				<Italian>Zodiac Hurricane</Italian>
+				<Polish>Zodiac Hurricane</Polish>
+				<Portuguese>Zodiac Hurricane</Portuguese>
+				<Russian>Zodiac Hurricane</Russian>
+				<Spanish>Zodiac Hurricane</Spanish>
+				<Japanese>ゾディアック ハリケーン</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ar_zodiac_library">
+	            <Original>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Original>
+	            <English>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</English>
+	            <Czech>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Czech>
+	            <French>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</French>
+	            <German>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</German>
+	            <Italian>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Italian>
+	            <Polish>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Polish>
+	            <Portuguese>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Portuguese>
+	            <Russian>The Zodiac Hurricane H733 IO RIB is part of the Hurricane range of RIBS that are mission specific and are used by the most discriminating operators who demand the utmost in ruggedness and reliability. All Hurricane models have removable collars for ease of maintenance as well as the capability of interchanging with Durarib foam collars.</Russian>
+	            <Spanish>La Zodiac Hurricane H733 IO RIB es parte de la gama hurricane de RIBS que son diseñados para una misión específica y son utilizados por los operadores más exigentes que demandan el máximo en aspereza y confiabilidad. Todos los modelos del hurricane tienen collares desprendibles para la facilidad de mantenimiento, así como la capacidad de intercambiar con los collares de espuma Durarib.</Spanish>
+	            <Japanese>ゾディアック ハリケーン H733 IO RIB は RIBS のハリケーン シリーズの一部で、耐久性と信頼性を要求する特別な任務に使われる。全ハリケーン型は保守を容易にするため取り外せる船体や、簡単に二重船体に交換可能である。</Japanese>
+	        </Key>
+		</Container>
+	</Package>
 </Project>
