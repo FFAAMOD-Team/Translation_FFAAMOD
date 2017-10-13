@@ -18,161 +18,50 @@
 			<Key ID="str_ffaa_dn_reaperer_gbu">
 				<Original>MQ-9 Reaper (GBU)</Original>
 				<English>MQ-9 Reaper (GBU)</English>
-				<Czech>MQ-9 Reaper (GBU)</Czech>
-				<French>MQ-9 Reaper (GBU)</French>
-				<German>MQ-9 Reaper (GBU)</German>
-				<Italian>MQ-9 Reaper (GBU)</Italian>
-				<Polish>MQ-9 Reaper (GBU)</Polish>
-				<Portuguese>MQ-9 Reaper (GBU)</Portuguese>
-				<Russian>MQ-9 Reaper (GBU)</Russian>
 				<Spanish>MQ-9 Reaper (GBU)</Spanish>
 				<Japanese>MQ-9 リーパー (GBU)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_dn_reaperer_maveri">
-				<Original>MQ-9 Reaper (Maverick)</Original>
-				<Spanish>MQ-9 Reaper (Maverick)</Spanish>
+				<Original>MQ-9 Reaper (Hellfire)</Original>
+				<Spanish>MQ-9 Reaper (Hellfire)</Spanish>
 				<Japanese>MQ-9 リーパー (マーベリック)</Japanese>
-				<Czech>MQ-9 Reaper (Maverick)</Czech>
-				<French>MQ-9 Reaper (Maverick)</French>
-				<German>MQ-9 Reaper (Maverick)</German>
-				<Italian>MQ-9 Reaper (Maverick)</Italian>
-				<Polish>MQ-9 Reaper (Maverick)</Polish>
-				<Portuguese>MQ-9 Reaper (Maverick)</Portuguese>
-				<Russian>MQ-9 Reaper (Maverick)</Russian>
-				<English>MQ-9 Reaper (Maverick)</English>
+				<English>MQ-9 Reaper (Hellfire)</English>
 			</Key>
 			<Key ID="str_ffaa_dn_reaperer_cas">
 				<Original>MQ-9 Reaper (CAS)</Original>
 				<Spanish>MQ-9 Reaper (CAS)</Spanish>
 				<Japanese>MQ-9 リーパー (CAS)</Japanese>
-				<Czech>MQ-9 Reaper (CAS)</Czech>
-				<French>MQ-9 Reaper (CAS)</French>
-				<German>MQ-9 Reaper (CAS)</German>
-				<Italian>MQ-9 Reaper (CAS)</Italian>
-				<Polish>MQ-9 Reaper(CAS)</Polish>
-				<Portuguese>MQ-9 Reaper (CAS)</Portuguese>
-				<Russian>MQ-9 Reaper (CAS)</Russian>
 				<English>MQ-9 Reaper (CAS)</English>
 			</Key>
 			<Key ID="str_ffaa_dn_reaperer_mr">
 				<Original>MQ-9 Reaper (Multi-Role)</Original>
 				<Spanish>MQ-9 Reaper (Multi-Rol)</Spanish>
 				<Japanese>MQ-9 リーパー (マルチロール)</Japanese>
-				<Czech>MQ-9 Reaper (Multi-Role)</Czech>
-				<French>MQ-9 Reaper (Multi-Role)</French>
-				<German>MQ-9 Reaper (Multi-Role)</German>
-				<Italian>MQ-9 Reaper (Multi-Role)</Italian>
-				<Polish>MQ-9 Reaper(Multi-Role)</Polish>
-				<Portuguese>MQ-9 Reaper (Multi-Role)</Portuguese>
-				<Russian>MQ-9 Reaper (Multi-Role)</Russian>
 				<English>MQ-9 Reaper (Multi-Role)</English>
 			</Key>
-			<Key ID="str_ffaa_dn_reap_agm_maverick">
-				<Original>AGM-65 Maverick</Original>
-				<Spanish>AGM-65 Maverick</Spanish>
-				<Japanese>AGM-65 マーベリック</Japanese>
-				<Czech>AGM-65 Maverick</Czech>
-				<French>AGM-65 Maverick</French>
-				<German>AGM-65 Maverick</German>
-				<Italian>AGM-65 Maverick</Italian>
-				<Polish>AGM-65 Maverick</Polish>
-				<Portuguese>AGM-65 Maverick</Portuguese>
-				<Russian>AGM-65 Maverick</Russian>
-				<English>AGM-65 Maverick</English>
-			</Key>
-			<Key ID="str_ffaa_dn_reap_lau_68d">
-				<Original>LAU-68D/A Lanzador cohetes</Original>
-				<Spanish>LAU-68D/A Lanzador cohetes</Spanish>
-				<Japanese>LAU-68D/A ロケット ランチャー</Japanese>
-				<Czech>LAU-68D/A Lanzador cohetes</Czech>
-				<French>LAU-68D/A Lanzador cohetes</French>
-				<German>LAU-68D/A Lanzador cohetes</German>
-				<Italian>LAU-68D/A Lanzador cohetes</Italian>
-				<Polish>LAU-68D/A Lanzador cohetes</Polish>
-				<Portuguese>LAU-68D/A Lanzador cohetes</Portuguese>
-				<Russian>LAU-68D/A Lanzador cohetes</Russian>
-				<English>LAU-68D/A Lanzador cohetes</English>
-			</Key>
-			<Key ID="str_ffaa_dn_reap_Sidewinder">
-				<Original>AIM-9M Sidewinder</Original>
-				<Spanish>AIM-9M Sidewinder</Spanish>
-				<Japanese>AIM-9M サイドワインダー</Japanese>
-				<Czech>AIM-9M Sidewinder</Czech>
-				<French>AIM-9M Sidewinder</French>
-				<German>AIM-9M Sidewinder</German>
-				<Italian>AIM-9M Sidewinder</Italian>
-				<Polish>AIM-9M Sidewinder</Polish>
-				<Portuguese>AIM-9M Sidewinder</Portuguese>
-				<Russian>AIM-9M Sidewinder</Russian>
-				<English>AIM-9M Sidewinder</English>
-			</Key>
-			<Key ID="str_ffaa_dn_reap_amraam">
-				<Original>AIM-120A AMRAAM</Original>
-				<Spanish>AIM-120A AMRAAM</Spanish>
-				<Japanese>AIM-120A AMRAAM</Japanese>
-				<Czech>AIM-120A AMRAAM</Czech>
-				<French>AIM-120A AMRAAM</French>
-				<German>AIM-120A AMRAAM</German>
-				<Italian>AIM-120A AMRAAM</Italian>
-				<Polish>AIM-120A AMRAAM</Polish>
-				<Portuguese>AIM-120A AMRAAM</Portuguese>
-				<Russian>AIM-120A AMRAAM</Russian>
-				<English>AIM-120A AMRAAM</English>
-			</Key>
-			<Key ID="str_ffaa_dn_reap_mk82">
-				<Original>Mk82 Snakeye</Original>
-				<Spanish>Mk82 Snakeye</Spanish>
-				<Japanese>Mk82 スネークアイ</Japanese>
-				<Czech>Mk82 Snakeye</Czech>
-				<French>Mk82 Snakeye</French>
-				<German>Mk82 Snakeye</German>
-				<Italian>Mk82 Snakeye</Italian>
-				<Polish>Mk82 Snakeye</Polish>
-				<Portuguese>Mk82 Snakeye</Portuguese>
-				<Russian>Mk82 Snakeye</Russian>
-				<English>Mk82 Snakeye</English>
+			<Key ID="str_ffaa_multirol_preset_displayname">
+				<Original>Multi-Role</Original>
+				<Spanish>Multi-Rol</Spanish>
+				<Japanese>マルチロール</Japanese>
+				<English>Multi-Role</English>
 			</Key>
 			<Key ID="str_ffaa_pilot_reaper">
 				<Original>Piloto reaper</Original>
 				<Spanish>Piloto reaper</Spanish>
 				<Japanese>リーパー パイロット</Japanese>
-				<Czech>Piloto reaper</Czech>
-				<French>Piloto reaper</French>
-				<German>Piloto reaper</German>
-				<Italian>Piloto reaper</Italian>
-				<Polish>Piloto reaper</Polish>
-				<Portuguese>Piloto reaper</Portuguese>
-				<Russian>Piloto reaper</Russian>
 				<English>Piloto reaper</English>
 			</Key>
 			<Key ID="str_ffaa_crea_reaper">
 				<Original>Conde</Original>
 				<English>Conde</English>
-				<Czech>Conde</Czech>
-				<French>Conde</French>
-				<German>Conde</German>
-				<Italian>Conde</Italian>
-				<Polish>Conde</Polish>
-				<Portuguese>Conde</Portuguese>
-				<Russian>Conde</Russian>
 				<Spanish>Conde</Spanish>
 				<Japanese>コンデ</Japanese>
 			</Key>
 			<Key ID="str_ffaa_lib_reaperer">
 				<Original>The MQ-9 Reaper ( 'Reaper' in English), originally known as Predator B, is an unmanned aerial vehicle (UAV). In use as combat air vehicle unmanned MQ-9 is the first attack UAV designed for long-term monitoring and high altitude.</Original>
 				<English>The MQ-9 Reaper ( 'Reaper' in English), originally known as Predator B, is an unmanned aerial vehicle (UAV). In use as combat air vehicle unmanned MQ-9 is the first attack UAV designed for long-term monitoring and high altitude.</English>
-				<Czech>The MQ-9 Reaper ( 'Reaper' in English), originally known as Predator B, is an unmanned aerial vehicle (UAV). In use as combat air vehicle unmanned MQ-9 is the first attack UAV designed for long-term monitoring and high altitude.</Czech>
-				<French>The MQ-9 Reaper ( 'Reaper' in English), originally known as Predator B, is an unmanned aerial vehicle (UAV). In use as combat air vehicle unmanned MQ-9 is the first attack UAV designed for long-term monitoring and high altitude.</French>
-				<German>The MQ-9 Reaper ( 'Reaper' in English), originally known as Predator B, is an unmanned aerial vehicle (UAV). In use as combat air vehicle unmanned MQ-9 is the first attack UAV designed for long-term monitoring and high altitude.</German>
-				<Italian>L'MQ-9 Reaper ( 'Reaper' in inglese), originariamente conosciuto come Predator B, è un veicolo aereo senza equipaggio (UAV). In uso come veicolo di combattimento aereo senza pilota MQ-9 è il primo UAV attacco progettato per il monitoraggio a
-					lungo termine e ad alta quota.</Italian>
-				<Polish>The MQ-9 Reaper ( 'Reaper' in English), originally known as Predator B, is an unmanned aerial vehicle (UAV). In use as combat air vehicle unmanned MQ-9 is the first attack UAV designed for long-term monitoring and high altitude.</Polish>
-				<Portuguese>O MQ-9 Ceifeira ( "Ceifador" em Inglês), originalmente conhecida como Predator B, é um veículo aéreo não tripulado (UAV). Na utilização como veículo de combate aéreo não tripulado MQ-9 é o primeiro UAV ataque projetado para o
-					monitoramento de longo prazo e alta altitude.</Portuguese>
-				<Russian>MQ-9 Жнец ( "Жнец" на английском языке), первоначально известный как Predator B, представляет собой беспилотный летательный аппарат (БЛА). При использовании в качестве боевого беспилотного летательного аппарата MQ-9 является первая атака
-					БПЛА предназначен для проведения долгосрочного мониторинга и большой высоте.</Russian>
-				<Spanish>El MQ-9 Reaper (‘Segador’ en inglés), originalmente conocido como Predator B, es un vehículo aéreo no tripulado (UAV). En su uso como vehículo aéreo de combate no tripulado, el MQ-9 es el primer UAV de ataque diseñado para vigilancia de
-					larga duración y de gran altitud.</Spanish>
+				<Russian>MQ-9 Жнец ( "Жнец" на английском языке), первоначально известный как Predator B, представляет собой беспилотный летательный аппарат (БЛА). При использовании в качестве боевого беспилотного летательного аппарата MQ-9 является первая атака БПЛА предназначен для проведения долгосрочного мониторинга и большой высоте.</Russian>
+				<Spanish>El MQ-9 Reaper (‘Segador’ en inglés), originalmente conocido como Predator B, es un vehículo aéreo no tripulado (UAV). En su uso como vehículo aéreo de combate no tripulado, el MQ-9 es el primer UAV de ataque diseñado para vigilancia de larga duración y de gran altitud.</Spanish>
 				<Japanese>MQ-9 リーパー (英語で"死神") は、無人偵察機 (UAV) の原型プレデター B と知られる。無人戦闘攻撃機 MQ-9 は始めて高高度で長時間の監視用として設計された。</Japanese>
 			</Key>
 		</Container>
