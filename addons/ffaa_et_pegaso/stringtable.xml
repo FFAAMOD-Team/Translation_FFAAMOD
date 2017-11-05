@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_et_pegaso">
+		<Container name="pegaso">
+			<Key ID="str_ffaa_dn_m250_carga">
+				<Original>M250 Covered (Transport)</Original>
+				<English>M250 Covered (Transport)</English>
+				<Spanish>M250 Cubierto (Transporte)</Spanish>
+				<Japanese>M250 幌付き (輸送)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_m250_carga_sinlona">
+				<Original>M250 (Transport)</Original>
+				<English>M250 (Transport)</English>
+				<Spanish>M250 (Transporte)</Spanish>
+				<Japanese>M250 (輸送)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_m250_recoberi">
+				<Original>M250 (Recovery)</Original>
+				<English>M250 (Recovery)</English>
+				<Spanish>M250 (Recuperación)</Spanish>
+				<Japanese>M250 (回収)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_m250_combustible">
+				<Original>M250 (Fuel)</Original>
+				<English>M250 (Fuel)</English>
+				<Spanish>M250 (Cisterna)</Spanish>
+				<Japanese>M250 (燃料)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_m250_municion">
+				<Original>M250 (Ammo)</Original>
+				<English>M250 (Ammo)</English>
+				<Spanish>M250 (Munición)</Spanish>
+				<Japanese>M250 (弾薬)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_m250_repara">
+				<Original>M250 (Workshop and Ammo)</Original>
+				<English>M250 (Workshop and Ammo)</English>
+				<Spanish>M250 (Taller y Munición)</Spanish>
+				<Japanese>M250 (作業車と弾薬)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_m250_estacion_nasams">
+				<Original>M250 NASAMS (Station)</Original>
+				<English>M250 NASAMS (Station)</English>
+				<Spanish>M250 NASAMS (Estación)</Spanish>
+				<Japanese>M250 NASAMS (管制車)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_m250_sistema_nasams">
+				<Original>M250 NASAMS (Launcher)</Original>
+				<English>M250 NASAMS (Launcher)</English>
+				<Spanish>M250 NASAMS (Lanzador)</Spanish>
+				<Japanese>M250 NASAMS (発射機)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_pegaso_carga">
+				<Original>Pegaso 7226 (Transport)</Original>
+				<English>Pegaso 7226 (Transport)</English>
+				<Spanish>Pegaso 7226 (Transporte)</Spanish>
+				<Japanese>ペガソ 7226 (輸送)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_pegaso_carga_lona">
+				<Original>Pegaso 7226 Covered (Transport)</Original>
+				<English>Pegaso 7226 Covered (Transport)</English>
+				<Spanish>Pegaso 7226 Cubierto (Transporte)</Spanish>
+				<Japanese>ペガソ 7226 幌付き (輸送)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_pegaso_recoberi">
+				<Original>Pegaso 7226 (Recovery)</Original>
+				<English>Pegaso 7226 (Recovery)</English>
+				<Spanish>Pegaso 7226 (Recuperación)</Spanish>
+				<Japanese>ペガソ 7226 (回収)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_pegaso_combustible">
+				<Original>Pegaso 7226 (Fuel)</Original>
+				<English>Pegaso 7226 (Fuel)</English>
+				<Spanish>Pegaso 7226 (Cisterna)</Spanish>
+				<Japanese>ペガソ 7226 (燃料)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_pegaso_municion">
+				<Original>Pegaso 7226 (Ammo)</Original>
+				<English>Pegaso 7226 (Ammo)</English>
+				<Spanish>Pegaso 7226 (Munición)</Spanish>
+				<Japanese>ペガソ 7226 (弾薬)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_pegaso_repara">
+				<Original>Pegaso 7226 (Workshop and Ammo)</Original>
+				<English>Pegaso 7226 (Workshop and Ammo)</English>
+				<Spanish>Pegaso 7226 (Taller y munición)</Spanish>
+				<Japanese>ペガソ 7226 (作業車と弾薬)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_al_agujero">
+				<Original>Hatch gunner</Original>
+				<English>Hatch gunner</English>
+				<Spanish>Artillero de escotilla</Spanish>
+				<Japanese>ハッチ射手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_asiento_mando">
+				<Original>Command seat</Original>
+				<English>Command seat</English>
+				<Spanish>Puesto de mando</Spanish>
+				<Japanese>車長席</Japanese>
+			</Key>
+			<Key ID="str_ffaa_crea_pegaso_m250">
+				<Original>Lobo,Conde,Micky</Original>
+				<English>Lobo,Conde,Micky</English>
+				<Spanish>Lobo,Conde,Micky</Spanish>
+				<Japanese>Lobo, Conde, Micky</Japanese>
+			</Key>
+			<Key ID="str_ffaa_m250_no_carga">
+				<Original>There is no cargo close</Original>
+				<English>There is no cargo close</English>
+				<Spanish>No hay ninguna carga cercana</Spanish>
+				<Japanese>カーゴが閉じられていません</Japanese>
+			</Key>
+			<Key ID="str_ffaa_m250_cargar">
+				<Original>Load cargo</Original>
+				<English>Load cargo</English>
+				<Spanish>Recuperar carga</Spanish>
+				<Japanese>カーゴを積み込み</Japanese>
+			</Key>
+			<Key ID="str_ffaa_m250_descargar">
+				<Original>Unload NASAMS</Original>
+				<English>Unload NASAMS</English>
+				<Spanish>Descargar NASAMS</Spanish>
+				<Japanese>NASAMS を降ろす</Japanese>
+			</Key>
+			<Key ID="str_ffaa_m250_SwitchOn">
+				<Original>&lt;t color='#00FF00'&gt;Switch On NASAMS Systems&lt;/t&gt;</Original>
+				<English>&lt;t color='#00FF00'&gt;Switch On NASAMS Systems&lt;/t&gt;</English>
+				<Spanish>&lt;t color='#00FF00'&gt;Encender sistema NASAMS&lt;/t&gt;</Spanish>
+				<Japanese>&lt;t color='#00FF00'&gt;NASAMS を起動&lt;/t&gt;</Japanese>
+			</Key>
+			<Key ID="str_ffaa_m250_SwitchOff">
+				<Original>&lt;t color='#FF0000'&gt;Switch Off NASAMS Systems&lt;/t&gt;</Original>
+				<English>&lt;t color='#FF0000'&gt;Switch Off NASAMS Systems&lt;/t&gt;</English>
+				<Spanish>&lt;t color='#FF0000'&gt;Apagar sistema NASAMS&lt;/t&gt;</Spanish>
+				<Japanese>&lt;t color='#FF0000'&gt;NASAMS を停止&lt;/t&gt;</Japanese>
+			</Key>
+			<Key ID="str_ffaa_m250_ForceDisconnect">
+				<Original>Force disconnect</Original>
+				<English>Force disconnect</English>
+				<Spanish>Forzar desconexión</Spanish>
+				<Japanese>強制切断</Japanese>
+			</Key>
+			<Key ID="str_ffaa_lib_pegaso">
+				<Original>El Iveco M250 de fabricación Italiana es un camiones militar táctico, estos camiones se denominan Astra para el mercado italiano, mientras el M250 es la designación de exportación. Este camión está en servicio en Italia, Bélgica y España. Estos camiones tácticos cumplen roles logísticos tanto para las unidades de primer y segundo escalón. Los camiones Iveco M250 están disponibles con varias longitudes de distancia entre ejes. La capacidad de carga también varía dependiendo de la versión. El M250.45WM tiene una capacidad de carga de 8.000 kg, también pueden arrastrar remolques o piezas de artillería. La versión de línea de base es un trasporte de carga/tropa.</Original>
+				<Spanish>El Iveco M250 de fabricación Italiana es un camiones militar táctico, estos camiones se denominan Astra para el mercado italiano, mientras el M250 es la designación de exportación. Este camión está en servicio en Italia, Bélgica y España.	Estos camiones tácticos cumplen roles logísticos tanto para las unidades de primer y segundo escalón. Los camiones Iveco M250 están disponibles con varias longitudes de distancia entre ejes. La capacidad de carga también varía dependiendo de la versión. El M250.45WM tiene una capacidad de carga de 8.000 kg, también pueden arrastrar remolques o piezas de artillería. La versión de línea de base es un trasporte de carga/tropa.</Spanish>
+				<Japanese>イヴェコ M250 はイタリア製の戦術トラックで、国内向けにアストラ、輸出用に M250 と呼ばれる。このトラックはイタリアやベルギー、スペインで運用されており、第一線級と二線級部隊での補給に割り当てられている。M250 トラックはさまざま最遠軸距により、多様な仕様に変更できる。なかでも .45WM 仕様は 8,000 kg まで搭載で、砲の牽引が可能である。基本仕様は歩兵の輸送になっている。</Japanese>
+				<English>El Iveco M250 de fabricación Italiana es un camiones militar táctico, estos camiones se denominan Astra para el mercado italiano, mientras el M250 es la designación de exportación. Este camión está en servicio en Italia, Bélgica y España.	Estos camiones tácticos cumplen roles logísticos tanto para las unidades de primer y segundo escalón. Los camiones Iveco M250 están disponibles con varias longitudes de distancia entre ejes. La capacidad de carga también varía dependiendo de la versión. El M250.45WM tiene una capacidad de carga de 8.000 kg, también pueden arrastrar remolques o piezas de artillería. La versión de línea de base es un trasporte de carga/tropa.</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

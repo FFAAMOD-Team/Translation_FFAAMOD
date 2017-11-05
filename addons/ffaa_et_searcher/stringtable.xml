@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+  <Package name="ffaa_et_searcher">
+	<Container name="searcher">
+		<Key ID="str_ffaa_uavstation">
+			<Original>Ground Control Station</Original>
+			<English>Ground Control Station</English>
+			<Czech>Ground Control Station</Czech>
+			<French>Ground Control Station</French>
+			<German>Ground Control Station</German>
+			<Italian>Ground Control Station</Italian>
+			<Polish>Ground Control Station</Polish>
+			<Portuguese>Ground Control Station</Portuguese>
+			<Russian>Ground Control Station</Russian>
+			<Spanish>Estación de Control Terrestre</Spanish>
+			<Japanese>地上管制所</Japanese>
+		</Key>
+		<Key ID="str_ffaa_uav_artillero">
+			<Original>UAV Operator</Original>
+			<English>UAV Operator</English>
+			<Czech>UAV Operator</Czech>
+			<French>UAV Operator</French>
+			<German>UAV Operator</German>
+			<Italian>UAV Operator</Italian>
+			<Polish>UAV Operator</Polish>
+			<Portuguese>UAV Operator</Portuguese>
+			<Russian>UAV Operator</Russian>
+			<Spanish>Operador UAV</Spanish>
+			<Japanese>UAV オペレーター</Japanese>
+		</Key>
+	</Container>
+ </Package>
+</Project>

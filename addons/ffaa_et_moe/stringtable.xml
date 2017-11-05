@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_et_moe">
+		<Container name="moe">
+			<Key ID="str_ffaa_boina_moe">
+				<Original>Beret (MOE)</Original>
+				<English>Beret (MOE)</English>
+				<Czech>Beret (MOE)</Czech>
+				<French>Beret (MOE)</French>
+				<German>Beret (MOE)</German>
+				<Italian>Beret (MOE)</Italian>
+				<Polish>Beret (MOE)</Polish>
+				<Portuguese>Beret (MOE)</Portuguese>
+				<Russian>Beret (MOE)</Russian>
+				<Spanish>Boina (MOE)</Spanish>
+				<Japanese>ベレー帽 (MOE)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_lider_moe">
+				<Original>wl Leader Operator</Original>
+				<English>wl Leader Operator</English>
+				<Czech>wl Leader Operator</Czech>
+				<French>wl Leader Operator</French>
+				<German>wl Leader Operator</German>
+				<Italian>wl Leader Operator</Italian>
+				<Polish>wl Leader Operator</Polish>
+				<Portuguese>wl Leader Operator</Portuguese>
+				<Russian>wl Leader Operator</Russian>
+				<Spanish>bs Operador Lider</Spanish>
+				<Japanese>森林 班長オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusmo_moe">
+				<Original>wl Rifleman Operator</Original>
+				<English>wl Rifleman Operator</English>
+				<Czech>wl Rifleman Operator</Czech>
+				<French>wl Rifleman Operator</French>
+				<German>wl Rifleman Operator</German>
+				<Italian>wl Rifleman Operator</Italian>
+				<Polish>wl Rifleman Operator</Polish>
+				<Portuguese>wl Rifleman Operator</Portuguese>
+				<Russian>wl Rifleman Operator</Russian>
+				<Spanish>bs Operador Fusilero</Spanish>
+				<Japanese>森林 小銃手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tirador_moe">
+				<Original>wl Marksman Operator</Original>
+				<English>wl Marksman Operator</English>
+				<Czech>wl Marksman Operator</Czech>
+				<French>wl Marksman Operator</French>
+				<German>wl Marksman Operator</German>
+				<Italian>wl Marksman Operator</Italian>
+				<Polish>wl Marksman Operator</Polish>
+				<Portuguese>wl Marksman Operator</Portuguese>
+				<Russian>wl Marksman Operator</Russian>
+				<Spanish>bs Operador Tirador</Spanish>
+				<Japanese>森林 選抜射手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_sanitario_moe">
+				<Original>wl Sanitary Operator</Original>
+				<English>wl Sanitary Operator</English>
+				<Czech>wl Sanitary Operator</Czech>
+				<French>wl Sanitary Operator</French>
+				<German>wl Sanitary Operator</German>
+				<Italian>wl Sanitary Operator</Italian>
+				<Polish>wl Sanitary Operator</Polish>
+				<Portuguese>wl Sanitary Operator</Portuguese>
+				<Russian>wl Sanitary Operator</Russian>
+				<Spanish>bs Operador Sanitario</Spanish>
+				<Japanese>森林 衛生兵オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mg4_moe">
+				<Original>wl MG4 Operator</Original>
+				<English>wl MG4 Operator</English>
+				<Czech>wl MG4 Operator</Czech>
+				<French>wl MG4 Operator</French>
+				<German>wl MG4 Operator</German>
+				<Italian>wl MG4 Operator</Italian>
+				<Polish>wl MG4 Operator</Polish>
+				<Portuguese>wl MG4 Operator</Portuguese>
+				<Russian>wl MG4 Operator</Russian>
+				<Spanish>bs Operador MG4</Spanish>
+				<Japanese>森林 MG4 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_granadero_moe">
+				<Original>wl Grenadier Operator</Original>
+				<English>wl Grenadier Operator</English>
+				<Czech>wl Grenadier Operator</Czech>
+				<French>wl Grenadier Operator</French>
+				<German>wl Grenadier Operator</German>
+				<Italian>wl Grenadier Operator</Italian>
+				<Polish>wl Grenadier Operator</Polish>
+				<Portuguese>wl Grenadier Operator</Portuguese>
+				<Russian>wl Grenadier Operator</Russian>
+				<Spanish>bs Operador Granadero</Spanish>
+				<Japanese>森林 てき弾手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_c90_moe">
+				<Original>wl C90 Operator</Original>
+				<English>wl C90 Operator</English>
+				<Czech>wl C90 Operator</Czech>
+				<French>wl C90 Operator</French>
+				<German>wl C90 Operator</German>
+				<Italian>wl C90 Operator</Italian>
+				<Polish>wl C90 Operator</Polish>
+				<Portuguese>wl C90 Operator</Portuguese>
+				<Russian>wl C90 Operator</Russian>
+				<Spanish>bs Operador C90</Spanish>
+				<Japanese>森林 C90 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_c100_moe">
+				<Original>wl C100 Operator</Original>
+				<English>wl C100 Operator</English>
+				<Czech>wl C100 Operator</Czech>
+				<French>wl C100 Operator</French>
+				<German>wl C100 Operator</German>
+				<Italian>wl C100 Operator</Italian>
+				<Polish>wl C100 Operator</Polish>
+				<Portuguese>wl C100 Operator</Portuguese>
+				<Russian>wl C100 Operator</Russian>
+				<Spanish>bs Operador C100</Spanish>
+				<Japanese>森林 C100 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_saboteadorsl_moe">
+				<Original>wl Silenced Operator</Original>
+				<English>wl Silenced Operator</English>
+				<Czech>wl Silenced Operator</Czech>
+				<French>wl Silenced Operator</French>
+				<German>wl Silenced Operator</German>
+				<Italian>wl Silenced Operator</Italian>
+				<Polish>wl Silenced Operator</Polish>
+				<Portuguese>wl Silenced Operator</Portuguese>
+				<Russian>wl Silenced Operator</Russian>
+				<Spanish>bs Operador Silenciado</Spanish>
+				<Japanese>森林 隠密オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_saboteadorexplo_moe">
+				<Original>wl Engineer Operator</Original>
+				<English>wl Engineer Operator</English>
+				<Czech>wl Engineer Operator</Czech>
+				<French>wl Engineer Operator</French>
+				<German>wl Engineer Operator</German>
+				<Italian>wl Engineer Operator</Italian>
+				<Polish>wl Engineer Operator</Polish>
+				<Portuguese>wl Engineer Operator</Portuguese>
+				<Russian>wl Engineer Operator</Russian>
+				<Spanish>bs Operador Ingeniero</Spanish>
+				<Japanese>森林 工兵オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_lider_moe_ds">
+				<Original>ds Leader Operator</Original>
+				<English>ds Leader Operator</English>
+				<Czech>ds Leader Operator</Czech>
+				<French>ds Leader Operator</French>
+				<German>ds Leader Operator</German>
+				<Italian>ds Leader Operator</Italian>
+				<Polish>ds Leader Operator</Polish>
+				<Portuguese>ds Leader Operator</Portuguese>
+				<Russian>ds Leader Operator</Russian>
+				<Spanish>ds Operador Lider</Spanish>
+				<Japanese>砂漠 班長オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusmo_moe_ds">
+				<Original>ds Rifleman Operator</Original>
+				<English>ds Rifleman Operator</English>
+				<Czech>ds Rifleman Operator</Czech>
+				<French>ds Rifleman Operator</French>
+				<German>ds Rifleman Operator</German>
+				<Italian>ds Rifleman Operator</Italian>
+				<Polish>ds Rifleman Operator</Polish>
+				<Portuguese>ds Rifleman Operator</Portuguese>
+				<Russian>ds Rifleman Operator</Russian>
+				<Spanish>ds Operador Fusilero</Spanish>
+				<Japanese>砂漠 小銃手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tirador_moe_ds">
+				<Original>ds Marksman Operator</Original>
+				<English>ds Marksman Operator</English>
+				<Czech>ds Marksman Operator</Czech>
+				<French>ds Marksman Operator</French>
+				<German>ds Marksman Operator</German>
+				<Italian>ds Marksman Operator</Italian>
+				<Polish>ds Marksman Operator</Polish>
+				<Portuguese>ds Marksman Operator</Portuguese>
+				<Russian>ds Marksman Operator</Russian>
+				<Spanish>ds Operador Tirador</Spanish>
+				<Japanese>砂漠 選抜射手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_sanitario_moe_ds">
+				<Original>ds Sanitary Operator</Original>
+				<English>ds Sanitary Operator</English>
+				<Czech>ds Sanitary Operator</Czech>
+				<French>ds Sanitary Operator</French>
+				<German>ds Sanitary Operator</German>
+				<Italian>ds Sanitary Operator</Italian>
+				<Polish>ds Sanitary Operator</Polish>
+				<Portuguese>ds Sanitary Operator</Portuguese>
+				<Russian>ds Sanitary Operator</Russian>
+				<Spanish>ds Operador Sanitario</Spanish>
+				<Japanese>砂漠 衛生兵オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mg4_moe_ds">
+				<Original>ds MG4 Operator</Original>
+				<English>ds MG4 Operator</English>
+				<Czech>ds MG4 Operator</Czech>
+				<French>ds MG4 Operator</French>
+				<German>ds MG4 Operator</German>
+				<Italian>ds MG4 Operator</Italian>
+				<Polish>ds MG4 Operator</Polish>
+				<Portuguese>ds MG4 Operator</Portuguese>
+				<Russian>ds MG4 Operator</Russian>
+				<Spanish>ds Operador MG4</Spanish>
+				<Japanese>砂漠 MG4 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_granadero_moe_ds">
+				<Original>ds Grenadier Operator</Original>
+				<English>ds Grenadier Operator</English>
+				<Czech>ds Grenadier Operator</Czech>
+				<French>ds Grenadier Operator</French>
+				<German>ds Grenadier Operator</German>
+				<Italian>ds Grenadier Operator</Italian>
+				<Polish>ds Grenadier Operator</Polish>
+				<Portuguese>ds Grenadier Operator</Portuguese>
+				<Russian>ds Grenadier Operator</Russian>
+				<Spanish>ds Operador Granadero</Spanish>
+				<Japanese>砂漠 てき弾オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_c90_moe_ds">
+				<Original>ds C90 Operator</Original>
+				<English>ds C90 Operator</English>
+				<Czech>ds C90 Operator</Czech>
+				<French>ds C90 Operator</French>
+				<German>ds C90 Operator</German>
+				<Italian>ds C90 Operator</Italian>
+				<Polish>ds C90 Operator</Polish>
+				<Portuguese>ds C90 Operator</Portuguese>
+				<Russian>ds C90 Operator</Russian>
+				<Spanish>ds Operador C90</Spanish>
+				<Japanese>砂漠 C90 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_c100_moe_ds">
+				<Original>ds C100 Operator</Original>
+				<English>ds C100 Operator</English>
+				<Czech>ds C100 Operator</Czech>
+				<French>ds C100 Operator</French>
+				<German>ds C100 Operator</German>
+				<Italian>ds C100 Operator</Italian>
+				<Polish>ds C100 Operator</Polish>
+				<Portuguese>ds C100 Operator</Portuguese>
+				<Russian>ds C100 Operator</Russian>
+				<Spanish>ds Operador C100</Spanish>
+				<Japanese>砂漠 C100 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_saboteadorsl_moe_ds">
+				<Original>ds Silenced Operator</Original>
+				<English>ds Silenced Operator</English>
+				<Czech>ds Silenced Operator</Czech>
+				<French>ds Silenced Operator</French>
+				<German>ds Silenced Operator</German>
+				<Italian>ds Silenced Operator</Italian>
+				<Polish>ds Silenced Operator</Polish>
+				<Portuguese>ds Silenced Operator</Portuguese>
+				<Russian>ds Silenced Operator</Russian>
+				<Spanish>ds Operador Silenciado</Spanish>
+				<Japanese>砂漠 隠密オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_saboteadorexplo_moe_ds">
+				<Original>ds Engineer Operator</Original>
+				<English>ds Engineer Operator</English>
+				<Czech>ds Engineer Operator</Czech>
+				<French>ds Engineer Operator</French>
+				<German>ds Engineer Operator</German>
+				<Italian>ds Engineer Operator</Italian>
+				<Polish>ds Engineer Operator</Polish>
+				<Portuguese>ds Engineer Operator</Portuguese>
+				<Russian>ds Engineer Operator</Russian>
+				<Spanish>ds Operador Ingeniero</Spanish>
+				<Japanese>砂漠 工兵オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_01_1_ds">
+				<Original>Pro-Tec (Tan)</Original>
+				<English>Pro-Tec (Tan)</English>
+				<Czech>Pro-Tec (Tan)</Czech>
+				<French>Pro-Tec (Tan)</French>
+				<German>Pro-Tec (Tan)</German>
+				<Italian>Pro-Tec (Tan)</Italian>
+				<Polish>Pro-Tec (Tan)</Polish>
+				<Portuguese>Pro-Tec (Tan)</Portuguese>
+				<Russian>Pro-Tec (Tan)</Russian>
+				<Spanish>Pro-Tec (Tan)</Spanish>
+				<Japanese>プロテック (黄褐)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_01_1_bs">
+				<Original>Pro-Tec (Green)</Original>
+				<English>Pro-Tec (Green)</English>
+				<Czech>Pro-Tec (Green)</Czech>
+				<French>Pro-Tec (Green)</French>
+				<German>Pro-Tec (Green)</German>
+				<Italian>Pro-Tec (Green)</Italian>
+				<Polish>Pro-Tec (Green)</Polish>
+				<Portuguese>Pro-Tec (Green)</Portuguese>
+				<Russian>Pro-Tec (Green)</Russian>
+				<Spanish>Pro-Tec (Verde)</Spanish>
+				<Japanese>プロテック (緑)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_01_1_bk">
+				<Original>Pro-Tec (Black)</Original>
+				<English>Pro-Tec (Black)</English>
+				<Czech>Pro-Tec (Black)</Czech>
+				<French>Pro-Tec (Black)</French>
+				<German>Pro-Tec (Black)</German>
+				<Italian>Pro-Tec (Black)</Italian>
+				<Polish>Pro-Tec (Black)</Polish>
+				<Portuguese>Pro-Tec (Black)</Portuguese>
+				<Russian>Pro-Tec (Black)</Russian>
+				<Spanish>Pro-Tec (Negro)</Spanish>
+				<Japanese>プロテック (黒)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_1_bs">
+				<Original>ACH (Green/Norotos)</Original>
+				<English>ACH (Green/Norotos)</English>
+				<Czech>ACH (Green/Norotos)</Czech>
+				<French>ACH (Green/Norotos)</French>
+				<German>ACH (Green/Norotos)</German>
+				<Italian>ACH (Green/Norotos)</Italian>
+				<Polish>ACH (Green/Norotos)</Polish>
+				<Portuguese>ACH (Green/Norotos)</Portuguese>
+				<Russian>ACH (Green/Norotos)</Russian>
+				<Spanish>ACH (Verde/Norotos)</Spanish>
+				<Japanese>ACH (緑/ノロトス)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_1_ds">
+				<Original>ACH (Tan/Norotos)</Original>
+				<English>ACH (Tan/Norotos)</English>
+				<Czech>ACH (Tan/Norotos)</Czech>
+				<French>ACH (Tan/Norotos)</French>
+				<German>ACH (Tan/Norotos)</German>
+				<Italian>ACH (Tan/Norotos)</Italian>
+				<Polish>ACH (Tan/Norotos)</Polish>
+				<Portuguese>ACH (Tan/Norotos)</Portuguese>
+				<Russian>ACH (Tan/Norotos)</Russian>
+				<Spanish>ACH (Tan/Norotos)</Spanish>
+				<Japanese>ACH (黄褐/ノロトス)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_1_bk">
+				<Original>ACH (Black/Norotos)</Original>
+				<English>ACH (Black/Norotos)</English>
+				<Czech>ACH (Black/Norotos)</Czech>
+				<French>ACH (Black/Norotos)</French>
+				<German>ACH (Black/Norotos)</German>
+				<Italian>ACH (Black/Norotos)</Italian>
+				<Polish>ACH (Black/Norotos)</Polish>
+				<Portuguese>ACH (Black/Norotos)</Portuguese>
+				<Russian>ACH (Black/Norotos)</Russian>
+				<Spanish>ACH (Negro/Norotos)</Spanish>
+				<Japanese>ACH (黒/ノロトス)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_01_2_ds">
+				<Original>Pro-Tec (Tan/Balaclava)</Original>
+				<English>Pro-Tec (Tan/Balaclava)</English>
+				<Czech>Pro-Tec (Tan/Balaclava)</Czech>
+				<French>Pro-Tec (Tan/Balaclava)</French>
+				<German>Pro-Tec (Tan/Balaclava)</German>
+				<Italian>Pro-Tec (Tan/Balaclava)</Italian>
+				<Polish>Pro-Tec (Tan/Balaclava)</Polish>
+				<Portuguese>Pro-Tec (Tan/Balaclava)</Portuguese>
+				<Russian>Pro-Tec (Tan/Balaclava)</Russian>
+				<Spanish>Pro-Tec (Tan/Pasamontaña)</Spanish>
+				<Japanese>プロテック (黄褐/バラクラバ)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_01_2_bs">
+				<Original>Pro-Tec (Green/Balaclava)</Original>
+				<English>Pro-Tec (Green/Balaclava)</English>
+				<Czech>Pro-Tec (Green/Balaclava)</Czech>
+				<French>Pro-Tec (Green/Balaclava)</French>
+				<German>Pro-Tec (Green/Balaclava)</German>
+				<Italian>Pro-Tec (Green/Balaclava)</Italian>
+				<Polish>Pro-Tec (Green/Balaclava)</Polish>
+				<Portuguese>Pro-Tec (Green/Balaclava)</Portuguese>
+				<Russian>Pro-Tec (Green/Balaclava)</Russian>
+				<Spanish>Pro-Tec (Verde/Pasamontaña)</Spanish>
+				<Japanese>プロテック (緑/バラクラバ)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_01_2_bk">
+				<Original>Pro-Tec (Black/Balaclava)</Original>
+				<English>Pro-Tec (Black/Balaclava)</English>
+				<Czech>Pro-Tec (Black/Balaclava)</Czech>
+				<French>Pro-Tec (Black/Balaclava)</French>
+				<German>Pro-Tec (Black/Balaclava)</German>
+				<Italian>Pro-Tec (Black/Balaclava)</Italian>
+				<Polish>Pro-Tec (Black/Balaclava)</Polish>
+				<Portuguese>Pro-Tec (Black/Balaclava)</Portuguese>
+				<Russian>Pro-Tec (Black/Balaclava)</Russian>
+				<Spanish>Pro-Tec (Negro/Pasamontaña)</Spanish>
+				<Japanese>プロテック (黒/バラクラバ)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_2_bs">
+				<Original>ACH (Green/Norotos/Balaclava)</Original>
+				<English>ACH (Green/Norotos/Balaclava)</English>
+				<Czech>ACH (Green/Norotos/Balaclava)</Czech>
+				<French>ACH (Green/Norotos/Balaclava)</French>
+				<German>ACH (Green/Norotos/Balaclava)</German>
+				<Italian>ACH (Green/Norotos/Balaclava)</Italian>
+				<Polish>ACH (Green/Norotos/Balaclava)</Polish>
+				<Portuguese>ACH (Green/Norotos/Balaclava)</Portuguese>
+				<Russian>ACH (Green/Norotos/Balaclava)</Russian>
+				<Spanish>ACH (Verde/Norotos/Pasamontaña)</Spanish>
+				<Japanese>ACH (緑/ノロトス/バラクラバ)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_2_ds">
+				<Original>ACH (Tan/Norotos/Balaclava)</Original>
+				<English>ACH (Tan/Norotos/Balaclava)</English>
+				<Czech>ACH (Tan/Norotos/Balaclava)</Czech>
+				<French>ACH (Tan/Norotos/Balaclava)</French>
+				<German>ACH (Tan/Norotos/Balaclava)</German>
+				<Italian>ACH (Tan/Norotos/Balaclava)</Italian>
+				<Polish>ACH (Tan/Norotos/Balaclava)</Polish>
+				<Portuguese>ACH (Tan/Norotos/Balaclava)</Portuguese>
+				<Russian>ACH (Tan/Norotos/Balaclava)</Russian>
+				<Spanish>ACH (Tan/Norotos/Balaclava)</Spanish>
+				<Japanese>ACH (黄褐/ノロトス/バラクラバ)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_2_bk">
+				<Original>ACH (Black/Norotos/Balaclava)</Original>
+				<English>ACH (Black/Norotos/Balaclava)</English>
+				<Czech>ACH (Black/Norotos/Balaclava)</Czech>
+				<French>ACH (Black/Norotos/Balaclava)</French>
+				<German>ACH (Black/Norotos/Balaclava)</German>
+				<Italian>ACH (Black/Norotos/Balaclava)</Italian>
+				<Polish>ACH (Black/Norotos/Balaclava)</Polish>
+				<Portuguese>ACH (Black/Norotos/Balaclava)</Portuguese>
+				<Russian>ACH (Black/Norotos/Balaclava)</Russian>
+				<Spanish>ACH (Negro/Norotos/Balaclava)</Spanish>
+				<Japanese>ACH (黒/ノロトス/バラクラバ)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_3_bs">
+				<Original>ACH (Green/Norotos/Balaclava/ESS)</Original>
+				<English>ACH (Green/Norotos/Balaclava/ESS)</English>
+				<Czech>ACH (Green/Norotos/Balaclava/ESS)</Czech>
+				<French>ACH (Green/Norotos/Balaclava/ESS)</French>
+				<German>ACH (Green/Norotos/Balaclava/ESS)</German>
+				<Italian>ACH (Green/Norotos/Balaclava/ESS)</Italian>
+				<Polish>ACH (Green/Norotos/Balaclava/ESS)</Polish>
+				<Portuguese>ACH (Green/Norotos/Balaclava/ESS)</Portuguese>
+				<Russian>ACH (Green/Norotos/Balaclava/ESS)</Russian>
+				<Spanish>ACH (Verde/Norotos/Pasamontaña/Gafas)</Spanish>
+				<Japanese>ACH (緑/ノロトス/バラクラバ/ESS)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_3_ds">
+				<Original>ACH (Tan/Norotos/Balaclava/ESS)</Original>
+				<English>ACH (Tan/Norotos/Balaclava/ESS)</English>
+				<Czech>ACH (Tan/Norotos/Balaclava/ESS)</Czech>
+				<French>ACH (Tan/Norotos/Balaclava/ESS)</French>
+				<German>ACH (Tan/Norotos/Balaclava/ESS)</German>
+				<Italian>ACH (Tan/Norotos/Balaclava/ESS)</Italian>
+				<Polish>ACH (Tan/Norotos/Balaclava/ESS)</Polish>
+				<Portuguese>ACH (Tan/Norotos/Balaclava/ESS)</Portuguese>
+				<Russian>ACH (Tan/Norotos/Balaclava/ESS)</Russian>
+				<Spanish>ACH (Tan/Norotos/Pasamontaña/Gafas)</Spanish>
+				<Japanese>ACH (黄褐/ノロトス/バラクラバ/ESS)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_3_bk">
+				<Original>ACH (Black/Norotos/Balaclava/ESS)</Original>
+				<English>ACH (Black/Norotos/Balaclava/ESS)</English>
+				<Czech>ACH (Black/Norotos/Balaclava/ESS)</Czech>
+				<French>ACH (Black/Norotos/Balaclava/ESS)</French>
+				<German>ACH (Black/Norotos/Balaclava/ESS)</German>
+				<Italian>ACH (Black/Norotos/Balaclava/ESS)</Italian>
+				<Polish>ACH (Black/Norotos/Balaclava/ESS)</Polish>
+				<Portuguese>ACH (Black/Norotos/Balaclava/ESS)</Portuguese>
+				<Russian>ACH (Black/Norotos/Balaclava/ESS)</Russian>
+				<Spanish>ACH (Negro/Norotos/Pasamontaña/Gafas)</Spanish>
+				<Japanese>ACH (黒/ノロトス/バラクラバ/ESS)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_4_bs">
+				<Original>ACH (Green/Norotos/Cover)</Original>
+				<English>ACH (Green/Norotos/Cover)</English>
+				<Czech>ACH (Green/Norotos/Cover)</Czech>
+				<French>ACH (Green/Norotos/Cover)</French>
+				<German>ACH (Green/Norotos/Cover)</German>
+				<Italian>ACH (Green/Norotos/Cover)</Italian>
+				<Polish>ACH (Green/Norotos/Cover)</Polish>
+				<Portuguese>ACH (Green/Norotos/Cover)</Portuguese>
+				<Russian>ACH (Green/Norotos/Cover)</Russian>
+				<Spanish>ACH (Verde/Norotos/Funda)</Spanish>
+				<Japanese>ACH (緑/ノロトス/カバー)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_4_ds">
+				<Original>ACH (Tan/Norotos/Cover)</Original>
+				<English>ACH (Tan/Norotos/Cover)</English>
+				<Czech>ACH (Tan/Norotos/Cover)</Czech>
+				<French>ACH (Tan/Norotos/Cover)</French>
+				<German>ACH (Tan/Norotos/Cover)</German>
+				<Italian>ACH (Tan/Norotos/Cover)</Italian>
+				<Polish>ACH (Tan/Norotos/Cover)</Polish>
+				<Portuguese>ACH (Tan/Norotos/Cover)</Portuguese>
+				<Russian>ACH (Tan/Norotos/Cover)</Russian>
+				<Spanish>ACH (Tan/Norotos/Funda)</Spanish>
+				<Japanese>ACH (黄褐/ノロトス/カバー)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_4_bk">
+				<Original>ACH (Black/Norotos/Cover)</Original>
+				<English>ACH (Black/Norotos/Cover)</English>
+				<Czech>ACH (Black/Norotos/Cover)</Czech>
+				<French>ACH (Black/Norotos/Cover)</French>
+				<German>ACH (Black/Norotos/Cover)</German>
+				<Italian>ACH (Black/Norotos/Cover)</Italian>
+				<Polish>ACH (Black/Norotos/Cover)</Polish>
+				<Portuguese>ACH (Black/Norotos/Cover)</Portuguese>
+				<Russian>ACH (Black/Norotos/Cover)</Russian>
+				<Spanish>ACH (Negro/Norotos/Funda)</Spanish>
+				<Japanese>ACH (黒/ノロトス/カバー)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_5_bs">
+				<Original>ACH (Green/Norotos/Balaclava/Cover)</Original>
+				<English>ACH (Green/Norotos/Balaclava/Cover)</English>
+				<Czech>ACH (Green/Norotos/Balaclava/Cover)</Czech>
+				<French>ACH (Green/Norotos/Balaclava/Cover)</French>
+				<German>ACH (Green/Norotos/Balaclava/Cover)</German>
+				<Italian>ACH (Green/Norotos/Balaclava/Cover)</Italian>
+				<Polish>ACH (Green/Norotos/Balaclava/Cover)</Polish>
+				<Portuguese>ACH (Green/Norotos/Balaclava/Cover)</Portuguese>
+				<Russian>ACH (Green/Norotos/Balaclava/Cover)</Russian>
+				<Spanish>ACH (Verde/Norotos/Pasamontaña/Funda)</Spanish>
+				<Japanese>ACH (緑/ノロトス/バラクラバ/カバー)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_5_ds">
+				<Original>ACH (Tan/Norotos/Balaclava/Cover)</Original>
+				<English>ACH (Tan/Norotos/Balaclava/Cover)</English>
+				<Czech>ACH (Tan/Norotos/Balaclava/Cover)</Czech>
+				<French>ACH (Tan/Norotos/Balaclava/Cover)</French>
+				<German>ACH (Tan/Norotos/Balaclava/Cover)</German>
+				<Italian>ACH (Tan/Norotos/Balaclava/Cover)</Italian>
+				<Polish>ACH (Tan/Norotos/Balaclava/Cover)</Polish>
+				<Portuguese>ACH (Tan/Norotos/Balaclava/Cover)</Portuguese>
+				<Russian>ACH (Tan/Norotos/Balaclava/Cover)</Russian>
+				<Spanish>ACH (Tan/Norotos/Pasamontaña/Funda)</Spanish>
+				<Japanese>ACH (黄褐/ノロトス/バラクラバ/カバー)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_casco_moe_02_5_bk">
+				<Original>ACH (Black/Norotos/Balaclava/Cover)</Original>
+				<English>ACH (Black/Norotos/Balaclava/Cover)</English>
+				<Czech>ACH (Black/Norotos/Balaclava/Cover)</Czech>
+				<French>ACH (Black/Norotos/Balaclava/Cover)</French>
+				<German>ACH (Black/Norotos/Balaclava/Cover)</German>
+				<Italian>ACH (Black/Norotos/Balaclava/Cover)</Italian>
+				<Polish>ACH (Black/Norotos/Balaclava/Cover)</Polish>
+				<Portuguese>ACH (Black/Norotos/Balaclava/Cover)</Portuguese>
+				<Russian>ACH (Black/Norotos/Balaclava/Cover)</Russian>
+				<Spanish>ACH (Negro/Norotos/Pasamontaña/Funda)</Spanish>
+				<Japanese>ACH (黒/ノロトス/バラクラバ/カバー)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_peco_moe_02_bs">
+				<Original>Ciras Land (Woodland)</Original>
+				<English>Ciras Land (Woodland)</English>
+				<Czech>Ciras Land (Woodland)</Czech>
+				<French>Ciras Land (Woodland)</French>
+				<German>Ciras Land (Woodland)</German>
+				<Italian>Ciras Land (Woodland)</Italian>
+				<Polish>Ciras Land (Woodland)</Polish>
+				<Portuguese>Ciras Land (Woodland)</Portuguese>
+				<Russian>Ciras Land (Woodland)</Russian>
+				<Spanish>Ciras Land (Woodland)</Spanish>
+				<Japanese>サイラス ランド (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_peco_moe_01_bs">
+				<Original>Ciras Land (Woodland w/Camelback)</Original>
+				<English>Ciras Land (Woodland w/Camelback)</English>
+				<Czech>Ciras Land (Woodland w/Camelback)</Czech>
+				<French>Ciras Land (Woodland w/Camelback)</French>
+				<German>Ciras Land (Woodland w/Camelback)</German>
+				<Italian>Ciras Land (Woodland w/Camelback)</Italian>
+				<Polish>Ciras Land (Woodland w/Camelback)</Polish>
+				<Portuguese>Ciras Land (Woodland w/Camelback)</Portuguese>
+				<Russian>Ciras Land (Woodland w/Camelback)</Russian>
+				<Spanish>Ciras Land (Woodland w/Camelback)</Spanish>
+				<Japanese>サイラス ランド (森林/キャメルバック)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_peco_moe_02_ds">
+				<Original>Ciras Land (Arid)</Original>
+				<English>Ciras Land (Arid)</English>
+				<Czech>Ciras Land (Arid)</Czech>
+				<French>Ciras Land (Arid)</French>
+				<German>Ciras Land (Arid)</German>
+				<Italian>Ciras Land (Arid)</Italian>
+				<Polish>Ciras Land (Arid)</Polish>
+				<Portuguese>Ciras Land (Arid)</Portuguese>
+				<Russian>Ciras Land (Arid)</Russian>
+				<Spanish>Ciras Land (Arido)</Spanish>
+				<Japanese>サイラス ランド (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_peco_moe_01_ds">
+				<Original>Ciras Land (Arid w/Camelback)</Original>
+				<English>Ciras Land (Arid w/Camelback)</English>
+				<Czech>Ciras Land (Arid w/Camelback)</Czech>
+				<French>Ciras Land (Arid w/Camelback)</French>
+				<German>Ciras Land (Arid w/Camelback)</German>
+				<Italian>Ciras Land (Arid w/Camelback)</Italian>
+				<Polish>Ciras Land (Arid w/Camelback)</Polish>
+				<Portuguese>Ciras Land (Arid w/Camelback)</Portuguese>
+				<Russian>Ciras Land (Arid w/Camelback)</Russian>
+				<Spanish>Ciras Land (Arido w/Camelback)</Spanish>
+				<Japanese>サイラス ランド (砂漠/キャメルバック)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_peco_moe_02_mtp">
+				<Original>Ciras Land (MTP)</Original>
+				<English>Ciras Land (MTP)</English>
+				<Czech>Ciras Land (MTP)</Czech>
+				<French>Ciras Land (MTP)</French>
+				<German>Ciras Land (MTP)</German>
+				<Italian>Ciras Land (MTP)</Italian>
+				<Polish>Ciras Land (MTP)</Polish>
+				<Portuguese>Ciras Land (MTP)</Portuguese>
+				<Russian>Ciras Land (MTP)</Russian>
+				<Spanish>Ciras Land (MTP)</Spanish>
+				<Japanese>サイラス ランド (マルチカモ)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_peco_moe_01_mtp">
+				<Original>Ciras Land (MTP w/Camelback)</Original>
+				<English>Ciras Land (MTP w/Camelback)</English>
+				<Czech>Ciras Land (MTP w/Camelback)</Czech>
+				<French>Ciras Land (MTP w/Camelback)</French>
+				<German>Ciras Land (MTP w/Camelback)</German>
+				<Italian>Ciras Land (MTP w/Camelback)</Italian>
+				<Polish>Ciras Land (MTP w/Camelback)</Polish>
+				<Portuguese>Ciras Land (MTP w/Camelback)</Portuguese>
+				<Russian>Ciras Land (MTP w/Camelback)</Russian>
+				<Spanish>Ciras Land (MTP w/Camelback)</Spanish>
+				<Japanese>サイラス ランド (マルチカモ/キャメルバック)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_classe_moe">
+				<Original>Hombres (MOE)</Original>
+				<English>Men (MOE)</English>
+				<Czech>Men (MOE)</Czech>
+				<French>Hommes (MOE)</French>
+				<German>Männer (MOE)</German>
+				<Italian>Uomini (MOE)</Italian>
+				<Polish>Men (MOE)</Polish>
+				<Portuguese>Homens (MOE)</Portuguese>
+				<Russian>Men (MOE)</Russian>
+				<Spanish>Hombres (MOE)</Spanish>
+				<Japanese>兵士 (MOE)</Japanese>
+			</Key>
+		</Container>
+	</Package>
+</Project>
