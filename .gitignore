@@ -56,6 +56,9 @@ Temporary Items
 *.hpp
 *.wav
 *.wss
+*.cfg
+*.rvmat
+*.sqf
 
 # =========================
 # En el repositorio no se suben archivos de edición
