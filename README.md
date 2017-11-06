@@ -8,8 +8,8 @@
     <img src="http://img.shields.io/github/issues-raw/FFAAMOD/Translation_FFAAMOD.svg?style=flat&label=Issues"
          alt="Issues" />
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg"
+  <a href="https://opensource.org/licenses/GPL-3.0">
+    <img src="https://img.shields.io/badge/License-GPL-yellow.svg"
          alt="License" />
   </a>
 </p>
