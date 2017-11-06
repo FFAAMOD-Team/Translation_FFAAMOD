@@ -4,8 +4,8 @@
 </p>
 <h1 align="center">FFAA MOD Translation</h1>
 <p align="center">
-  <a href="https://github.com/Mickyleitor/Translation_FFAAMOD/issues">
-    <img src="http://img.shields.io/github/issues-raw/Mickyleitor/Translation_FFAAMOD.svg?style=flat&label=Issues"
+  <a href="https://github.com/FFAAMOD/Translation_FFAAMOD/issues">
+    <img src="http://img.shields.io/github/issues-raw/FFAAMOD/Translation_FFAAMOD.svg?style=flat&label=Issues"
          alt="Issues" />
   </a>
   <a href="https://opensource.org/licenses/MIT">
@@ -24,8 +24,8 @@ The tool <strong>tabler</strong> is available <a href="https://github.com/bux/ta
 
 ## Submitting a pull request
 
-0. [Fork][fork] and clone <a href="https://github.com/Mickyleitor/Translation_FFAAMOD.git">this</a> repository to your local folder
-0. Open all <code>stringtable.xml</code> files inside <a href="https://github.com/Mickyleitor/Translation_FFAAMOD/tree/master/RawFiles">RawFiles</a> folder in one UI.
+0. [Fork][fork] and clone <a href="https://github.com/FFAAMOD/Translation_FFAAMOD.git">this</a> repository to your local folder
+0. Open all <code>stringtable.xml</code> files inside <a href="https://github.com/Mickyleitor/Translation_FFAAMOD/tree/master/addon">addon</a> folder in one UI.
 0. Add keys, languages and edit translations in an Excel-like grid view.
 0. Save all changes back to the localization files.
 0. Keep an eye on the translation progress with statistics – right-clicking the chart let's you copy them to clipboard.
@@ -38,6 +38,6 @@ The tool <strong>tabler</strong> is available <a href="https://github.com/bux/ta
 - [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
 - [GitHub Help](https://help.github.com)
 
-[fork]: https://github.com/Mickyleitor/Translation_FFAAMOD/fork
-[pr]: https://github.com/Mickyleitor/Translation_FFAAMOD/compare
+[fork]: https://github.com/FFAAMOD/Translation_FFAAMOD/fork
+[pr]: https://github.com/FFAAMOD/Translation_FFAAMOD/compare
 [style]: http://ben.balter.com/jekyll-style-guide/
