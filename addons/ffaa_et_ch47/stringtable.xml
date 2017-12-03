@@ -109,11 +109,6 @@
 				<English>Attach position</English>
 				<Japanese>この位置に取り付け</Japanese>
 			</Key>
-			   <Key ID="str_ffaa_ch47_hideseats">
-				<Original>Remove seats</Original>
-				<English>Remove seats</English>
-				<Spanish>Quitar asientos</Spanish>
-		   </Key>
 			<Key ID="str_ffaa_lib_ch47">
 				<Original>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</Original>
 				<Chinese>The Boeing CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter. Its primary roles are troop movement, artillery placement and battlefield resupply.</Chinese>

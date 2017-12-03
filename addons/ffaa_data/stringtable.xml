@@ -86,6 +86,18 @@
 				<Spanish>Desmontar red de camuflaje</Spanish>
 				<Japanese>偽装網を降ろす</Japanese>
 			</Key>
+            <Key ID="str_ffaa_quitartoldo">
+				<Original>Quitar toldo</Original>
+				<English>Release cover</English>
+				<Spanish>Desmontar toldo</Spanish>
+				<Japanese>カバーを解放</Japanese>
+			</Key>
+			<Key ID="str_ffaa_montartoldo">
+				<Original>Montar toldo</Original>
+				<English>Mount cover</English>
+				<Spanish>Montar toldo</Spanish>
+				<Japanese>カバーを積載</Japanese>
+			</Key>
 			<Key ID="str_ffaa_window">
 				<Original>Raise/Lower window</Original>
 				<English>Raise/Lower window</English>
@@ -115,6 +127,16 @@
 				<Spanish>Ocultar detalles adicionales</Spanish>
 				<Japanese>追加ディテールを非表示</Japanese>
 				<English>Hide additional details</English>
+			</Key>
+			<Key ID="str_ffaa_hideseats">
+				<Original>Remove seats</Original>
+				<English>Remove seats</English>
+				<Spanish>Quitar asientos</Spanish>
+			</Key>
+			<Key ID="str_ffaa_hidegunners">
+				<Original>Remove door gunner seats</Original>
+				<English>Remove door gunner seats</English>
+				<Spanish>Quitar asientos de los artilleros</Spanish>
 			</Key>
 			<Key ID="str_ffaa_hidecamonet">
 				<Original>Hide camouflage net</Original>
@@ -169,6 +191,20 @@
 				<English>SATCOM system is disconnected</English>
 				<Spanish>Sistema SATCOM está desconectado</Spanish>
 				<Japanese>衛星通信システムを切断した</Japanese>
+			</Key>
+			<Key ID="str_ffaa_preset_ea">
+				<Original>Spanish Air Force</Original>
+				<English>Spanish Air Force</English>
+				<Spanish>Ejercito del Aire Español</Spanish>
+			</Key>
+			<Key ID="str_ffaa_preset_et">
+				<Original>FAMET</Original>
+				<Spanish>FAMET</Spanish>
+			</Key>
+			<Key ID="str_ffaa_preset_ar">
+				<Original>Spanish Navy</Original>
+				<English>Spanish Navy</English>
+				<Spanish>Armada Española</Spanish>
 			</Key>
 		</Container>
 		<Container name="autores">
@@ -234,8 +270,30 @@
 				<Original>Conde, Micky</Original>
 				<Japanese>Conde, Micky</Japanese>
 			</Key>
+			<Key ID="str_ffaa_nh90_autor">
+				<Original>Lobo,Conde,Iban,Micky</Original>
+				<English>Lobo,Conde,Iban,Micky</English>
+				<Czech>Lobo,Conde,Iban,Micky</Czech>
+				<French>Lobo,Conde,Iban,Micky</French>
+				<German>Lobo,Conde,Iban,Micky</German>
+				<Italian>Lobo,Conde,Iban,Micky</Italian>
+				<Polish>Lobo,Conde,Iban,Micky</Polish>
+				<Portuguese>Lobo,Conde,Iban,Micky</Portuguese>
+				<Russian>Lobo,Conde,Iban,Micky</Russian>
+				<Spanish>Lobo,Conde,Iban,Micky</Spanish>
+			</Key>
 		</Container>
 		<Container name="banderas">
+            <Key ID="STR_FFAA_BANDERA_TEXTO_NODISPONIBLE1">
+				<Original>The flag with "</Original>
+				<English>The flag with "</English>
+				<Spanish>La bandera con classname "</Spanish>
+			</Key>
+            <Key ID="str_ffaa_bandera_texto_nodisponible2">
+				<Original>" classname is not available. There is a high chance it's not showing up inside Arma3.es linked groups</Original>
+				<English>" classname is not available. There is a high chance it's not showing up inside Arma3.es linked groups</English>
+				<Spanish>" no está disponible. Es probable que no figure dentro del conjunto de clanes adheridos a los foros de Arma3.es</Spanish>
+			</Key>
 			<Key ID="str_ffaa_bandera_espa">
 				<Original>Flag (Spanish)</Original>
 				<English>Flag (Spanish)</English>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_nh90">
+		<Container name="nh90">
+			<Key ID="str_ffaa_nh90_tth">
+				<Original>NH90 TTH </Original>
+			</Key>
+			<Key ID="str_ffaa_nh90_nfh">
+				<Original>NH90 NFH</Original>
+			</Key>
+			<Key ID="str_ffaa_nh90_marte">
+				<Original>Marte Mk2/S</Original>
+			</Key>
+			<Key ID="str_ffaa_lib_nh90">
+				<Original>El NH90 es un helicóptero militar polivalente de tamaño medio bimotor construido por NHIndustries. El NH90, que puede ser tripulado por un solo piloto, está diseñado para operar en condiciones meteorológicas adversas, tanto de día como de noche. El helicópter NH90 tiene dos versiones genéricas: una terrestre (TTH) y otra naval (NFH). TTH La misión principal de la versión TTH, Tactical Transport Helicopter, es el transporte de hasta 20 soldados totalmente equipados o más de 2.500 kg de carga, operaciones helitransportadas y búsqueda y rescate. Otras aplicaciones incluyen la evacuación médica (12 camillas), operaciones especiales, lucha electrónica, correo aéreo, paracaidismo, transporte VIP y entrenamiento de vuelo. NFH El principal cometido de la versión NFH, NATO Frigate Helicopter, es el combate antisubmarino (ASW) y antinavío (ASUW) como plataforma autónoma embarcada. Estas unidades están equipadas para trabajar tanto de día como de noche, meteorología adversa y operaciones embarcadas. Otras misiones pueden incluir soporte en lucha antiaérea, reabastecimiento vertical, búsqueda y rescate y transporte de tropas.</Original>
+			</Key>
+		</Container>
+	</Package>
+</Project>
