@@ -102,7 +102,7 @@
 				<Original>Raise/Lower window</Original>
 				<English>Raise/Lower window</English>
 				<Spanish>Subir/Bajar ventana</Spanish>
-				<Japanese>窓の上げる/下げる</Japanese>
+				<Japanese>窓を上げる/下げる</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bosque">
 				<Original>Woodland</Original>
@@ -132,11 +132,13 @@
 				<Original>Remove seats</Original>
 				<English>Remove seats</English>
 				<Spanish>Quitar asientos</Spanish>
+				<Japanese>席を削除</Japanese>
 			</Key>
 			<Key ID="str_ffaa_hidegunners">
 				<Original>Remove door gunner seats</Original>
 				<English>Remove door gunner seats</English>
 				<Spanish>Quitar asientos de los artilleros</Spanish>
+				<Japanese>ドア射手席を削除</Japanese>
 			</Key>
 			<Key ID="str_ffaa_hidecamonet">
 				<Original>Hide camouflage net</Original>
@@ -196,15 +198,18 @@
 				<Original>Spanish Air Force</Original>
 				<English>Spanish Air Force</English>
 				<Spanish>Ejercito del Aire Español</Spanish>
+				<Japanese>スペイン空軍</Japanese>
 			</Key>
 			<Key ID="str_ffaa_preset_et">
 				<Original>FAMET</Original>
 				<Spanish>FAMET</Spanish>
+				<Japanese>FAMET</Japanese>
 			</Key>
 			<Key ID="str_ffaa_preset_ar">
 				<Original>Spanish Navy</Original>
 				<English>Spanish Navy</English>
 				<Spanish>Armada Española</Spanish>
+				<Japanese>スペイン海軍</Japanese>
 			</Key>
 		</Container>
 		<Container name="autores">
@@ -288,11 +293,13 @@
 				<Original>The flag with "</Original>
 				<English>The flag with "</English>
 				<Spanish>La bandera con classname "</Spanish>
+				<Japanese>次の旗"</Japanese>
 			</Key>
             <Key ID="str_ffaa_bandera_texto_nodisponible2">
 				<Original>" classname is not available. There is a high chance it's not showing up inside Arma3.es linked groups</Original>
 				<English>" classname is not available. There is a high chance it's not showing up inside Arma3.es linked groups</English>
 				<Spanish>" no está disponible. Es probable que no figure dentro del conjunto de clanes adheridos a los foros de Arma3.es</Spanish>
+				<Japanese>"のクラスネームは利用できません。Arma3.ex連携グループではないため、高い確率で表示されません。</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bandera_espa">
 				<Original>Flag (Spanish)</Original>
@@ -316,7 +323,7 @@
 				<Original>Flag (Spanish Community)</Original>
 				<English>Flag (Spanish Community)</English>
 				<Spanish>Bandera (Comunidad Espanola)</Spanish>
-				<Japanese>旗 (スペインコミュニティ)</Japanese>
+				<Japanese>旗 (スペイン コミュニティ)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bandera_blackwater">
 				<Original>Flag (Blackwater)</Original>
