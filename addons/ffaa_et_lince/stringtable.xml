@@ -6,26 +6,31 @@
 				<Original>Lince LMV</Original>
 				<English>Lince LMV</English>
 				<Spanish>Lince LMV</Spanish>
+				<Japanese>リンセ LMV</Japanese>
 			</Key>
             <Key ID="STR_FFAA_DN_ET_LINCE_M2">
 				<Original>Lince LMV (M2)</Original>
 				<English>Lince LMV (M2)</English>
 				<Spanish>Lince LMV (M2)</Spanish>
+				<Japanese>リンセ LMV (M2)</Japanese>
 			</Key>
             <Key ID="STR_FFAA_DN_ET_LINCE_MG3">
 				<Original>Lince LMV (MG3)</Original>
 				<English>Lince LMV (MG3)</English>
 				<Spanish>Lince LMV (MG3)</Spanish>
+				<Japanese>リンセ LMV (MG3)</Japanese>
 			</Key>
             <Key ID="STR_FFAA_DN_ET_LINCE_LAG40">
 				<Original>Lince LMV (LAG40)</Original>
 				<English>Lince LMV (LAG40)</English>
 				<Spanish>Lince LMV (LAG40)</Spanish>
+				<Japanese>リンセ LMV (LAG40)</Japanese>
 			</Key>
             <Key ID="STR_FFAA_DN_ET_LINCE_AMB">
 				<Original>Lince LMV (Medical)</Original>
 				<English>Lince LMV (Medical)</English>
 				<Spanish>Lince LMV (Ambulancia)</Spanish>
+				<Japanese>リンセ LMV (救急)</Japanese>
 			</Key>
             <Key ID="STR_A3_CFGVEHICLES_LMV_01_BASE_LIBRARY0">
 				<Original>El Iveco LMV, siglas en inglés de Light Multirole Vehicle (en español: vehículo polivalente ligero), es un vehículo táctico 4x4 desarrollado por la compañía italiana Iveco, está en servicio con varios países.</Original>
@@ -33,13 +38,15 @@
 			</Key>
             <Key ID="STR_FFAA_NAMESOUND_VEH_VEHICLE_LMV_S">
 				<Original>Light Multirole Vehicle</Original>
-                <English>Light Multirole Vehicle</English>
+				<English>Light Multirole Vehicle</English>
 				<Spanish>Vehículo Polivalente Ligero</Spanish>
+				<Japanese>軽量多用途車両</Japanese>
 			</Key>
             <Key ID="STR_FFAA_NAMESOUND_VEH_VEHICLE_LMV_P">
 				<Original>Light Multirole Vehicles</Original>
-                <English>Light Multirole Vehicles</English>
+				<English>Light Multirole Vehicles</English>
 				<Spanish>Vehículos Polivalentes Ligeros</Spanish>
+				<Japanese>軽量多用途車両</Japanese>
             </Key>
 		</Container>
 	</Package>
