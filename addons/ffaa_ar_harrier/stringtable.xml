@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_ar_harrier">
+		<Container name="harrier">
+			<Key ID="str_ffaa_dn_harrier">
+				<Original>AV-8B Harrier II</Original>
+				<English>AV-8B Harrier II</English>
+				<Czech>AV-8B Harrier II</Czech>
+				<French>AV-8B Harrier II</French>
+				<German>AV-8B Harrier II</German>
+				<Italian>AV-8B Harrier II</Italian>
+				<Polish>AV-8B Harrier II</Polish>
+				<Portuguese>AV-8B Harrier II</Portuguese>
+				<Russian>AV-8B Harrier II</Russian>
+				<Spanish>AV-8B Harrier II</Spanish>
+				<Japanese>AV-8B ハリアー II</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_harrier_gbu">
+				<Original>AV-8B Harrier II (GBU)</Original>
+				<English>AV-8B Harrier II (GBU)</English>
+				<Czech>AV-8B Harrier II (GBU)</Czech>
+				<French>AV-8B Harrier II (GBU)</French>
+				<German>AV-8B Harrier II (GBU)</German>
+				<Italian>AV-8B Harrier II (GBU)</Italian>
+				<Polish>AV-8B Harrier II (GBU)</Polish>
+				<Portuguese>AV-8B Harrier II (GBU)</Portuguese>
+				<Russian>AV-8B Harrier II (GBU)</Russian>
+				<Spanish>AV-8B Harrier II (GBU)</Spanish>
+				<Japanese>AV-8B ハリアー II (GBU)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_harrier_cap">
+				<Original>AV-8B Harrier II (CAP)</Original>
+				<Spanish>AV-8B Harrier II (CAP)</Spanish>
+				<Czech>AV-8B Harrier II (CAP)</Czech>
+				<French>AV-8B Harrier II (CAP)</French>
+				<German>AV-8B Harrier II (CAP)</German>
+				<Italian>AV-8B Harrier II (CAP)</Italian>
+				<Polish>AV-8B Harrier II (CAP)</Polish>
+				<Portuguese>AV-8B Harrier II (CAP)</Portuguese>
+				<Russian>AV-8B Harrier II (CAP)</Russian>
+				<English>AV-8B Harrier II (CAP)</English>
+				<Japanese>AV-8B ハリアー II (CAP)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_harrier_cas">
+				<Original>AV-8B Harrier II (CAS)</Original>
+				<Spanish>AV-8B Harrier II (CAS)</Spanish>
+				<Czech>AV-8B Harrier II (CAS)</Czech>
+				<French>AV-8B Harrier II (CAS)</French>
+				<German>AV-8B Harrier II (CAS)</German>
+				<Italian>AV-8B Harrier II (CAS)</Italian>
+				<Polish>AV-8B Harrier II(CAS)</Polish>
+				<Portuguese>AV-8B Harrier II (CAS)</Portuguese>
+				<Russian>AV-8B Harrier II (CAS)</Russian>
+				<English>AV-8B Harrier II (CAS)</English>
+				<Japanese>AV-8B ハリアー II (CAS)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_harrier_mr">
+				<Original>AV-8B Harrier II (Multi-Role)</Original>
+				<Spanish>AV-8B Harrier II (Multi-Role)</Spanish>
+				<Czech>AV-8B Harrier II (Multi-Role)</Czech>
+				<French>AV-8B Harrier II (Multi-Role)</French>
+				<German>AV-8B Harrier II (Multi-Role)</German>
+				<Italian>AV-8B Harrier II (Multi-Role)</Italian>
+				<Polish>AV-8B Harrier II(Multi-Role)</Polish>
+				<Portuguese>AV-8B Harrier II (Multi-Role)</Portuguese>
+				<Russian>AV-8B Harrier II (Multi-Role)</Russian>
+				<English>AV-8B Harrier II (Multi-Role)</English>
+				<Japanese>AV-8B ハリアー II (マルチロール)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_harr_gau_25mm">
+				<Original>GAU-12 25mm</Original>
+				<Spanish>GAU-12 25mm</Spanish>
+				<Czech>GAU-12 25mm</Czech>
+				<French>GAU-12 25mm</French>
+				<German>GAU-12 25mm</German>
+				<Italian>GAU-12 25mm</Italian>
+				<Polish>GAU-12 25mm</Polish>
+				<Portuguese>GAU-12 25mm</Portuguese>
+				<Russian>GAU-12 25mm</Russian>
+				<English>GAU-12 25mm</English>
+				<Japanese>GAU-12 25mm</Japanese>
+			</Key>
+			<Key ID="str_ffaa_pilot_harri">
+				<Original>Piloto Harrier</Original>
+				<Spanish>Piloto Harrier</Spanish>
+				<Czech>Piloto Harrier</Czech>
+				<French>Piloto Harrier</French>
+				<German>Piloto Harrier</German>
+				<Italian>Piloto Harrier</Italian>
+				<Polish>Piloto Harrier</Polish>
+				<Portuguese>Piloto Harrier</Portuguese>
+				<Russian>Piloto Harrier</Russian>
+				<English>Piloto Harrier</English>
+				<Japanese>ハリアー パイロット</Japanese>
+			</Key>
+			<Key ID="str_ffaa_pilot_harri_uniforme">
+				<Original>Uniforme Piloto Harrier</Original>
+				<Spanish>Uniforme Piloto Harrier</Spanish>
+				<Czech>Uniforme Piloto Harrier</Czech>
+				<French>Uniforme Piloto Harrier</French>
+				<German>Uniforme Piloto Harrier</German>
+				<Italian>Uniforme Piloto Harrier</Italian>
+				<Polish>Uniforme Piloto Harrier</Polish>
+				<Portuguese>Uniforme Piloto Harrier</Portuguese>
+				<Russian>Uniforme Piloto Harrier</Russian>
+				<English>Uniforme Piloto Harrier</English>
+				<Japanese>ハリアー パイロット服</Japanese>
+			</Key>
+			<Key ID="str_ffaa_lib_harrier">
+				<Original>AV-8B Harrier</Original>
+				<English>AV-8B Harrier</English>
+				<Czech>AV-8B Harrier</Czech>
+				<French>AV-8B Harrier</French>
+				<German>AV-8B Harrier</German>
+				<Italian>AV-8B Harrier</Italian>
+				<Polish>AV-8B Harrier</Polish>
+				<Portuguese>AV-8B Harrier</Portuguese>
+				<Russian>AV-8B Harrier</Russian>
+				<Spanish>AV-8B Harrier</Spanish>
+				<Japanese>AV-8B ハリアー</Japanese>
+			</Key>
+		</Container>
+	</Package>
+</Project>

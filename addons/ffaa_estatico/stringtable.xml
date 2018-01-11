@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_estatico">
+		<Container name="estatico">
+			<Key ID="STR_FFAA_TRIPODE_SPIKE">
+				<Original>Tripod-mounted Spike launcher</Original>
+				<English>Tripod-mounted Spike launcher</English>
+				<Spanish>Trípode lanzador de Spike</Spanish>
+				<Japanese>三脚付きスパイク ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_MODO_MANUAL_SPIKE">
+				<Original>Manual mode</Original>
+				<English>Manual mode</English>
+				<Spanish>Modo manual</Spanish>
+				<Japanese>手動モード</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_MODO_AUTOGUIADO_SPIKE">
+				<Original>Auto guided mode</Original>
+				<English>Auto guided mode</English>
+				<Spanish>Modo autoguiado</Spanish>
+				<Japanese>自動誘導モード</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_MILAN">
+				<Original>Tripod-mounted Milan launcher</Original>
+				<English>Tripod-mounted Milan launcher</English>
+				<Spanish>Trípode lanzador de Milan</Spanish>
+				<Japanese>三脚付きミラン ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_TOW">
+				<Original>Tripod-mounted Tow launcher</Original>
+				<English>Tripod-mounted Tow launcher</English>
+				<Spanish>Trípode lanzador de Tow</Spanish>
+				<Japanese>三脚付き TOW ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_MISTRAL">
+				<Original>Tripod-mounted Mistral launcher</Original>
+				<English>Tripod-mounted Mistral launcher</English>
+				<Spanish>Trípode lanzador de Mistral</Spanish>
+				<Japanese>三脚付きミストラル ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_M2">
+				<Original>M2 Machine gun</Original>
+				<English>M2 Machine gun</English>
+				<Spanish>Ametralladora M2</Spanish>
+				<Japanese>M2 重機関銃</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_LAG40">
+				<Original>LAG40 Grenade launcher</Original>
+				<English>LAG40 Grenade launcher</English>
+				<Spanish>Lanzagranadas LAG40</Spanish>
+				<Japanese>LAG40 グレネード ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_SPIKE_DESMONTADO">
+				<Original>Dismantled Tripod-mounted Spike</Original>
+				<English>Dismantled Tripod-mounted Spike</English>
+				<Spanish>Trípode lanzador de Spike desmontado</Spanish>
+				<Japanese>分解済みの三脚付きスパイク ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_MILAN_DESMONTADO">
+				<Original>Dismantled Tripod-mounted Milan</Original>
+				<English>Dismantled Tripod-mounted Milan</English>
+				<Spanish>Trípode lanzador de Milan desmontado</Spanish>
+				<Japanese>分解済みの三脚付きミラン ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_MISTRAL_DESMONTADO">
+				<Original>Dismantled Tripod-mounted Mistral</Original>
+				<English>Dismantled Tripod-mounted Mistral</English>
+				<Spanish>Trípode lanzador de Mistral desmontado</Spanish>
+				<Japanese>分解済みの三脚付きミストラル ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_TOW_DESMONTADO">
+				<Original>Dismantled Tripod-mounted Tow</Original>
+				<English>Dismantled Tripod-mounted Tow</English>
+				<Spanish>Trípode lanzador de Tow desmontado</Spanish>
+				<Japanese>分解済みの三脚付き TOW ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_LAG40_DESMONTADO">
+				<Original>Dismantled LAG40 Grenade launcher</Original>
+				<English>Dismantled LAG40 Grenade launcher</English>
+				<Spanish>Lanzagranadas LAG40 desmontado</Spanish>
+				<Japanese>分解済みの三脚付き LAG40 グレネード ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_TRIPODE_M2_DESMONTADO">
+				<Original>Dismantled M2 Machine gun</Original>
+				<English>Dismantled M2 Machine gun</English>
+				<Spanish>Ametralladora M2 desmontada</Spanish>
+				<Japanese>分解済みの三脚付き M2 重機関銃</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_MISIL_MISTRAL">
+				<Original>Mistral Missile</Original>
+				<English>Mistral Missile</English>
+				<Spanish>Misil Mistral</Spanish>
+				<Japanese>ミストラル ミサイル</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_MISIL_LAG40">
+				<Original>40 nm HE Grenade Mag</Original>
+				<English>40 nm HE Grenade Mag</English>
+				<Spanish>Granada 40 nm HE</Spanish>
+				<Japanese>40mm HE グレネード弾倉</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_MISIL_MILAN">
+				<Original>Milan 2T Missile</Original>
+				<English>Milan 2T Missile</English>
+				<Spanish>Misil Milan 2T</Spanish>
+				<Japanese>ミラン 2T ミサイル</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_MISIL_SPIKE">
+				<Original>Spike Missile</Original>
+				<English>Spike Missile</English>
+				<Spanish>Misil Spike</Spanish>
+				<Japanese>スパイク ミサイル</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_MISIL_TOW">
+				<Original>BGM-71 TOW 2A Missile</Original>
+				<English>BGM-71 TOW 2A</English>
+				<Spanish>Misil BGM-71 TOW 2A</Spanish>
+				<Japanese>BGM-71 TOW 2A ミサイル</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_LANZADOR_NASAMS">
+				<Original>NASAMS Launcher</Original>
+				<English>NASAMS Launcher</English>
+				<Spanish>Lanzador NASAMS</Spanish>
+				<Japanese>NASAMS ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_LANZADOR_AIM120">
+				<Original>AIM-120D AMRAAM</Original>
+				<English>AIM-120D AMRAAM</English>
+				<Spanish>AIM-120D AMRAAM</Spanish>
+				<Japanese>AIM-120D AMRAAM</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_NASAMS_REARMAR">
+				<Original>Try rearm</Original>
+				<English>Try rearm</English>
+				<Spanish>Intentar rearmar</Spanish>
+				<Japanese>給弾をする</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_NASAMS_REPARAR">
+				<Original>Try repair</Original>
+				<English>Try repair</English>
+				<Spanish>Intentar reparar</Spanish>
+				<Japanese>修理をする</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_NASAMS_NO_REARMAR">
+				<Original>No rearm support available!</Original>
+				<English>No rearm support available!</English>
+				<Spanish>¡Ningún soporte de rearme disponible!</Spanish>
+				<Japanese>弾薬補給が利用できません!</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_NASAMS_NO_REPAIR">
+				<Original>No repair support available!</Original>
+				<English>No repair support available!</English>
+				<Spanish>¡Ningún soporte de reparación disponible!</Spanish>
+				<Japanese>修理が利用できません!</Japanese>
+			</Key>
+		</Container>
+	</Package>
+</Project>

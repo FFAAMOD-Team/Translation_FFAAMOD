@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project 
+  name="ffaa">
+  <Package
+    name="ffaa_et_rg31">
+	<Container
+	 name="rg31">
+    <Key 
+	  ID="str_ffaa_dn_rg31">
+      <Original>RG31 Mk.5E Nyala</Original>
+      <English>RG31 Mk.5E Nyala</English>
+      <Spanish>RG31 Mk.5E Nyala</Spanish>
+   </Key>
+   <Key ID="str_ffaa_lib_rg31">
+        <Original>El RG31 Mk.5E Nyala fue elegido como vehículo multipropósito de la ONU y de otras fuerzas de paz de seguridad. Este vehículo intenta satisfacer los requerimientos de las Organizaciones No Gubernamentales de vehículos para proteger su personal contra la amenaza de las minas terrestres y que a la vez ofrezcan una apariencia no agresiva.</Original>
+        <Spanish>El RG31 Mk.5E Nyala fue elegido como vehículo multipropósito de la ONU y de otras fuerzas de paz de seguridad. Este vehículo intenta satisfacer los requerimientos de las Organizaciones No Gubernamentales de vehículos para proteger su personal contra la amenaza de las minas terrestres y que a la vez ofrezcan una apariencia no agresiva.</Spanish>
+        <English>The RG31 Mk.5E Nyala is built from a V-shaped all-steel welded armor monocoque hull and high suspension, providing excellent small-arms and mine blast protection. The vehicle is designed to resist a blast equivalent to two TM-57 anti-tank mines detonating simultaneously. The RG-31 is classified as a category 1 Mine Resistant Ambush Protected (MRAP) vehicle.</English>
+        <Japanese>RG31 Mk.5E Nyalaは4×4輪駆動の装輪装甲車でV字型車体を持ち、地雷やIEDに対する防御力が高く、2つのTM-57対戦車地雷が起爆しても耐えられるよう設計されている。アメリカ海兵隊によるMRAP計画のカテゴリーI車種の一つ。</Japanese>
+	</Key>
+	</Container>
+ </Package>
+</Project>
