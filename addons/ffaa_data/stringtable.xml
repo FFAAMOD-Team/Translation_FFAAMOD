@@ -192,6 +192,21 @@
 				<Spanish>Sistema SATCOM está desconectado</Spanish>
 				<Japanese>衛星通信システムを切断した</Japanese>
 			</Key>
+			<Key ID="str_ffaa_satcom_lost">
+				<Original>Connection lost, recalibrating...</Original>
+				<Spanish>Conexión perdida, recalibrando...</Spanish>
+				<English>Connection lost, recalibrating...</English>
+			</Key>
+			<Key ID="str_ffaa_satcom_waiting_text_1">
+				<Original>Satellite calibration process in course. Estimated time:</Original>
+				<Spanish>Calibración del satelite en curso. Tiempo estimado:</Spanish>
+				<English>Satellite calibration process in course. Estimated time:</English>
+			</Key>
+			<Key ID="str_ffaa_satcom_waiting_text_2">
+				<Original>seconds</Original>
+				<Spanish>segundos</Spanish>
+				<English>seconds</English>
+			</Key>
 			<Key ID="str_ffaa_preset_ea">
 				<Original>Spanish Air Force</Original>
 				<English>Spanish Air Force</English>
