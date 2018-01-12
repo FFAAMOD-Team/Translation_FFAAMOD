@@ -316,6 +316,16 @@
 				<Spanish>" no está disponible. Es probable que no figure dentro del conjunto de clanes adheridos a los foros de Arma3.es</Spanish>
 				<Japanese>"のクラスネームは利用できません。Arma3.ex連携グループではないため、高い確率で表示されません。</Japanese>
 			</Key>
+			<Key ID="str_ffaa_deprecated_classname1">
+				<Original>The object with "</Original>
+				<English>The object with "</English>
+				<Spanish>El objeto con classname "</Spanish>
+			</Key>
+            <Key ID="str_ffaa_deprecated_classname2">
+				<Original>" classname is deprecated. It's recommended (rather mandatory) the mission editor update it to the most recent classname</Original>
+				<English>" classname is deprecated. It's recommended (rather mandatory) the mission editor update it to the most recent classname</English>
+				<Spanish>" está obsoleto. Es recomendable (mas bien obligatorio) que el editor de la misión actualice el classname a la versión mas reciente</Spanish>
+			</Key>
 			<Key ID="str_ffaa_bandera_espa">
 				<Original>Flag (Spanish)</Original>
 				<English>Flag (Spanish)</English>
