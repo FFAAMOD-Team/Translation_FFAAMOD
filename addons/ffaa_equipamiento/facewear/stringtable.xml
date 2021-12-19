@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="FFAA">
+	<Container name="facewear">
+		<Key ID="str_ffaa_gafas">
+			<Original>Combat Goggles</Original>
+			<English>Combat Goggles</English>
+			<Spanish>Gafas de combate</Spanish>
+			<Japanese>戦闘ゴーグル</Japanese>
+		</Key>
+		<Key ID="str_ffaa_mascaranbq_brilat">
+			<Original>NBC Mask</Original>
+			<English>NBC Mask</English>
+			<Spanish>Mascara NBQ</Spanish>
+			<Japanese>化学防護マスク</Japanese>
+		</Key>
+	</Container>
+</Project>

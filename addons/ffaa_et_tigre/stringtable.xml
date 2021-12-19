@@ -1,115 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Project name="ffaa">
-	<Package name="ffaa_et_tigre">
-		<Container name="ffaa_et_tigre">
-			<Key ID="str_ffaa_tigre_sneb">
-				<Original>SNEB 70MM</Original>
-				<English>SNEB 70MM</English>
-				<Spanish>SNEB 70MM</Spanish>
-				<Japanese>SNEB 70MM</Japanese>
-			</Key>
-			<Key ID="str_ffaa_dn_tigre_cas">
-				<Original>EC665 Tiger (CAS)</Original>
-				<English>EC665 Tiger (CAS)</English>
-				<Spanish>EC665 Tigre (CAS)</Spanish>
-				<Japanese>EC665 ティーガー (CAS)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_dn_tigre_at">
-				<Original>EC665 Tiger (AT)</Original>
-				<English>EC665 Tiger (AT)</English>
-				<Spanish>EC665 Tigre (AT)</Spanish>
-				<Japanese>EC665 ティーガー (対戦)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_dn_tigre_aa">
-				<Original>EC665 Tiger (AA)</Original>
-				<English>EC665 Tiger (AA)</English>
-				<Spanish>EC665 Tigre (AA)</Spanish>
-				<Japanese>EC665 ティーガー (対空)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_dn_tigre">
-				<Original>EC665 Tiger</Original>
-				<English>EC665 Tiger</English>
-				<Spanish>EC665 Tigre</Spanish>
-				<Japanese>EC665 ティーガー</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_activar_hud">
-				<Original>Switch on HUD</Original>
-				<English>Switch on HUD</English>
-				<Spanish>Encender HUD</Spanish>
-				<Japanese>HUD を起動</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_desactivar_hud">
-				<Original>Switch off HUD</Original>
-				<English>Switch of HUD</English>
-				<Spanish>Apagar HUD</Spanish>
-				<Japanese>HUD を停止</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_abrir_gunner1">
-				<Original>Open right gunner door</Original>
-				<English>Open right gunner door</English>
-				<Spanish>Abrir puerta derecha del artillero</Spanish>
-				<Japanese>射手席の右ドアを開ける</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_abrir_gunner2">
-				<Original>Open left gunner door</Original>
-				<English>Open left gunner door</English>
-				<Spanish>Abrir puerta izquierda del artillero</Spanish>
-				<Japanese>射手席の左ドアを開ける</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_abrir_pilot1">
-				<Original>Open left pilot door</Original>
-				<English>Open left pilot door</English>
-				<Spanish>Abrir puerta izquierda del piloto</Spanish>
-				<Japanese>操縦席の左ドアを開ける</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_abrir_pilot2">
-				<Original>Open right pilot door</Original>
-				<English>Open right pilot door</English>
-				<Spanish>Abrir puerta derecha del piloto</Spanish>
-				<Japanese>操縦席の右ドアを開ける</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_cerrar_gunner1">
-				<Original>Close right gunner door</Original>
-				<English>Close right gunner door</English>
-				<Spanish>Cerrar puerta derecha del artillero</Spanish>
-				<Japanese>射手席の右ドアを閉める</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_cerrar_gunner2">
-				<Original>Close left gunner door</Original>
-				<English>Close left gunner door</English>
-				<Spanish>Cerrar puerta izquierda del artillero</Spanish>
-				<Japanese>射手席の左ドアを閉める</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_cerrar_pilot1">
-				<Original>Close left pilot door</Original>
-				<English>Close left pilot door</English>
-				<Spanish>Cerrar puerta izquierda del piloto</Spanish>
-				<Japanese>操縦席の左ドアを閉める</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_cerrar_pilot2">
-				<Original>Close right pilot door</Original>
-				<English>Close right pilot door</English>
-				<Spanish>Cerrar puerta derecha del piloto</Spanish>
-				<Japanese>操縦席の右ドアを閉める</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_modo_manual_spike">
-				<Original>Switch to Manual Mode</Original>
-				<English>Switch to Manual Mode</English>
-				<Spanish>Cambiar a Modo Manual</Spanish>
-				<Japanese>手動モードに切り替え</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_modo_autoguiado_spike">
-				<Original>Switch to Autoguided Mode</Original>
-				<English>Switch to Autoguided Mode</English>
-				<Spanish>Cambiar a Modo Autoguiado</Spanish>
-				<Japanese>自動誘導モードに切り替え</Japanese>
-			</Key>
-			<Key ID="str_ffaa_tigre_lib">
-				<Original>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</Original>
-				<English>The Eurocopter Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter, which designate it as the EC 665. In Germany it is known as the Tiger; in France and Spain it is called the Tigre.</English>
-				<Spanish>El Eurocopter Tiger esta formado por cuatro palas y dos potentes motores que conforman un gran helicoptero de ataque el cual entró en servicio el 2003. Fabricado por Eurocopter, designado como EC 665. En Alemania es conocido como Tiger; en	Francia y España es llamado Tigre.</Spanish>
-				<Japanese>ユーロコプター ティーガーは 2003 年に導入された 4 枚の主翼と双発の攻撃ヘリコプターである。ユーロコプター社によって EC 556 として設計され、ドイツやフランスでもティーガーと呼称される。</Japanese>
-			</Key>
-		</Container>
-	</Package>
+<Project name="amf">
+	<Container name="ffaa_tigre">
+		<Key ID="str_ffaa_dn_tigre_had">
+			<Original>EC665 Tigre (HAD)</Original>
+			<English>EC665 Tiger (HAD)</English>
+			<Spanish>EC665 Tigre (HAD)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_tigre_author">
+			<Original>Roman &amp; AMF &amp; FFAAMOD</Original>
+			<English>Roman &amp; AMF &amp; FFAAMOD</English>
+			<Spanish>Roman &amp; AMF &amp; FFAAMOD</Spanish>
+		</Key>
+		<Key ID="str_ffaa_dn_giat30">
+			<Original>GIAT 30</Original>
+			<English>GIAT 30</English>
+			<Spanish>GIAT 30</Spanish>
+		</Key>
+		<Key ID="str_ffaa_dn_pylonrack_12rnd_sneb_68mm">
+			<Original>12 SNEB 68mm</Original>
+			<English>12 SNEB 68mm</English>
+			<Spanish>12 SNEB 68mm</Spanish>
+		</Key>
+		<Key ID="str_ffaa_dn_pylonrack_22rnd_sneb_68mm">
+			<Original>22 SNEB 68mm</Original>
+			<English>22 SNEB 68mm</English>
+			<Spanish>22 SNEB 68mm</Spanish>
+		</Key>
+		<Key ID="str_ffaa_dn_sneb">
+			<Original>SNEB</Original>
+			<English>SNEB</English>
+			<Spanish>SNEB</Spanish>
+		</Key>
+		<Key ID="str_ffaa_dn_pylonrack_4rnd_spike">
+			<Original>4 Spike-ER</Original>
+			<English>4 Spike-ER</English>
+			<Spanish>4 Spike-ER</Spanish>
+		</Key>
+		<Key ID="str_ffaa_dn_spike_er">
+			<Original>Spike-ER</Original>
+			<English>Spike-ER</English>
+			<Spanish>Spike-ER</Spanish>
+		</Key>
+		<Key ID="str_ffaa_dn_mistral">
+			<Original>MBDA Mistral</Original>
+			<English>MBDA Mistral</English>
+			<Spanish>MBDA Mistral</Spanish>
+		</Key>
+		<Key ID="str_ffaa_dn_pylonrack_2rnd_mistral">
+			<Original>2 Mistral</Original>
+			<English>2 Mistral</English>
+			<Spanish>2 Mistral</Spanish>
+		</Key>
+		<Key ID="str_ffaa_dns_pylonrack_2rnd_mistral">
+			<Original>AA</Original>
+			<English>AA</English>
+			<Spanish>AA</Spanish>
+		</Key>
+		<Key ID="STR_FFAA_CFGMAGAZINES_250RND_30MM_MP_SHELLS">
+			<Original>250 shells of 30 mm high explosive</Original>
+			<English>250 shells of 30 mm high explosive</English>
+			<Spanish>250 proyectiles de 30 mm de alto explosivo</Spanish>
+			<french>250 obus de 30 mm explosif</Spanish>
+		</Key>
+		<Key ID="STR_FFAA_CFGMAGAZINES_450RND_30MM_MP_SHELLS">
+			<Original>450 shells of 30 mm high explosive</Original>
+			<English>450 shells of 30 mm high explosive</English>
+			<Spanish>450 proyectiles de 30 mm de alto explosivo</Spanish>
+			<french>450 obus de 30 mm explosif</Spanish>
+		</Key>
+		<Key ID="str_ffaa_ds_pylonrack_2rnd_mistral">
+			<Original>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</Original>
+			<Chinese>裝有破甲彈頭的短程、紅外線導向、空對空飛彈</Chinese>
+			<French>Missile air-air à courte portée, à guidage infrarouge et à ogive hautement explosive</French>
+			<Spanish>Misil aire-aire de corto alcance, guiado por infrarrojos y con una cabeza nuclear muy potente.</Spanish>
+			<Italian>Missile aria-aria a corto raggio, a guida infrarossi, con testata ad esplosivo ad alto potenziale</Italian>
+			<Polish>Naprowadzane na podczerwień pociski powietrze-powietrze krótkiego zasięgu z głowicą wybuchową</Polish>
+			<Russian>Ракета малой дальности класса "воздух-воздух" с тепловой системой самонаведения и фугасной боевой частью</Russian>
+			<German>Infarotgelenkte Luft-Luft-Rakete mit hochexplosivem Gefechtskopf für kurze Distanzen</German>
+			<Czech>Infračerveně naváděná střela vzduch-vzduch krátkého doletu s výbušnou hlavicí</Czech>
+			<English>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</English>
+			<Portuguese>Míssil ar-ar de curto alcance, guiado por infravermelho, com ogiva altamente explosiva</Portuguese>
+			<Korean>고폭 탄두를 지닌 단거리 범위의 적외선 유도가 가능한 공대공 미사일</Korean>
+			<Chinesesimp>配备高爆弹头的红外线制导空对空短程导弹</Chinesesimp>
+			<Japanese>短距離用赤外線誘導式空対空ミサイル／炸裂弾頭</Japanese>
+			<Turkish>Yüksek güçlü patlayıcı özellikte savaş başlıklı, kısa menzilli, kızılötesi güdümlü, havadan havaya füze</Turkish>
+		</Key>
+	</Container>
 </Project>

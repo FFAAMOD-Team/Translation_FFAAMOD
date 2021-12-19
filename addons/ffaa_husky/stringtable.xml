@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="ffaa">
+	<Package name="ffaa_et_husky">
+		<Container name="displayname">
+			<Key ID="str_ffaa_dn_husky2g">
+				<Original>Husky 2G</Original>
+			</Key>
+            <Key ID="str_ffaa_husky2g_library">
+				<Original>Development of the Husky 2G was prompted by the need to effectively conduct longer missions and employ multiple advanced detection systems. The Husky 2G was designed to get more sophisticated high sensitivity detectors, ground-penetrating radar, and video optics suites, and remote weapon stations created the need for a second operator to manage the additional workload.</Original>
+                <Spanish>El desarrollo del Husky 2G fue impulsado por la necesidad de llevar a cabo misiones más largas y emplear múltiples sistemas de detección avanzados. El Husky 2G fue diseñado para obtener detectores de alta sensibilidad más sofisticados, radar de penetración de suelo y suites de video ópticas, y las estaciones de armas remotas crearon la necesidad de un segundo operador para administrar la carga de trabajo adicional.</Spanish>
+			</Key>
+            <Key ID="str_ffaa_dn_husky2g_deploydetector">
+				<Original>Deploy Detector (GPR)</Original>
+                <English>Deploy Detector (GPR)</English>
+                <Spanish>Desplegar detector (GPR)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_dn_husky2g_recoverdetector">
+				<Original>Recover Detector (GPR)</Original>
+                <English>Recover Detector (GPR)</English>
+                <Spanish>Replegar detector (GPR)</Spanish>
+			</Key>
+		</Container>
+        <Container name="attributes">
+			<Key ID="str_ffaa_attr_husky_detector_range">
+				<Original>Detector Range</Original>
+                <Spanish>Rango del detector</Spanish>
+			</Key>
+            <Key ID="str_ffaa_attr_husky_detector_range_tip">
+				<Original>Maximum Range (from 5 to 50) in meters the detector can reach to</Original>
+                <Spanish>Rango máximo (entre 5 y 50) en metros que el detector puede llegar a alcanzar</Spanish>
+			</Key>
+			<Key ID="str_ffaa_attr_husky_refresh_rate">
+				<Original>Freccuency rate (Hz)</Original>
+                <Spanish>Frecuencia de barrido (Hz)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_attr_husky_refresh_rate_tip">
+				<Original>Scanning speed with penetration radar</Original>
+                <Spanish>Velocidad a la que se realiza el barrido con el radar de penetración</Spanish>
+			</Key>
+            <Key ID="str_ffaa_attr_husky_reveal_mine">
+				<Original>Reveal Mines</Original>
+                <Spanish>Revelar Minas</Spanish>
+			</Key>
+            <Key ID="str_ffaa_attr_husky_reveal_mine_tip">
+				<Original>Sets the mines found as known to the vehicle side</Original>
+                <Spanish>Revelar minas dentro del rango máximo al bando correspondiente</Spanish>
+			</Key>
+		</Container>
+	</Package>
+</Project>

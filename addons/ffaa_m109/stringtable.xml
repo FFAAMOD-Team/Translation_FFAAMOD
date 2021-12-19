@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_m109">
+		<Container name="ffaa_et_m109">
+			<Key ID="str_ffaa_dn_m109a5_et">
+				<Original>M109 A5E</Original>
+				<Japanese>M109 A5E</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dn_m109a2_im">
+				<Original>M109 A2</Original>
+				<Japanese>M109 A2</Japanese>
+			</Key>
+		    <Key ID="str_canon155mm">
+				<Original>cañon 155mm</Original>
+				<Japanese>cañon 155mm</Japanese>
+			</Key>
+			<Key ID="str_ffaa_lib_m109">
+				<Original>La tripulación de los M109 consiste en un jefe de sección, el conductor, tres artilleros que preparan la munición, cargan y disparan el arma, y otros dos artilleros que apuntan el cañón; de ellos el artillero apunta el cañón a derecha o izquierda (deriva) y el artillero auxiliar apunta el cañón hacia arriba y hacia abajo (elevación). El M109A6 Paladin necesita solamente un artillero y dos cargadores, en una tripulación total de seis. </Original>
+				<Japanese>M109の乗組員は、課長、運転手、弾薬を準備し、武器を装填して発射する3人の砲手、および銃を狙う他の2人の砲手で構成されています。 それらの砲手は砲身を右または左（ドリフト）に向け、補助砲手は砲身を上下（仰角）に向けます。 M109A6パラディンは、6名の搭乗員のうち、砲手1両と雑誌2冊しか必要としません。 </Japanese>
+			</Key>
+		</Container>
+	</Package>
+</Project>

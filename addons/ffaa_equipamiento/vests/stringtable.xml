@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="FFAA">
+	<Container name="chalecos">
+		<Key ID="str_ffaa_chaleco_dotacion_ligero_bs">
+			<Original>Vest (Woodland/Light)</Original>
+			<English>Vest (Woodland/Light)</English>
+			<Spanish>Chaleco (Bosque/Ligero)</Spanish>
+			<Japanese>ベスト (森林/軽装)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_ligero_ds">
+			<Original>Vest (Desert/Light)</Original>
+			<English>Vest (Desert/Light)</English>
+			<Spanish>Chaleco (Desertico/Ligero)</Spanish>
+			<Japanese>ベスト (砂漠/軽装)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_pesado_bs">
+			<Original>Vest (Woodland/Heavy)</Original>
+			<English>Vest (Woodland/Heavy)</English>
+			<Spanish>Chaleco (Bosque/Pesado)</Spanish>
+			<Japanese>ベスト (森林/重装)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_pesado_ds">
+			<Original>Vest (Desert/Heavy)</Original>
+			<English>Vest (Desert/Heavy)</English>
+			<Spanish>Chaleco (Desertico/Pesado)</Spanish>
+			<Japanese>ベスト (砂漠/重装)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_granadero_bs">
+			<Original>Vest (Woodland/Grenadier)</Original>
+			<English>Vest (Woodland/Grenadier)</English>
+			<Spanish>Chaleco (Bosque/Granadero)</Spanish>
+			<Japanese>ベスト (森林/てき弾手)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_granadero_ds">
+			<Original>Vest (Desert/Grenadier)</Original>
+			<English>Vest (Desert/Grenadier)</English>
+			<Spanish>Chaleco (Desertico/Granadero)</Spanish>
+			<Japanese>ベスト (砂漠/てき弾手)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_medico_bs">
+			<Original>Vest (Woodland/Medic)</Original>
+			<English>Vest (Woodland/Medic)</English>
+			<Spanish>Chaleco (Bosque/Medico)</Spanish>
+			<Japanese>ベスト (森林/衛生兵)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_medico_ds">
+			<Original>Vest (Desert/Medic)</Original>
+			<English>Vest (Desert/Medic)</English>
+			<Spanish>Chaleco (Desertico/Medico)</Spanish>
+			<Japanese>ベスト (砂漠/衛生兵)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_antifragmento_bs">
+			<Original>Vest (Woodland/Combat)</Original>
+			<English>Vest (Woodland/Combat)</English>
+			<Spanish>Chaleco (Bosque/Antifragmento)</Spanish>
+			<Japanese>ベスト (森林/戦闘)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_antifragmento_ds">
+			<Original>Vest (Desert/Combat)</Original>
+			<English>Vest (Desert/Combat)</English>
+			<Spanish>Chaleco (Desertico/Antifragmento)</Spanish>
+			<Japanese>ベスト (砂漠/戦闘)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_naval_bs">
+			<Original>Vest (Bosque/Naval)</Original>
+			<English>Vest (Bosque/Naval)</English>
+			<Spanish>Chaleco (Bosque/Naval)</Spanish>
+			<Japanese>ベスト (森林/海軍)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_naval_ds">
+			<Original>Vest (Desert/Naval)</Original>
+			<English>Vest (Desert/Naval)</English>
+			<Spanish>Chaleco (Desertico/Naval)</Spanish>
+			<Japanese>ベスト (砂漠/海軍)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chaleco_dotacion_naval_bk">
+			<Original>Vest (Black/Naval)</Original>
+			<English>Vest (Black/Naval)</English>
+			<Spanish>Chaleco (Negro/Naval)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_camelback_d">
+			<Original>Camelback (Desert)</Original>
+			<English>Camelback (Desert)</English>
+			<Spanish>Camelback (Desertico)</Spanish>
+			<Japanese>キャメルバック (砂漠)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_camelback_b">
+			<Original>Camelback (Woodland)</Original>
+			<English>Camelback (Woodland)</English>
+			<Spanish>Camelback (Boscoso)</Spanish>
+			<Japanese>キャメルバック (森林)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_peco_moe_02_mtp">
+			<Original>Ciras Land (MTP)</Original>
+			<English>Ciras Land (MTP)</English>
+			<Spanish>Ciras Land (MTP)</Spanish>
+			<Japanese>サイラス ランド (マルチカモ)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_peco_moe_01_mtp">
+			<Original>Ciras Land (MTP w/Camelback)</Original>
+			<English>Ciras Land (MTP w/Camelback)</English>
+			<Spanish>Ciras Land (MTP w/Camelback)</Spanish>
+			<Japanese>サイラス ランド (マルチカモ/キャメルバック)</Japanese>
+		</Key>
+	</Container>
+</Project>

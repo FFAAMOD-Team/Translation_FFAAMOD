@@ -12,6 +12,18 @@
       <Spanish>RG31 Mk.5E Nyala</Spanish>
       <Japanese>RG31 Mk.5E ニヤラ</Japanese>
    </Key>
+    <Key ID="str_ffaa_dn_rg31_rollers">
+      <Original>RG31 Mk.5E (SPARK II)</Original>
+      <English>RG31 Mk.5E (SPARK II)</English>
+      <Spanish>RG31 Mk.5E (SPARK II)</Spanish>
+      <Japanese>RG31 Mk.5E (SPARK II)</Japanese>
+   </Key>
+   <Key ID="str_ffaa_dn_rg31_arm">
+      <Original>RG31 Mk.5E (Robotic arm)</Original>
+      <English>RG31 Mk.5E (Robotic arm)</English>
+      <Spanish>RG31 Mk.5E (Brazo robotico)</Spanish>
+      <Japanese>RG31 Mk.5E (Robotic arm)</Japanese>
+   </Key>
    <Key ID="str_ffaa_lib_rg31">
         <Original>El RG31 Mk.5E Nyala fue elegido como vehículo multipropósito de la ONU y de otras fuerzas de paz de seguridad. Este vehículo intenta satisfacer los requerimientos de las Organizaciones No Gubernamentales de vehículos para proteger su personal contra la amenaza de las minas terrestres y que a la vez ofrezcan una apariencia no agresiva.</Original>
         <Spanish>El RG31 Mk.5E Nyala fue elegido como vehículo multipropósito de la ONU y de otras fuerzas de paz de seguridad. Este vehículo intenta satisfacer los requerimientos de las Organizaciones No Gubernamentales de vehículos para proteger su personal contra la amenaza de las minas terrestres y que a la vez ofrezcan una apariencia no agresiva.</Spanish>

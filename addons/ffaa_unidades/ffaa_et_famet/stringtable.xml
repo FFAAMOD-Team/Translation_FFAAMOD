@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="FFAA">
+	<Package name="ffaa_et_famet">
+		<Container name="unidades">
+			<Key ID="str_ffaa_piloto_famet">
+				<Original>FAMET Pilot (Woodland)</Original>
+				<English>FAMET Pilot (Woodland)</English>
+				<Spanish>Piloto FAMET (Boscoso)</Spanish>
+				<Japanese>森林 FAMET パイロット</Japanese>
+			</Key>
+			<Key ID="str_ffaa_piloto_hmsd_famet">
+				<Original>FAMET Pilot (Woodland/HMSD)</Original>
+				<English>FAMET Pilot (Woodland/HMSD)</English>
+				<Spanish>Piloto FAMET (Boscoso/HMSD)</Spanish>
+				<Japanese>FAMET ティガー パイロット</Japanese>
+			</Key>
+			<Key ID="str_ffaa_crew_famet">
+				<Original>FAMET Crew (Woodland)</Original>
+				<English>FAMET Crew (Woodland)</English>
+				<Spanish>Tripulación FAMET (Boscoso)</Spanish>
+				<Japanese>森林 FAMET 乗員</Japanese>
+			</Key>
+			<Key ID="str_ffaa_piloto_famet_des">
+				<Original>FAMET Pilot (Arid)</Original>
+				<English>FAMET Pilot (Arid)</English>
+				<Spanish>Piloto FAMET (Arido)</Spanish>
+				<Japanese>砂漠 FAMET パイロット</Japanese>
+			</Key>
+			<Key ID="str_ffaa_piloto_hmsd_famet_des">
+				<Original>FAMET Pilot (Arid/HMSD)</Original>
+				<English>FAMET Pilot (Arid/HMSD)</English>
+				<Spanish>Piloto FAMET (Arido/HMSD)</Spanish>
+				<Japanese>FAMET ティガー パイロット</Japanese>
+			</Key>
+			<Key ID="str_ffaa_crew_famet_des">
+				<Original>FAMET Crew (Arid)</Original>
+				<English>FAMET Crew (Arid)</English>
+				<Spanish>Tripulación FAMET (Arido)</Spanish>
+				<Japanese>森林 FAMET 乗員</Japanese>
+			</Key>
+		</Container>
+	</Package>
+</Project>

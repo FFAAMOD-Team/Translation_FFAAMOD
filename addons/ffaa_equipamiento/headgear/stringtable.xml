@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="FFAA">
+	<Container name="ffaa_equipamiento_headgear">
+		<Key ID="str_ffaa_casco_canvas_ds">
+			<Original>Helmet (Desert)</Original>
+			<English>Helmet (Desert)</English>
+			<Spanish>Casco (Desertico)</Spanish>
+			<Japanese>ヘルメット (砂漠)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_canvas_bs">
+			<Original>Helmet (Woodland)</Original>
+			<English>Helmet (Woodland)</English>
+			<Spanish>Casco (Bosque)</Spanish>
+			<Japanese>ヘルメット (森林)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_cascotri_brilat">
+			<Original>Helmet Crew [FFAA]</Original>
+			<English>Helmet Crew [FFAA]</English>
+			<Spanish>Casco de tripulación [FFAA]</Spanish>
+		</Key>
+		<Key ID="str_ffaa_chamber_ds">
+			<Original>Chambergo (Desert)</Original>
+			<English>Chambergo (Desert)</English>
+			<Spanish>Chambergo (Desertico)</Spanish>
+			<Japanese>スローチ帽子 (砂漠)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_chamber_bs">
+			<Original>Chambergo (Woodland)</Original>
+			<English>Chambergo (Woodland)</English>
+			<Spanish>Chambergo (Bosque)</Spanish>
+			<Japanese>スローチ帽子 (森林)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_boina_brilat">
+			<Original>Beret (BRILAT)</Original>
+			<English>Beret (BRILAT)</English>
+			<Spanish>Boina (BRILAT)</Spanish>
+			<Japanese>ベレー帽 (BRILAT)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_boina_brimz">
+			<Original>Beret (BRIMZ)</Original>
+			<English>Beret (BRIMZ)</English>
+			<Spanish>Boina (BRIMZ)</Spanish>
+			<Japanese>ベレー帽 (BRIMZ)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_boina_bripac">
+			<Original>Beret (BRIPAC)</Original>
+			<English>Beret (BRIPAC)</English>
+			<Spanish>Boina (BRIPAC)</Spanish>
+			<Japanese>ベレー帽 (BRIPAC)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_boina_famet">
+			<Original>Beret (FAMET)</Original>
+			<English>Beret (FAMET)</English>
+			<Spanish>Boina (FAMET)</Spanish>
+			<Japanese>ベレー帽 (FAMET)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_boina_moe">
+			<Original>Beret (MOE)</Original>
+			<English>Beret (MOE)</English>
+			<Spanish>Boina (MOE)</Spanish>
+			<Japanese>ベレー帽 (MOE)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_boina_fgne">
+			<Original>Beret (FGNE)</Original>
+			<English>Beret (FGNE)</English>
+			<Spanish>Boina (FGNE)</Spanish>
+			<Japanese>ベレー帽 (FGNE)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_gorra_armada">
+			<Original>Sailor Cap</Original>
+			<English>Sailor Cap</English>
+			<Spanish>Gorra de Marinero</Spanish>
+			<Japanese>乗組員の帽子</Japanese>
+		</Key>
+		<Key ID="str_ffaa_headphones_basic">
+			<Original>Pilot headphones</Original>
+			<English>Pilot headphones</English>
+			<Spanish>Auricular de piloto</Spanish>
+			<Japanese>パイロットのヘッドホン</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_famet_piloto">
+			<Original>Heli Pilot Helmet [FFAA]</Original>
+			<English>Heli Pilot Helmet [FFAA]</English>
+			<Spanish>Casco de piloto de helicóptero [FFAA]</Spanish>
+			<Japanese>ヘリ パイロットのヘルメット [FFAA]</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_famet_crew">
+			<Original>Heli Crew Helmet [FFAA]</Original>
+			<English>Heli Crew Helmet [FFAA]</English>
+			<Spanish>Casco de tripulación de helicóptero [FFAA]</Spanish>
+			<Japanese>ヘリ乗員のヘルメット [FFAA]</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_hmsd">
+			<Original>HMSD TopOwl Helmet</Original>
+			<English>HMSD TopOwl Helmet</English>
+			<Spanish>Casco HMSD TopOwl</Spanish>
+			<Japanese>HMSD TopOwl ヘルメット</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_protec_ds">
+			<Original>Pro-Tec (Tan)</Original>
+			<English>Pro-Tec (Tan)</English>
+			<Spanish>Pro-Tec (Tan)</Spanish>
+			<Japanese>プロテック (黄褐)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_protec_bs">
+			<Original>Pro-Tec (Green)</Original>
+			<English>Pro-Tec (Green)</English>
+			<Spanish>Pro-Tec (Verde)</Spanish>
+			<Japanese>プロテック (緑)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_protec_bk">
+			<Original>Pro-Tec (Black)</Original>
+			<English>Pro-Tec (Black)</English>
+			<Spanish>Pro-Tec (Negro)</Spanish>
+			<Japanese>プロテック (黒)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_protec_mask_ds">
+			<Original>Pro-Tec (Tan/Balaclava)</Original>
+			<English>Pro-Tec (Tan/Balaclava)</English>
+			<Spanish>Pro-Tec (Tan/Balaclava)</Spanish>
+			<Japanese>プロテック (黄褐/バラクラバ)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_protec_mask_bs">
+			<Original>Pro-Tec (Green/Balaclava)</Original>
+			<English>Pro-Tec (Green/Balaclava)</English>
+			<Spanish>Pro-Tec (Verde/Balaclava)</Spanish>
+			<Japanese>プロテック (緑/バラクラバ)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_protec_mask_bk">
+			<Original>Pro-Tec (Black/Balaclava)</Original>
+			<English>Pro-Tec (Black/Balaclava)</English>
+			<Spanish>Pro-Tec (Negro/Balaclava)</Spanish>
+			<Japanese>プロテック (黒/バラクラバ)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_ds">
+			<Original>ACH (Green/Norotos)</Original>
+			<English>ACH (Green/Norotos)</English>
+			<Spanish>ACH (Verde/Norotos)</Spanish>
+			<Japanese>ACH (緑/ノロトス)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_bs">
+			<Original>ACH (Tan/Norotos)</Original>
+			<English>ACH (Tan/Norotos)</English>
+			<Spanish>ACH (Tan/Norotos)</Spanish>
+			<Japanese>ACH (黄褐/ノロトス)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_bk">
+			<Original>ACH (Black/Norotos)</Original>
+			<English>ACH (Black/Norotos)</English>
+			<Spanish>ACH (Negro/Norotos)</Spanish>
+			<Japanese>ACH (黒/ノロトス)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_mask_ds">
+			<Original>ACH (Green/Norotos/Balaclava)</Original>
+			<English>ACH (Green/Norotos/Balaclava)</English>
+			<Spanish>ACH (Verde/Norotos/Balaclava)</Spanish>
+			<Japanese>ACH (緑/ノロトス/バラクラバ)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_mask_bs">
+			<Original>ACH (Tan/Norotos/Balaclava)</Original>
+			<English>ACH (Tan/Norotos/Balaclava)</English>
+			<Spanish>ACH (Tan/Norotos/Balaclava)</Spanish>
+			<Japanese>ACH (黄褐/ノロトス/バラクラバ)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_mask_bk">
+			<Original>ACH (Black/Norotos/Balaclava)</Original>
+			<English>ACH (Black/Norotos/Balaclava)</English>
+			<Spanish>ACH (Negro/Norotos/Balaclava)</Spanish>
+			<Japanese>ACH (黒/ノロトス/バラクラバ)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_goggles_mask_ds">
+			<Original>ACH (Green/Norotos/Balaclava/ESS)</Original>
+			<English>ACH (Green/Norotos/Balaclava/ESS)</English>
+			<Spanish>ACH (Verde/Norotos/Balaclava/Gafas)</Spanish>
+			<Japanese>ACH (緑/ノロトス/バラクラバ/ESS)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_goggles_mask_bs">
+			<Original>ACH (Tan/Norotos/Balaclava/ESS)</Original>
+			<English>ACH (Tan/Norotos/Balaclava/ESS)</English>
+			<Spanish>ACH (Tan/Norotos/Balaclava/Gafas)</Spanish>
+			<Japanese>ACH (黄褐/ノロトス/バラクラバ/ESS)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_goggles_mask_bk">
+			<Original>ACH (Black/Norotos/Balaclava/ESS)</Original>
+			<English>ACH (Black/Norotos/Balaclava/ESS)</English>
+			<Spanish>ACH (Negro/Norotos/Balaclava/Gafas)</Spanish>
+			<Japanese>ACH (黒/ノロトス/バラクラバ/ESS)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_gogglescovered_ds">
+			<Original>ACH (Green/Norotos/Cover)</Original>
+			<English>ACH (Green/Norotos/Cover)</English>
+			<Spanish>ACH (Verde/Norotos/Funda)</Spanish>
+			<Japanese>ACH (緑/ノロトス/カバー)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_gogglescovered_bs">
+			<Original>ACH (Tan/Norotos/Cover)</Original>
+			<English>ACH (Tan/Norotos/Cover)</English>
+			<Spanish>ACH (Tan/Norotos/Funda)</Spanish>
+			<Japanese>ACH (黄褐/ノロトス/カバー)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_gogglescovered_bk">
+			<Original>ACH (Black/Norotos/Cover)</Original>
+			<English>ACH (Black/Norotos/Cover)</English>
+			<Spanish>ACH (Negro/Norotos/Funda)</Spanish>
+			<Japanese>ACH (黒/ノロトス/カバー)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_gogglescovered_mask_ds">
+			<Original>ACH (Green/Norotos/Balaclava/Cover)</Original>
+			<English>ACH (Green/Norotos/Balaclava/Cover)</English>
+			<Spanish>ACH (Verde/Norotos/Balaclava/Funda)</Spanish>
+			<Japanese>ACH (緑/ノロトス/バラクラバ/カバー)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_gogglescovered_mask_bs">
+			<Original>ACH (Tan/Norotos/Balaclava/Cover)</Original>
+			<English>ACH (Tan/Norotos/Balaclava/Cover)</English>
+			<Spanish>ACH (Tan/Norotos/Balaclava/Funda)</Spanish>
+			<Japanese>ACH (黄褐/ノロトス/バラクラバ/カバー)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_ach_gogglescovered_mask_bk">
+			<Original>ACH (Black/Norotos/Balaclava/Cover)</Original>
+			<English>ACH (Black/Norotos/Balaclava/Cover)</English>
+			<Spanish>ACH (Negro/Norotos/Balaclava/Funda)</Spanish>
+			<Japanese>ACH (黒/ノロトス/バラクラバ/カバー)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_casco_marte4mod_cintas_x2_ds">
+			<Original>Marte IV Mod (Arid/Crossed Tapes)</Original>
+			<English>Marte IV Mod (Arid/Crossed Tapes)</English>
+			<Spanish>Marte IV Mod (Arido/Cintas Cruzadas)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_casco_marte4mod_cintas_x2_bs">
+			<Original>Marte IV Mod (Woodland/Crossed Tapes)</Original>
+			<English>Marte IV Mod (Woodland/Crossed Tapes)</English>
+			<Spanish>Marte IV Mod (Boscoso/Cintas Cruzadas)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_casco_marte4mod_cintas_ds">
+			<Original>Marte IV Mod (Arid/Tape)</Original>
+			<English>Marte IV Mod (Arid/Tape)</English>
+			<Spanish>Marte IV Mod (Arido/Cinta)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_casco_marte4mod_cintas_bs">
+			<Original>Marte IV Mod (Woodland/Tape)</Original>
+			<English>Marte IV Mod (Woodland/Tape)</English>
+			<Spanish>Marte IV Mod (Boscoso/Cinta)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_casco_marte4mod_bs">
+			<Original>Marte IV Mod (Woodland)</Original>
+			<English>Marte IV Mod (Woodland)</English>
+			<Spanish>Marte IV Mod (Boscoso)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_casco_marte4mod_ds">
+			<Original>Marte IV Mod (Arid)</Original>
+			<English>Marte IV Mod (Arid)</English>
+			<Spanish>Marte IV Mod (Arido)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_casco_marte4mod_gafas_bs">
+			<Original>Marte IV Mod (Woodland/Cover)</Original>
+			<English>Marte IV Mod (Woodland/Cover)</English>
+			<Spanish>Marte IV Mod (Boscoso/Funda)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_casco_marte4mod_gafas_ds">
+			<Original>Marte IV Mod (Arid/Cover)</Original>
+			<English>Marte IV Mod (Arid/Cover)</English>
+			<Spanish>Marte IV Mod (Arido/Funda)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_casco_Fast_MTP_H">
+			<Original>Ops-Core FAST (MTP/H)</Original>
+		</Key>
+		<Key ID="str_ffaa_casco_Fast_MTP_H_F">
+			<Original>Ops-Core FAST (MTP/H/F)</Original>
+		</Key>
+		<Key ID="str_ffaa_casco_Fast_MTP_H_M">
+			<Original>Ops-Core FAST (MTP/H/M)</Original>
+		</Key>
+		<Key ID="str_ffaa_casco_Fast_MTP_H_C">
+			<Original>Ops-Core FAST (MTP/H/C)</Original>
+		</Key>
+		<Key ID="str_ffaa_casco_Fast_MTP_H_C_F">
+			<Original>Ops-Core FAST (MTP/H/C/F)</Original>
+		</Key>
+		<Key ID="str_ffaa_casco_Fast_MTP_H_C_M">
+			<Original>Ops-Core FAST (MTP/H/C/M)</Original>
+		</Key>
+		<Key ID="str_autor_casco_fast">
+			<Original>Jota / Luca / FFAAMOD</Original>
+		</Key>
+		<Key ID="str_ffaa_casco_fast_bump_tan_h_b_l">
+			<Original>Ops-Core BUMP (Tan/H/B/L)</Original>
+		</Key>
+	</Container>
+</Project>

@@ -8,6 +8,11 @@
 				<Spanish>Trípode lanzador de Spike</Spanish>
 				<Japanese>三脚付きスパイク ランチャー</Japanese>
 			</Key>
+			<Key ID="STR_FFAA_WEAPON_DN_SPIKE_ER">
+				<Original>Spike ER</Original>
+				<English>Spike ER</English>
+				<Spanish>Spike ER</Spanish>
+			</Key>
 			<Key ID="STR_FFAA_MODO_MANUAL_SPIKE">
 				<Original>Manual mode</Original>
 				<English>Manual mode</English>
@@ -26,17 +31,32 @@
 				<Spanish>Trípode lanzador de Milan</Spanish>
 				<Japanese>三脚付きミラン ランチャー</Japanese>
 			</Key>
+			<Key ID="STR_FFAA_WEAPON_DN_MILAN">
+				<Original>Milan 2T</Original>
+				<English>Milan 2T</English>
+				<Spanish>Milan 2T</Spanish>
+			</Key>
 			<Key ID="STR_FFAA_TRIPODE_TOW">
 				<Original>Tripod-mounted Tow launcher</Original>
 				<English>Tripod-mounted Tow launcher</English>
 				<Spanish>Trípode lanzador de Tow</Spanish>
 				<Japanese>三脚付き TOW ランチャー</Japanese>
 			</Key>
+			<Key ID="STR_FFAA_WEAPON_DN_TOW">
+				<Original>BGM-71 TOW 2A</Original>
+				<English>BGM-71 TOW 2A</English>
+				<Spanish>BGM-71 TOW 2A</Spanish>
+			</Key>
 			<Key ID="STR_FFAA_TRIPODE_MISTRAL">
 				<Original>Tripod-mounted Mistral launcher</Original>
 				<English>Tripod-mounted Mistral launcher</English>
 				<Spanish>Trípode lanzador de Mistral</Spanish>
 				<Japanese>三脚付きミストラル ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_WEAPON_DN_MISTRAL">
+				<Original>Mistral</Original>
+				<English>Mistral</English>
+				<Spanish>Mistral</Spanish>
 			</Key>
 			<Key ID="STR_FFAA_TRIPODE_M2">
 				<Original>M2 Machine gun</Original>
@@ -49,6 +69,11 @@
 				<English>LAG40 Grenade launcher</English>
 				<Spanish>Lanzagranadas LAG40</Spanish>
 				<Japanese>LAG40 グレネード ランチャー</Japanese>
+			</Key>
+			<Key ID="STR_FFAA_WEAPON_DN_LAG40">
+				<Original>LAG 40mm</Original>
+				<English>LAG 40mm</English>
+				<Spanish>LAG 40mm</Spanish>
 			</Key>
 			<Key ID="STR_FFAA_TRIPODE_SPIKE_DESMONTADO">
 				<Original>Dismantled Tripod-mounted Spike</Original>

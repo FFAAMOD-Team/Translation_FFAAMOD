@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_ea_pilotos">
+		<Container name="unidades">
+			<Key ID="str_ffaa_pilot_her">
+				<Original>Transport Pilot (Woodland)</Original>
+				<English>Transport Pilot (Woodland)</English>
+				<Spanish>Piloto de transporte (Boscoso)</Spanish>
+				<Japanese>輸送パイロット (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_pilot_her_des">
+				<Original>Transport Pilot (Arid)</Original>
+				<English>Transport Pilot (Arid)</English>
+				<Spanish>Piloto de transporte (Arido)</Spanish>
+				<Japanese>輸送パイロット (砂漠)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_pilot_f18">
+				<Original>Combat Pilot (F18)</Original>
+				<English>Combat Pilot (F18)</English>
+				<Spanish>Piloto de combate (F18)</Spanish>
+			</Key>
+		</Container>
+	</Package>
+</Project>

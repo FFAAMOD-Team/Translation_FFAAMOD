@@ -26,12 +26,6 @@
 				<Spanish>Recuperar embarcación</Spanish>
 				<Japanese>ボートを回収</Japanese>
 			</Key>
-			<Key ID="str_ffaa_bam_failedload">
-				<Original>Cannot load / unload this kind of boat</Original>
-				<English>Cannot load / unload this kind of boat</English>
-				<Spanish>No se puede cargar / descargar este tipo de embarcación</Spanish>
-				<Japanese>このボートを収容/展開できません</Japanese>
-			</Key>
 			<Key ID="str_ffaa_bam_arriar_emb">
 				<Original>Lower boat</Original>
 				<English>Lower boat</English>
@@ -51,70 +45,16 @@
 				<Japanese>ゲートを閉じる</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bam_abrir_compuerta">
-				<Original>&lt;t color='#00ff00'&gt;Open underwater gate&lt;/t&gt;</Original>
-				<English>&lt;t color='#00ff00'&gt;Open underwater gate&lt;/t&gt;</English>
-				<Spanish>&lt;t color='#00ff00'&gt;Abrir compuerta subacuática&lt;/t&gt;</Spanish>
-				<Japanese>&lt;t color='#00ff00'&gt;水中ゲートを開く&lt;/t&gt;</Japanese>
+				<Original>Open underwater gate</Original>
+				<English>Open underwater gate</English>
+				<Spanish>Abrir compuerta subacuática</Spanish>
+				<Japanese>水中ゲートを開く</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bam_cerrar_compuerta">
-				<Original>&lt;t color='#ff0000'&gt;Close underwater gate&lt;/t&gt;</Original>
-				<English>&lt;t color='#ff0000'&gt;Close underwater gate&lt;/t&gt;</English>
-				<Spanish>&lt;t color='#ff0000'&gt;Cerrar compuerta subacuática&lt;/t&gt;</Spanish>
-				<Japanese>&lt;t color='#ff0000'&gt;水中ゲートを閉じる&lt;/t&gt;</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bam_salir_bam">
-				<Original>Exit to B.A.M</Original>
-				<English>Exit to B.A.M</English>
-				<Spanish>Salir a B.A.M</Spanish>
-				<Japanese>B.A.Mを下船</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bam_gunner_front">
-				<Original>M2 Browning (Central)</Original>
-				<English>M2 Browning (Central)</English>
-				<Spanish>M2 Browning (Central)</Spanish>
-				<Japanese>M2 ブローニング (中央)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bam_gunner_rear">
-				<Original>M2 Browning (Rear)</Original>
-				<English>M2 Browning (Rear)</English>
-				<Spanish>M2 Browning (Trasera)</Spanish>
-				<Japanese>M2 ブローニング (後部)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bam_gunner_left">
-				<Original>M2 Browning (Left)</Original>
-				<English>M2 Browning (Left)</English>
-				<Spanish>M2 Browning (Izquierda)</Spanish>
-				<Japanese>M2 ブローニング (左)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bam_gunner_right">
-				<Original>M2 Browning (Right)</Original>
-				<English>M2 Browning (Right)</English>
-				<Spanish>M2 Browning (Derecha)</Spanish>
-				<Japanese>M2 ブローニング (右)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bam_gunner_com_left">
-				<Original>Command bridge (Left)</Original>
-				<English>Command bridge (Left)</English>
-				<Spanish>Puente de Mando (Izquierda)</Spanish>
-				<Japanese>艦橋 (左)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bam_gunner_com_right">
-				<Original>Command bridge (Right)</Original>
-				<English>Command bridge (Right)</English>
-				<Spanish>Puente de Mando (Derecha)</Spanish>
-				<Japanese>艦橋 (右)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bam_gunner_com_center">
-				<Original>Command bridge (Center)</Original>
-				<English>Command bridge (Center)</English>
-				<Spanish>Puente de Mando (Central)</Spanish>
-				<Japanese>艦橋 (中央)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bam_gunner_com">
-				<Original>Command bridge</Original>
-				<English>Command bridge</English>
-				<Spanish>Puente de Mando</Spanish>
-				<Japanese>艦橋</Japanese>
+				<Original>Close underwater gate</Original>
+				<English>Close underwater gate</English>
+				<Spanish>Cerrar compuerta subacuática</Spanish>
+				<Japanese>水中ゲートを閉じる</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bam_abordar">
 				<Original>Board B.A.M</Original>
@@ -128,34 +68,72 @@
 				<Spanish>Tomar control</Spanish>
 				<Japanese>操船する</Japanese>
 			</Key>
-			<Key ID="str_ffaa_bam_defaultcargo_displayname">
-				<Original>Configuracion personalizada</Original>
-				<English>Custom Configuration</English>
-				<Spanish>Configuracion personalizada</Spanish>
-				<Japanese>カスタム設定</Japanese>
+            <Key ID="str_ffaa_bam_makedriveable">
+				<Original>Raise / Lower Anchors</Original>
+				<English>Raise / Lower Anchors</English>
+				<Spanish>Levar / Echar anclas</Spanish>
 			</Key>
-			<Key ID="str_ffaa_bam_defaultcargo_tooltip">
-				<Original>When ticked ON, you can load your own vehicle ship cargo configuration.</Original>
-				<English>When ticked ON, you can load your own vehicle ship cargo configuration.</English>
-				<Spanish>Cuando esta opcion esta activada, puedes introducir tu propia configuracion de los vehiculos cargados.</Spanish>
-				<Japanese>オンにすると、自らの車両を艦船のカーゴ設定へ積載できます。</Japanese>
+            <Key ID="str_ffaa_action_unable_deattach_flightdeckcargo">
+				<Original>Cannot detach while the ship is in movement!</Original>
+				<English>Cannot detach while the ship is in movement!</English>
+				<Spanish>¡No se puede desanclar mientras el buque se encuentra en movimiento!</Spanish>
 			</Key>
-			<Key ID="str_ffaa_bam_customwinchcargo_displayname">
+            <Key ID="str_ffaa_action_attach_flightdeckcargo">
+				<Original>Attach aircraft</Original>
+				<English>Attach aircraft</English>
+				<Spanish>Anclar aeronave</Spanish>
+			</Key>
+            <Key ID="str_ffaa_action_detach_flightdeckcargo">
+				<Original>Detach aircraft</Original>
+				<English>Detach aircraft</English>
+				<Spanish>Desanclar aeronave</Spanish>
+			</Key>
+		</Container>
+        <Container name="config_name">
+            <Key ID="str_ffaa_dn_bam">
+                <Original>Buque de Acción Marítima</Original>
+                <English>Offshore patrol boat</English>
+                <Spanish>Buque de Acción Marítima</Spanish>
+            </Key>
+            <Key ID="str_ffaa_dn_otobreda">
+                <Original>Otobreda 76 mm</Original>
+                <English>Otobreda 76 mm</English>
+                <Spanish>Otobreda 76 mm</Spanish>
+            </Key>
+            <Key ID="str_ffaa_dn_mk38">
+                <Original>MGS Mk-38</Original>
+                <English>MGS Mk-38</English>
+                <Spanish>MGS Mk-38</Spanish>
+            </Key>
+            <Key ID="str_ffaa_dn_seat_station">
+				<Original>Command bridge seat</Original>
+				<English>Command bridge seat</English>
+				<Spanish>Asiento puente de mando</Spanish>
+				<Japanese>艦橋</Japanese>
+			</Key>
+        </Container>
+        <Container name="attributes">
+            <Key ID="str_ffaa_customwinchcargo_displayname">
 				<Original>Embarcaciones maritimas</Original>
 				<English>Lifted ships</English>
 				<Spanish>Embarcaciones maritimas</Spanish>
 				<Japanese>船舶の積載</Japanese>
 			</Key>
-			<Key ID="str_ffaa_bam_customflightdeckcargo_displayname">
+			<Key ID="str_ffaa_customflightdeckcargo_displayname">
 				<Original>Aeronaves embarcadas</Original>
 				<English>Loaded aircrafts</English>
 				<Spanish>Aeronaves embarcadas</Spanish>
 				<Japanese>航空機の積載</Japanese>
 			</Key>
-			<Key ID="str_ffaa_bam_customcargo_tooltip">
-				<Original>Classnames or objects of vehicles must be divided by commas or semicolons.</Original>
-				<English>Classnames or objects of vehicles must be divided by commas or semicolons.</English>
-				<Spanish>Los classnames y/u objetos de los vehiculos deben de estar divididos por comas o punto y comas.</Spanish>
+            <Key ID="str_ffaa_customunderwatercargo_displayname">
+				<Original>Loaded UnderWater</Original>
+				<English>Loaded UnderWater</English>
+				<Spanish>Submarino embarcado</Spanish>
+			</Key>
+			<Key ID="str_ffaa_customcargo_tooltip">
+				<Original>Classnames or objects of vehicles must be divided by commas or semicolons.\nChanges will be populated after mission start (PostInit)</Original>
+				<English>Classnames or objects of vehicles must be divided by commas or semicolons.\nChanges will be populated after mission start (PostInit)</English>
+				<Spanish>Los classnames y/u objetos de los vehiculos deben de estar divididos por comas o punto y comas.\nLos cambios serán efectivos al inicio de misión (PostInit)</Spanish>
 				<Japanese>車両クラスネームとオブジェクトは、コンマかセミコロンで区切る必要があります。</Japanese>
 			</Key>
 			<Key ID="str_ffaa_remoteweapons_displayname">
@@ -170,14 +148,36 @@
 				<Spanish>Las armas controladas remotamente se convierten en autonomas sin la necesidad del control manual humano</Spanish>
 				<Japanese>自動遠隔兵装は、有人操作の必要がありません</Japanese>
 			</Key>
-		</Container>
-		<Container name="config_name">
-			<Key ID="str_ffaa_bam">
-				<Original>Buque de Accion Maritima</Original>
-				<English>Offshore Patrol Vessel</English>
-				<Spanish>Buque de Accion Maritima</Spanish>
-				<Japanese>哨戒艦艇</Japanese>
+            <Key ID="str_ffaa_allowdriveable_displayname">
+				<Original>Allow navigation</Original>
+				<English>Allow navigation</English>
+				<Spanish>Permitir navegación</Spanish>
 			</Key>
-		</Container>
+            <Key ID="str_ffaa_allowdriveable_tooltip">
+				<Original>WARNING: EXPERIMENTAL FEATURE\nAllow player or AI (Not recommended) the manual driving and navigation of the Ship</Original>
+				<English>WARNING: EXPERIMENTAL FEATURE\nAllow player or AI (Not recommended) the manual driving and navigation of the Ship</English>
+				<Spanish>ATENCIÓN: FUNCIÓN EXPERIMENTAL\nPermite al jugador o IA (No recomendado) el pilotaje y navegación manual del Buque</Spanish>
+			</Key>
+            <Key ID="str_ffaa_bam_atribute_porton">
+				<Original>Main gate opened</Original>
+				<English>Main gate opened</English>
+				<Spanish>Portón principal abierto</Spanish>
+			</Key>
+            <Key ID="str_ffaa_bam_atribute_compuerta">
+				<Original>Bottom gate opened</Original>
+				<English>Bottom gate opened</English>
+				<Spanish>Compuerta subacuática abierta</Spanish>
+			</Key>
+            <Key ID="str_ffaa_bam_atribute_vallas">
+				<Original>Secutiry fences state</Original>
+				<English>Secutiry fences state</English>
+				<Spanish>Estado de las vallas de seguridad</Spanish>
+			</Key>
+            <Key ID="str_ffaa_bam_atribute_vallas_tip">
+				<Original>Initial rotation (in degrees) of the security fences, tipically 0.3 for Aerial Operations</Original>
+				<English>Initial rotation (in degrees) of the security fences, tipically 0.3 for Aerial Operations</English>
+				<Spanish>Rotación inicial (en grados) de las vallas de seguridad, típicamente 0.3 para operaciones aéreas</Spanish>
+			</Key>
+        </Container>
 	</Package>
 </Project>

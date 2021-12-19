@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://ffaamod.es/wp-content/uploads/2014/04/Logo-ffaa-6-cabecera.jpg"
+  <img src="https://i.gyazo.com/58db3c0f99d1b53567e13ba440a0c185.png"
        width="480" />
 </p>
 <h1 align="center">FFAA MOD Translation</h1>

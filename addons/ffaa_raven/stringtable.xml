@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+  <Package name="ffaa_et_raven">
+	<Container name="raven">
+		<Key ID="str_ffaa_cogerraven">
+			<Original>Take Raven</Original>
+			<English>Take Raven</English>
+			<Spanish>Coger Raven</Spanish>
+		</Key>
+		<Key ID="str_ffaa_repararraven">
+			<Original>Repair Raven</Original>
+			<English>Repair Raven</English>
+			<Spanish>Reparar Raven</Spanish>
+		</Key>
+		<Key ID="str_ffaa_cancelarraven">
+			<Original>Cancel Launch</Original>
+			<English>Cancel Launch</English>
+			<Spanish>Cancelar Lanzamiento</Spanish>
+		</Key>
+	</Container>
+ </Package>
+</Project>

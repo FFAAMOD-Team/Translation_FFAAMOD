@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_ar_serviola">
+		<Container name="User_actions">
+			<Key ID="str_ffaa_action_stairs">
+				<Original>Deploy / Retract stairs</Original>
+				<English>Deploy / Retract stairs</English>
+				<Spanish>Extender / Replegar escalera</Spanish>
+			</Key>
+		</Container>
+        <Container name="config_name">
+            <Key ID="str_ffaa_dn_p72">
+                <Original>Centinela Patrol Boat (P-72)</Original>
+                <English>Centinela Patrol Boat (P-72)</English>
+                <Spanish>Patrullero Centinela (P-72)</Spanish>
+            </Key>
+        </Container>
+	</Package>
+</Project>

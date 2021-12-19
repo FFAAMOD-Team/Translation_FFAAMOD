@@ -2,72 +2,6 @@
 <Project name="ffaa">
 	<Package name="ffaa_data">
 		<Container name="data">
-			<Key ID="str_insignia_ala31_1">
-				<Original>31 SQN Spanish Air Force</Original>
-				<English>31 SQN Spanish Air Force</English>
-				<Spanish>ALA 31 del Ejercito del Aire</Spanish>
-				<Japanese>スペイン空軍第 31 飛行隊</Japanese>
-			</Key>
-			<Key ID="str_insignia_armada_1">
-				<Original>Spanish Navy Marines</Original>
-				<English>Spanish Navy Marines</English>
-				<Spanish>Infantería de Marina</Spanish>
-				<Japanese>スペイン海軍海兵隊</Japanese>
-			</Key>
-			<Key ID="str_insignia_armada_2">
-				<Original>9 SQN Spanish Naval Aviation</Original>
-				<English>9 SQN Spanish Naval Aviation</English>
-				<Spanish>9 Escuadrilla de Aeronaves de la Armada</Spanish>
-				<Japanese>スペイン海軍第 9 飛行隊</Japanese>
-			</Key>
-			<Key ID="str_insignia_brilat_1_bs">
-				<Original>BRILAT "GALICIA" VII (WOODLAND)</Original>
-				<English>BRILAT "GALICIA" VII (WOODLAND)</English>
-				<Spanish>BRILAT "GALICIA" VII (BOSQUE)</Spanish>
-				<Japanese>第 7 "ガリシア" 空中機動軽歩兵旅団 (森林)</Japanese>
-			</Key>
-			<Key ID="str_insignia_brilat_1_ds">
-				<Original>BRILAT "GALICIA" VII (DESERT)</Original>
-				<English>BRILAT "GALICIA" VII (DESERT)</English>
-				<Spanish>BRILAT "GALICIA" VII (DESERTICO)</Spanish>
-				<Japanese>第 7 "ガリシア" 空中機動軽歩兵旅団 (砂漠)</Japanese>
-			</Key>
-			<Key ID="str_insignia_moe_1_ds">
-				<Original>M.O.E (DESERT)</Original>
-				<English>M.O.E (DESERT)</English>
-				<Spanish>M.O.E (DESERTICO)</Spanish>
-				<Japanese>特殊作戦コマンド (砂漠)</Japanese>
-			</Key>
-			<Key ID="str_insignia_moe_1_bs">
-				<Original>M.O.E (WOODLAND)</Original>
-				<English>M.O.E (WOODLAND)</English>
-				<Spanish>M.O.E (BOSQUE)</Spanish>
-				<Japanese>特殊作戦コマンド (森林)</Japanese>
-			</Key>
-			<Key ID="str_insignia_brimec_1_bs">
-				<Original>BRIMZ "GUZMAN EL BUENO X" (WOODLAND)</Original>
-				<English>BRIMZ "GUZMAN EL BUENO X" (WOODLAND)</English>
-				<Spanish>BRIMZ "GUZMAN EL BUENO X" (BOSQUE)</Spanish>
-				<Japanese>第 10 "グスマン・エル・ブエノ" 機械化歩兵旅団 (森林)</Japanese>
-			</Key>
-			<Key ID="str_insignia_brimec_1_ds">
-				<Original>BRIMZ "GUZMAN EL BUENO X" (DESERT)</Original>
-				<English>BRIMZ "GUZMAN EL BUENO X" (DESERT)</English>
-				<Spanish>BRIMZ "GUZMAN EL BUENO X" (DESERTICO)</Spanish>
-				<Japanese>第 10 "グスマン・エル・ブエノ" 機械化歩兵旅団 (砂漠)</Japanese>
-			</Key>
-			<Key ID="str_insignia_famet_1_ds">
-				<Original>F.A.M.E.T (DESERT)</Original>
-				<English>F.A.M.E.T (DESERT)</English>
-				<Spanish>F.A.M.E.T (DESERTICO)</Spanish>
-				<Japanese>陸軍航空隊 (砂漠)</Japanese>
-			</Key>
-			<Key ID="str_insignia_famet_1_bs">
-				<Original>F.A.M.E.T (WOODLAND)</Original>
-				<English>F.A.M.E.T (WOODLAND)</English>
-				<Spanish>F.A.M.E.T (BOSQUE)</Spanish>
-				<Japanese>陸軍航空隊 (森林)</Japanese>
-			</Key>
 			<Key ID="str_ffaa_activar_parabrisas">
 				<Original>Switch on wipers</Original>
 				<English>Switch on wipers</English>
@@ -226,6 +160,62 @@
 				<Spanish>Armada Española</Spanish>
 				<Japanese>スペイン海軍</Japanese>
 			</Key>
+			<Key ID="str_ffaa_faction_name">
+				<Original>Spanish Armed Forces</Original>
+				<English>Spanish Armed Forces</English>
+				<Spanish>Fuerzas Armadas Españolas</Spanish>
+			</Key>
+            <Key ID="str_ffaa_sirena">
+				<Original>Siren</Original>
+				<English>Siren</English>
+				<Spanish>Sirena</Spanish>
+				<Japanese>サイレン</Japanese>
+			</Key>
+            <Key ID="str_ffaa_atribute_pxs_sector_size">
+				<Original>Distancia de la vista satelital</Original>
+				<English>Satellital view distance</English>
+				<Spanish>Distancia de la vista satelital</Spanish>
+			</Key>
+            <Key ID="str_ffaa_atribute_pxs_sector_size_tip">
+				<Original>Maximum distance of the radius in meters from the original position for SATCOM view operations</Original>
+				<English>Maximum distance of the radius in meters from the original position for SATCOM view operations</English>
+				<Spanish>Distancia máxima del radio en metros desde la posición inicial para el uso de la vista satelital</Spanish>
+			</Key>
+            <Key ID="str_ffaa_atribute_pxs_time">
+				<Original>Reconnection Time</Original>
+				<English>Reconnection Time</English>
+				<Spanish>Tiempo de reconexión</Spanish>
+			</Key>
+            <Key ID="str_ffaa_atribute_pxs_time_tip">
+				<Original>Time in minutes of the SATCOM alignment procedure to the requested position</Original>
+				<English>Time in minutes of the SATCOM alignment procedure to the requested position</English>
+				<Spanish>Tiempo en minutos del procedimiento de alineación del satelite hasta la posición requerida</Spanish>
+			</Key>
+            <Key ID="str_ffaa_atribute_autoswitchnasams">
+				<Original>Auto switch on NASAMS</Original>
+				<English>Auto switch on NASAMS</English>
+				<Spanish>Auto activar NASAMS</Spanish>
+			</Key>
+            <Key ID="str_ffaa_atribute_distance_nasams">
+				<Original>NASAMS distance connection</Original>
+				<English>NASAMS distance connection</English>
+				<Spanish>Distancia de conexión NASAMS</Spanish>
+			</Key>
+            <Key ID="str_ffaa_atribute_distance_nasams_tip">
+				<Original>Maximum distance in meters from Fire Distribution Center to devices</Original>
+				<English>Maximum distance in meters from Fire Distribution Center to devices</English>
+				<Spanish>Distancia máxima en metros de conexión desde el FDC hasta los dispositivos</Spanish>
+			</Key>
+            <Key ID="str_ffaa_atribute_devices_nasams">
+				<Original>Number of NASAMS devices</Original>
+				<English>Number of NASAMS devices</English>
+				<Spanish>Numero de dispositivos NASAMS</Spanish>
+			</Key>
+            <Key ID="str_ffaa_atribute_devices_nasams_tip">
+				<Original>Maximum number of devices this FDC can support and comunicate</Original>
+				<English>Maximum number of devices this FDC can support and comunicate</English>
+				<Spanish>Número de dispositivos máximo que puede soportar y comunicar este FDC</Spanish>
+			</Key>
 		</Container>
 		<Container name="autores">
 			<Key ID="str_ffaa_autor_ffaamod">
@@ -233,6 +223,11 @@
 				<English>FFAA Mod Team</English>
 				<Spanish>Equipo del Mod FFAA</Spanish>
 				<Japanese>FFAA Mod チーム</Japanese>
+			</Key>
+            <Key ID="str_ffaa_overview">
+				<Original>El FFAA MOD añade una gran cantidad de unidades y contenido de las Fuerzas Armadas Españolas de la época actual, incluyendo tanto armamento y equipamiento personal como unidades terrestres, aéreas y marítimas.</Original>
+				<English>The FFAA MOD adds a large number of units and content from the Spanish Armed Forces of the current era, including armament and personal equipment as well as land, air and sea units.</English>
+				<Spanish>El FFAA MOD añade una gran cantidad de unidades y contenido de las Fuerzas Armadas Españolas de la época actual, incluyendo tanto armamento y equipamiento personal como unidades terrestres, aéreas y marítimas.</Spanish>
 			</Key>
 			<Key ID="str_ffaa_ar_infanteria_autor">
 				<Original>Micky</Original>
@@ -304,27 +299,15 @@
 			</Key>
 		</Container>
 		<Container name="banderas">
-            <Key ID="STR_FFAA_BANDERA_TEXTO_NODISPONIBLE1">
-				<Original>The flag with "</Original>
-				<English>The flag with "</English>
-				<Spanish>La bandera con classname "</Spanish>
-				<Japanese>次の旗"</Japanese>
-			</Key>
-            <Key ID="str_ffaa_bandera_texto_nodisponible2">
-				<Original>" classname is not available. There is a high chance it's not showing up inside Arma3.es linked groups</Original>
-				<English>" classname is not available. There is a high chance it's not showing up inside Arma3.es linked groups</English>
-				<Spanish>" no está disponible. Es probable que no figure dentro del conjunto de clanes adheridos a los foros de Arma3.es</Spanish>
-				<Japanese>"のクラスネームは利用できません。Arma3.ex連携グループではないため、高い確率で表示されません。</Japanese>
-			</Key>
 			<Key ID="str_ffaa_deprecated_classname1">
 				<Original>The object with "</Original>
 				<English>The object with "</English>
 				<Spanish>El objeto con classname "</Spanish>
 			</Key>
             <Key ID="str_ffaa_deprecated_classname2">
-				<Original>" classname is deprecated. It's recommended (rather mandatory) the mission editor update it to the most recent classname</Original>
-				<English>" classname is deprecated. It's recommended (rather mandatory) the mission editor update it to the most recent classname</English>
-				<Spanish>" está obsoleto. Es recomendable (mas bien obligatorio) que el editor de la misión actualice el classname a la versión mas reciente</Spanish>
+				<Original>" classname is deprecated or non-available. It's recommended (rather mandatory) the mission editor update it to the most recent classname</Original>
+				<English>" classname is deprecated or non-available. It's recommended (rather mandatory) the mission editor update it to the most recent classname</English>
+				<Spanish>" está obsoleto o no disponible. Es recomendable (mas bien obligatorio) que el editor de la misión actualice el classname a la versión mas reciente o lo sustituya por otro.</Spanish>
 			</Key>
 			<Key ID="str_ffaa_bandera_espa">
 				<Original>Flag (Spanish)</Original>
@@ -339,34 +322,16 @@
 				<Japanese>旗 (FFAA MOD)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bandera_ffaa2">
-				<Original>Flag (FFAA MOD)</Original>
-				<English>Flag (FFAA MOD)</English>
-				<Spanish>Bandera (FFAA MOD)</Spanish>
-				<Japanese>旗 (FFAA MOD)</Japanese>
+				<Original>Flag 2 (FFAA MOD)</Original>
+				<English>Flag 2 (FFAA MOD)</English>
+				<Spanish>Bandera 2 (FFAA MOD)</Spanish>
+				<Japanese>旗 二つの(FFAA MOD)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bandera_comunidad">
 				<Original>Flag (Spanish Community)</Original>
 				<English>Flag (Spanish Community)</English>
 				<Spanish>Bandera (Comunidad Espanola)</Spanish>
 				<Japanese>旗 (スペイン コミュニティ)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bandera_blackwater">
-				<Original>Flag (Blackwater)</Original>
-				<English>Flag (Blackwater)</English>
-				<Spanish>Bandera (Blackwater)</Spanish>
-				<Japanese>旗 (ブラックウォーター)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bandera_ceal">
-				<Original>Flag (CEAL)</Original>
-				<English>Flag (CEAL)</English>
-				<Spanish>Bandera (CEAL)</Spanish>
-				<Japanese>旗 (CEAL)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bandera_cgea">
-				<Original>Flag (CGEA)</Original>
-				<English>Flag (CGEA)</English>
-				<Spanish>Bandera (CGEA)</Spanish>
-				<Japanese>旗 (CGEA)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bandera_eagle">
 				<Original>Flag (EAGLE)</Original>
@@ -380,12 +345,6 @@
 				<Spanish>Bandera (ESUS)</Spanish>
 				<Japanese>旗 (ESUS)</Japanese>
 			</Key>
-			<Key ID="str_ffaa_bandera_fae">
-				<Original>Flag (FAE)</Original>
-				<English>Flag (FAE)</English>
-				<Spanish>Bandera (FAE)</Spanish>
-				<Japanese>旗 (FAE)</Japanese>
-			</Key>
 			<Key ID="str_ffaa_bandera_gir">
 				<Original>Flag (GIR)</Original>
 				<English>Flag (GIR)</English>
@@ -398,29 +357,11 @@
 				<Spanish>Bandera (Rhino)</Spanish>
 				<Japanese>旗 (Rhino)</Japanese>
 			</Key>
-			<Key ID="str_ffaa_bandera_tierone">
-				<Original>Flag (TierOne)</Original>
-				<English>Flag (TierOne)</English>
-				<Spanish>Bandera (TierOne)</Spanish>
-				<Japanese>旗 (TierOne)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bandera_vikingos">
-				<Original>Flag (Vikingos)</Original>
-				<English>Flag (Vikingos)</English>
-				<Spanish>Bandera (Vikingos)</Spanish>
-				<Japanese>旗 (Vikingos)</Japanese>
-			</Key>
 			<Key ID="str_ffaa_bandera_88">
 				<Original>Flag (88th)</Original>
 				<English>Flag (88th)</English>
 				<Spanish>Bandera (88th)</Spanish>
 				<Japanese>旗 (88th)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bandera_utum">
-				<Original>Flag (UTUM)</Original>
-				<English>Flag (UTUM)</English>
-				<Spanish>Bandera (UTUM)</Spanish>
-				<Japanese>旗 (UTUM)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bandera_ust101">
 				<Original>Flag (UST101)</Original>
@@ -428,47 +369,11 @@
 				<Spanish>Bandera (UST101)</Spanish>
 				<Japanese>旗 (UST101)</Japanese>
 			</Key>
-			<Key ID="str_ffaa_bandera_boe">
-				<Original>Flag (BOE)</Original>
-				<English>Flag (BOE)</English>
-				<Spanish>Bandera (BOE)</Spanish>
-				<Japanese>旗 (BOE)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bandera_falcon">
-				<Original>Flag (Falcon)</Original>
-				<English>Flag (Falcon)</English>
-				<Spanish>Bandera (Falcon)</Spanish>
-				<Japanese>旗 (Falcon)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bandera_blackdragon">
-				<Original>Flag (Blackdragon)</Original>
-				<English>Flag (Blackdragon)</English>
-				<Spanish>Bandera (Blackdragon)</Spanish>
-				<Japanese>旗 (Blackdragon)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bandera_A2">
-				<Original>Flag (Grupo Armados)</Original>
-				<English>Flag (Grupo Armados)</English>
-				<Spanish>Bandera (Grupo Armados)</Spanish>
-				<Japanese>旗 (Grupo Armados)</Japanese>
-			</Key>
 			<Key ID="str_ffaa_bandera_escuadron111">
 				<Original>Flag (Escuadron 111)</Original>
 				<English>Flag (Escuadron 111)</English>
 				<Spanish>Bandera (Escuadron 111)</Spanish>
 				<Japanese>旗 (Escuadron 111)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bandera_tve">
-				<Original>Flag (Tercio Viejo de España)</Original>
-				<English>Flag (Tercio Viejo de España)</English>
-				<Spanish>Bandera (Tercio Viejo de España)</Spanish>
-				<Japanese>旗 (Tercio Viejo de España)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_bandera_ctc">
-				<Original>Flag (Comando Táctico de Combate)</Original>
-				<English>Flag (Comando Táctico de Combate)</English>
-				<Spanish>Bandera (Comando Táctico de Combate)</Spanish>
-				<Japanese>旗 (Comando Táctico de Combate)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_bandera_acc">
 				<Original>Flag (Agrupación de Combate Cerbero)</Original>
@@ -487,6 +392,138 @@
 				<English>Flag (Nova Exortus)</English>
 				<Spanish>Bandera (Nova Exortus)</Spanish>
 				<Japanese>旗 (Nova Exortus)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_ea">
+				<Original>Flag (Escuadron Alpha)</Original>
+				<English>Flag (Escuadron Alpha)</English>
+				<Spanish>Bandera (Escuadron Alpha)</Spanish>
+				<Japanese>旗 (Escuadron Alpha)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_mcoe">
+				<Original>Flag (MCOE)</Original>
+				<English>Flag (MCOE)</English>
+				<Spanish>Bandera (MCOE)</Spanish>
+				<Japanese>旗 (MCOE)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_bh">
+				<Original>Flag (Brigada Hispania)</Original>
+				<English>Flag (Brigada Hispania)</English>
+				<Spanish>Bandera (Brigada Hispania)</Spanish>
+				<Japanese>旗 (Brigada Hispania)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_cap">
+				<Original>Flag (CAP)</Original>
+				<English>Flag (CAP)</English>
+				<Spanish>Bandera (CAP)</Spanish>
+				<Japanese>旗 (CAP)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_fs">
+				<Original>Flag (Compañia Firestorm)</Original>
+				<English>Flag (Compañia Firestorm)</English>
+				<Spanish>Bandera (Compañia Firestorm)</Spanish>
+				<Japanese>旗 (Compañia Firestorm)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_gts">
+				<Original>Flag (Grupo Tactico Spaincorps)</Original>
+				<English>Flag (Grupo Tactico Spaincorps)</English>
+				<Spanish>Bandera (Grupo Tactico Spaincorps)</Spanish>
+				<Japanese>旗 (Grupo Tactico Spaincorps)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_11THMEU">
+				<Original>Flag (11Th M.E.U)</Original>
+				<English>Flag (11Th M.E.U)</English>
+				<Spanish>Bandera (11Th M.E.U)</Spanish>
+				<Japanese>旗 (11Th M.E.U)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_sof4">
+				<Original>Flag (SOF4)</Original>
+				<English>Flag (SOF4)</English>
+				<Spanish>Bandera (SOF4)</Spanish>
+				<Japanese>旗 (SOF4)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_FO148">
+				<Original>Flag (Fuerza Operativa 148)</Original>
+				<English>Flag (Fuerza Operativa 148)</English>
+				<Spanish>Bandera (Fuerza Operativa 148)</Spanish>
+				<Japanese>旗 (Fuerza Operativa 148)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_sf">
+				<Original>Flag (Silver Force)</Original>
+				<English>Flag (Silver Force)</English>
+				<Spanish>Bandera (Silver Force)</Spanish>
+				<Japanese>旗 (Silver Force)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_bear">
+				<Original>Flag (BEAR)</Original>
+				<English>Flag (BEAR)</English>
+				<Spanish>Bandera (BEAR)</Spanish>
+				<Japanese>旗 (BEAR)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_fsg">
+				<Original>Flag (Frontside Gaming)</Original>
+				<English>Flag (Frontside Gaming)</English>
+				<Spanish>Bandera (Frontside Gaming)</Spanish>
+				<Japanese>旗 (Frontside Gaming)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_cs">
+				<Original>Flag (Comando Spectre)</Original>
+				<English>Flag (Comando Spectre)</English>
+				<Spanish>Bandera (Comando Spectre)</Spanish>
+				<Japanese>旗 (Comando Spectre)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_tsas">
+				<Original>Flag (Tactical S.A.S)</Original>
+				<English>Flag (Tactical S.A.S)</English>
+				<Spanish>Bandera (Tactical S.A.S)</Spanish>
+				<Japanese>旗 (Tactical S.A.S)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_mole">
+				<Original>Flag (MOLE)</Original>
+				<English>Flag (MOLE)</English>
+				<Spanish>Bandera (MOLE)</Spanish>
+				<Japanese>旗 (MOLE)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_geos">
+				<Original>Flag (GEOS)</Original>
+				<English>Flag (GEOS)</English>
+				<Spanish>Bandera (GEOS)</Spanish>
+				<Japanese>旗 (GEOS)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_orioniv">
+				<Original>Flag (OrionIV)</Original>
+				<English>Flag (OrionIV)</English>
+				<Spanish>Bandera (OrionIV)</Spanish>
+				<Japanese>旗 (OrionIV)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_nes">
+				<Original>Flag (Navy Esp Seals)</Original>
+				<English>Flag (Navy Esp Seals)</English>
+				<Spanish>Bandera (Navy Esp Seals)</Spanish>
+				<Japanese>旗 (Navy Esp Seals)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_cesa">
+				<Original>Flag (C.E.S.A)</Original>
+				<English>Flag (C.E.S.A)</English>
+				<Spanish>Bandera (C.E.S.A)</Spanish>
+				<Japanese>旗 (C.E.S.A)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_GNS">
+				<Original>Flag (Comando Génesis)</Original>
+				<English>Flag (Comando Génesis)</English>
+				<Spanish>Bandera (Comando Génesis)</Spanish>
+				<Japanese>旗 (Comando Génesis)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_bandera_rvgm">
+				<Original>Flag (RivalGamers)</Original>
+				<English>Flag (RivalGamers)</English>
+				<Spanish>Bandera (RivalGamers)</Spanish>
+				<Japanese>旗 (RivalGamers)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_bandera_a2">
+				<Original>Flag (Grupo Armados)</Original>
+				<English>Flag (Grupo Armados)</English>
+				<Spanish>Bandera (Grupo Armados)</Spanish>
+				<Japanese>旗 (Grupo Armados)</Japanese>
 			</Key>
 		</Container>
 	</Package>

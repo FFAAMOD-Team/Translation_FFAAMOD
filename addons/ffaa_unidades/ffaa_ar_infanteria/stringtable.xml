@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_ar_infanteria">
+		<Container name="unidades">
+			<Key ID="str_ffaa_ar_marinero">
+				<Original>Sailor</Original>
+				<English>Sailor</English>
+				<Czech>Sailor</Czech>
+				<French>Sailor</French>
+				<German>Sailor</German>
+				<Italian>Sailor</Italian>
+				<Polish>Sailor</Polish>
+				<Portuguese>Sailor</Portuguese>
+				<Russian>Sailor</Russian>
+				<Spanish>Marinero</Spanish>
+				<Japanese>乗組員</Japanese>
+			</Key>
+		</Container>
+	</Package>
+</Project>

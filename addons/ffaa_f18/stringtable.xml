@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_ea_f18">
+		<Container name="f18">
+			<Key ID="str_ffaa_autor_ef18m">
+				<Original>FFAA MOD, IntrepidGamer</Original>
+				<English>FFAA MOD, IntrepidGamer</English>
+				<Spanish>FFAA MOD, IntrepidGamer</Spanish>
+			</Key>
+            <Key ID="str_ffaa_dn_ef18m">
+				<Original>EF-18 M Hornet</Original>
+				<English>EF-18 M Hornet</English>
+				<Spanish>EF-18 M Hornet</Spanish>
+			</Key>
+		</Container>
+	</Package>
+</Project>

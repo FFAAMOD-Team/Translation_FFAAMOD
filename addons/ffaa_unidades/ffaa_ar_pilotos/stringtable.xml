@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_ar_pilotos">
+		<Container name="unidades">
+			<Key ID="str_ffaa_pilot_harri">
+				<Original>Piloto Harrier</Original>
+				<Spanish>Piloto Harrier</Spanish>
+				<Czech>Piloto Harrier</Czech>
+				<French>Piloto Harrier</French>
+				<German>Piloto Harrier</German>
+				<Italian>Piloto Harrier</Italian>
+				<Polish>Piloto Harrier</Polish>
+				<Portuguese>Piloto Harrier</Portuguese>
+				<Russian>Piloto Harrier</Russian>
+				<English>Piloto Harrier</English>
+				<Japanese>ハリアー パイロット</Japanese>
+			</Key>
+		</Container>
+	</Package>
+</Project>

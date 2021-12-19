@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="FFAA">
+	<Container name="uniformes">
+		<Key ID="str_ffaa_ropinter_ds">
+			<Original>Underwear (Arid)</Original>
+			<English>Underwear (Arid)</English>
+			<Spanish>Ropa interior (Árido)</Spanish>
+			<Japanese>下着 (砂漠)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_ropinter_bs">
+			<Original>Underwear (Woodland)</Original>
+			<English>Underwear (Woodland)</English>
+			<Spanish>Ropa interior (Bosque)</Spanish>
+			<Japanese>砂漠 (森林)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_combatuniform_bs">
+			<Original>Combat Uniform (Pixelated Woodland)</Original>
+			<English>Combat Uniform (Pixelated Woodland)</English>
+			<Spanish>Uniforme de combate (Boscoso Pixelado)</Spanish>
+			<Japanese>戦闘服 (ピクセル森林)</Japanese>
+		</Key>
+        <Key ID="str_ffaa_combatuniform_shortsleeve_bs">
+			<Original>Combat Uniform Short sleeve (Woodland)</Original>
+			<English>Combat Uniform Short sleeve (Woodland)</English>
+			<Spanish>Uniforme de combate corto (Boscoso)</Spanish>
+			<Japanese>戦闘服 (ピクセル森林)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_combatuniform_ds">
+			<Original>Combat Uniform (Arid Pixelated)</Original>
+			<English>Combat Uniform (Arid Pixelated)</English>
+			<Spanish>Uniforme de combate (Árido Pixelado)</Spanish>
+			<Japanese>戦闘服 (ピクセル砂漠)</Japanese>
+		</Key>
+        <Key ID="str_ffaa_combatuniform_shortsleeve_ds">
+			<Original>Combat Uniform Short sleeve (Arid)</Original>
+			<English>Combat Uniform Short sleeve (Arid)</English>
+			<Spanish>Uniforme de combate corto (Árido)</Spanish>
+			<Japanese>戦闘服 (ピクセル砂漠)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_combatuniform_bk">
+			<Original>Combat Uniform (Black)</Original>
+			<English>Combat Uniform (Black)</English>
+			<Spanish>Uniforme de combate (Negro)</Spanish>
+		</Key>
+		<Key ID="str_ffaa_combatuniform_guillie_bs">
+			<Original>Uniform sniper (Woodland)</Original>
+			<English>Uniform sniper (Woodland)</English>
+			<Spanish>Uniforme francotirador (Boscoso)</Spanish>
+			<Japanese>狙撃手戦闘服 (森林)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_combatuniform_guillie_ds">
+			<Original>Uniform sniper (Arid)</Original>
+			<English>Uniform sniper (Arid)</English>
+			<Spanish>Uniforme francotirador (Árido)</Spanish>
+			<Japanese>狙撃手戦闘服 (砂漠)</Japanese>
+		</Key>
+		<Key ID="str_ffaa_pilot_harri_uniforme">
+			<Original>Uniforme Piloto Harrier</Original>
+			<Spanish>Uniforme Piloto Harrier</Spanish>
+			<English>Uniforme Piloto Harrier</English>
+			<Japanese>ハリアー パイロット服</Japanese>
+		</Key>
+		<Key ID="str_ffaa_pilot_her_uniforme_bs">
+			<Original>Transport Pilot Coveralls (Woodland) [FFAA]</Original>
+			<English>Transport Coveralls (Woodland) [FFAA]</English>
+			<Spanish>Mono de piloto de transporte (Boscoso) [FFAA]</Spanish>
+			<Japanese>輸送パイロット服 (森林) [FFAA]</Japanese>
+		</Key>
+		<Key ID="str_ffaa_pilot_her_uniforme_ds">
+			<Original>Transport Pilot Coveralls (Arid) [FFAA]</Original>
+			<English>Transport Pilot Coveralls (Arid) [FFAA]</English>
+			<Spanish>Mono de piloto de transporte (Árido) [FFAA]</Spanish>
+			<Japanese>輸送パイロット服 (砂漠) [FFAA]</Japanese>
+		</Key>
+		<Key ID="str_ffaa_uniforme_marinero">
+			<Original>Sailor Uniform</Original>
+			<English>Sailor Uniform</English>
+			<Spanish>Uniforme de Marinero</Spanish>
+			<Japanese>乗組員の服</Japanese>
+		</Key>
+		<Key ID="str_ffaa_famet_uniforme_bs">
+			<Original>Heli Pilot Coveralls (Woodland) [FFAA]</Original>
+			<English>Heli Pilot Coveralls (Woodland) [FFAA]</English>
+			<Spanish>Mono de piloto de helicóptero (Boscoso) [FFAA]</Spanish>
+			<Japanese>ヘリ パイロット服 (森林) [FFAA]</Japanese>
+		</Key>
+		<Key ID="str_ffaa_famet_uniforme_ds">
+			<Original>Heli Pilot Coveralls (Arid) [FFAA]</Original>
+			<English>Heli Pilot Coveralls (Arid) [FFAA]</English>
+			<Spanish>Mono de piloto de helicóptero (Árido) [FFAA]</Spanish>
+			<Japanese>ヘリ パイロット服 (砂漠) [FFAA]</Japanese>
+		</Key>
+	</Container>
+</Project>

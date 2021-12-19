@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="FFAA">
+	<Package name="ffaa_et_moe">
+		<Container name="unidades">
+			<Key ID="str_ffaa_lider_moe">
+				<Original>Leader (Woodland)</Original>
+				<English>Leader (Woodland)</English>
+				<Spanish>Lider (Boscoso)</Spanish>
+				<Japanese>森林 班長オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusmo_moe">
+				<Original>Rifleman (Woodland)</Original>
+				<English>Rifleman (Woodland)</English>
+				<Spanish>Fusilero (Boscoso)</Spanish>
+				<Japanese>森林 小銃手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tirador_moe">
+				<Original>Marksman (Woodland)</Original>
+				<English>Marksman (Woodland)</English>
+				<Spanish>Tirador (Boscoso)</Spanish>
+				<Japanese>森林 選抜射手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_sanitario_moe">
+				<Original>Medic (Woodland)</Original>
+				<English>Medic (Woodland)</English>
+				<Spanish>Sanitario (Boscoso)</Spanish>
+				<Japanese>森林 衛生兵オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mg4_moe">
+				<Original>MG4 Operator (Woodland)</Original>
+				<English>MG4 Operator (Woodland)</English>
+				<Spanish>Operador de MG4 (Boscoso)</Spanish>
+				<Japanese>森林 MG4 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_granadero_moe">
+				<Original>Grenadier (Woodland)</Original>
+				<English>Grenadier (Woodland)</English>
+				<Spanish>Granadero (Boscoso)</Spanish>
+				<Japanese>森林 てき弾手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_c90_moe">
+				<Original>C90 Operator (Woodland)</Original>
+				<English>C90 Operator (Woodland)</English>
+				<Spanish>Operador de C90 (Boscoso)</Spanish>
+				<Japanese>森林 C90 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_c100_moe">
+				<Original>C100 Operator (Woodland)</Original>
+				<English>C100 Operator (Woodland)</English>
+				<Spanish>Operador de C100 (Boscoso)</Spanish>
+				<Japanese>森林 C100 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_saboteadorsl_moe">
+				<Original>Silenced Operator (Woodland)</Original>
+				<English>Silenced Operator (Woodland)</English>
+				<Spanish>Operador Silenciado (Boscoso)</Spanish>
+				<Japanese>森林 隠密オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_saboteadorexplo_moe">
+				<Original>Engineer (Woodland)</Original>
+				<English>Engineer (Woodland)</English>
+				<Spanish>Ingeniero (Boscoso)</Spanish>
+				<Japanese>森林 工兵オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_lider_moe_ds">
+				<Original>Leader (Arid)</Original>
+				<English>Leader (Arid)</English>
+				<Spanish>Lider (Arido)</Spanish>
+				<Japanese>砂漠 班長オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusmo_moe_ds">
+				<Original>Rifleman (Arid)</Original>
+				<English>Rifleman (Arid)</English>
+				<Spanish>Fusilero (Arido)</Spanish>
+				<Japanese>砂漠 小銃手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tirador_moe_ds">
+				<Original>Marksman (Arid)</Original>
+				<English>Marksman (Arid)</English>
+				<Spanish>Tirador (Arido)</Spanish>
+				<Japanese>砂漠 選抜射手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_sanitario_moe_ds">
+				<Original>Medic (Arid)</Original>
+				<English>Medic (Arid)</English>
+				<Spanish>Sanitario (Arido)</Spanish>
+				<Japanese>砂漠 衛生兵オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mg4_moe_ds">
+				<Original>MG4 Operator (Arid)</Original>
+				<English>MG4 Operator (Arid)</English>
+				<Spanish>Operador de MG4 (Arido)</Spanish>
+				<Japanese>砂漠 MG4 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_granadero_moe_ds">
+				<Original>Grenadier (Arid)</Original>
+				<English>Grenadier (Arid)</English>
+				<Spanish>Granadero (Arido)</Spanish>
+				<Japanese>砂漠 てき弾手オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_c90_moe_ds">
+				<Original>C90 Operator (Arid)</Original>
+				<English>C90 Operator (Arid)</English>
+				<Spanish>Operador de C90 (Arido)</Spanish>
+				<Japanese>砂漠 C90 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_c100_moe_ds">
+				<Original>C100 Operator (Arid)</Original>
+				<English>C100 Operator (Arid)</English>
+				<Spanish>Operador de C100 (Arido)</Spanish>
+				<Japanese>砂漠 C100 オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_saboteadorsl_moe_ds">
+				<Original>Silenced Operator (Arid)</Original>
+				<English>Silenced Operator (Arid)</English>
+				<Spanish>Operador Silenciado (Arido)</Spanish>
+				<Japanese>砂漠 隠密オペレーター</Japanese>
+			</Key>
+			<Key ID="str_ffaa_saboteadorexplo_moe_ds">
+				<Original>Engineer (Arid)</Original>
+				<English>Engineer (Arid)</English>
+				<Spanish>Ingeniero (Arido)</Spanish>
+				<Japanese>砂漠 工兵オペレーター</Japanese>
+			</Key>
+            <Key ID="str_ffaa_moe_specialteam_bs">
+				<Original>MOE Squad (Woodland)</Original>
+				<English>MOE Squad (Woodland)</English>
+				<Spanish>Escuadra MOE (Boscoso)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_moe_specialteam_ds">
+				<Original>MOE Squad (Arid)</Original>
+				<English>MOE Squad (Arid)</English>
+				<Spanish>Escuadra MOE (Arido)</Spanish>
+			</Key>
+		</Container>
+	</Package>
+</Project>

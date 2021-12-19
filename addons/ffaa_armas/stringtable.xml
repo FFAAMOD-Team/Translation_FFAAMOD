@@ -14,6 +14,7 @@
 				<Spanish>Municion (FFAA)</Spanish>
 				<Japanese>弾薬 (FFAA)</Japanese>
 			</Key>
+			
 			<Key ID="str_ffaa_classe_armas">
 				<Original>Supply Box (FFAA)</Original>
 				<English>Supply Box (FFAA)</English>
@@ -131,6 +132,18 @@
 				<Spanish>Caja de suministros de [FFAA]</Spanish>
 				<Japanese>支援物資箱 [FFAA]</Japanese>
 			</Key>
+			<Key ID="str_ffaa_box_mochilas">
+				<Original>Backpacks Box [FFAA]</Original>
+				<English>Backpacks Box [FFAA]</English>
+				<Spanish>Caja de mochilas de [FFAA]</Spanish>
+				<Japanese>バックパック箱 [FFAA]</Japanese>
+			</Key>
+			<Key ID="str_ffaa_box_chalecos">
+				<Original>Combat Vests Box [FFAA]</Original>
+				<English>Combat Vests Box [FFAA]</English>
+				<Spanish>Caja de chalecos de [FFAA]</Spanish>
+				<Japanese>戦闘ベスト [FFAA]</Japanese>
+			</Key>
 		</Container>
 		<Container name="Accesorios">
 			<Key ID="str_ffaa_optic_vosel">
@@ -182,16 +195,22 @@
 				<Japanese>SUSAT 照準器</Japanese>
 			</Key>
 			<Key ID="str_ffaa_mira_holografica_g36">
-				<Original>EOTech 552 (for G36)</Original>
-				<English>EOTech 552 (for G36)</English>
-				<Spanish>EOTech 552 (para G36)</Spanish>
-				<Japanese>EOTech 552 (G36用)</Japanese>
+				<Original>EOTech 553 (for G36)</Original>
+				<English>EOTech 553 (for G36)</English>
+				<Spanish>EOTech 553 (para G36)</Spanish>
+				<Japanese>EOTech 553 (G36用)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_mira_holografica">
-				<Original>EOTech 552</Original>
-				<English>EOTech 552</English>
-				<Spanish>EOTech 552</Spanish>
-				<Japanese>EOTech 552</Japanese>
+				<Original>EOTech 553</Original>
+				<English>EOTech 553</English>
+				<Spanish>EOTech 553</Spanish>
+				<Japanese>EOTech 553</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mira_romeo4t_black">
+				<Original>Romeo4T (Black)</Original>
+				<English>Romeo4T (Black)</English>
+				<Spanish>Romeo4T (Negro)</Spanish>
+				<Japanese>Romeo4T (Black)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_mira_enasa">
 				<Original>ENOSA sight</Original>
@@ -313,6 +332,49 @@
 				<Spanish>Cargador G36 de balas trazadoras (verde) de 5,56 mm, 30 balas</Spanish>
 				<Japanese>5.56mm 30発入り 曳光弾 (緑) G36 弾倉</Japanese>
 			</Key>
+             <Key ID="str_ffaa_20rnd_762x51_hk417">
+				<Original>7.62mm 20rnd Mag</Original>
+				<English>7.62mm 20rnd Mag</English>
+				<Spanish>Cargador 7.62 mm de 20 balas</Spanish>
+			</Key>
+            <Key ID="str_ffaa_20rnd_762x51_hk417_descriptionshort">
+				<Original>Caliber: 7.62x51 mm NATO&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: HK 417</Original>
+				<English>Caliber: 7.62x51 mm NATO&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: HK 417</English>
+				<Spanish>Calibre: 7.62x51 mm STANAG&lt;br /&gt;Cargas: 20&lt;br /&gt;Se usa en: HK 417</Spanish>
+			</Key>
+            
+            <Key ID="str_ffaa_20rnd_762x51_hk417_tracer_green">
+				<Original>7.62mm 20rnd Tracer (green) Mag</Original>
+				<English>7.62mm 20rnd Tracer (green) Mag</English>
+				<Spanish>Cargador 7.62 mm de 20 balas trazadoras (verde)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_20rnd_762x51_hk417_tracer_green_descriptionshort">
+				<Original>Caliber: 7.62x51 mm Tracers - Green&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: HK 417</Original>
+				<English>Caliber: 7.62x51 mm Tracers - Green&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: HK 417</English>
+				<Spanish>Calibre: 7.62x51 mm Trazadoras - Verde&lt;br /&gt;Cargas: 20&lt;br /&gt;Se usa en: HK 417</Spanish>
+			</Key>
+            
+            <Key ID="str_ffaa_20rnd_762x51_hk417_tracer_yellow">
+				<Original>7.62mm 20rnd Tracer (yellow) Mag</Original>
+				<English>7.62mm 20rnd Tracer (yellow) Mag</English>
+				<Spanish>Cargador 7.62 mm de 20 balas trazadoras (amarillo)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_20rnd_762x51_hk417_tracer_yellow_descriptionshort">
+				<Original>Caliber: 7.62x51 mm Tracers - yellow&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: HK 417</Original>
+				<English>Caliber: 7.62x51 mm Tracers - yellow&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: HK 417</English>
+				<Spanish>Calibre: 7.62x51 mm Trazadoras - amarillo&lt;br /&gt;Cargas: 20&lt;br /&gt;Se usa en: HK 417</Spanish>
+			</Key>
+            <Key ID="str_ffaa_20rnd_762x51_hk417_tracer_red">
+				<Original>7.62mm 20rnd Tracer (red) Mag</Original>
+				<English>7.62mm 20rnd Tracer (red) Mag</English>
+				<Spanish>Cargador 7.62 mm de 20 balas trazadoras (rojo)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_20rnd_762x51_hk417_tracer_red_descriptionshort">
+				<Original>Caliber: 7.62x51 mm Tracers - red&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: HK 417</Original>
+				<English>Caliber: 7.62x51 mm Tracers - red&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: HK 417</English>
+				<Spanish>Calibre: 7.62x51 mm Trazadoras - rojo&lt;br /&gt;Cargas: 20&lt;br /&gt;Se usa en: HK 417</Spanish>
+			</Key>
+            
 			<Key ID="str_ffaa_g36_cargador_definicion">
 				<Original>Caliber: 5.56x45 mm STANAG&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: G36, Cetme L</Original>
 				<English>Caliber: 5.56x45 mm STANAG&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: G36, Cetme L</English>
@@ -608,29 +670,96 @@
 				<Spanish>Calibre: Perdigones &lt;br /&gt;Cargas: 8&lt;br /&gt;Se usa en: Fabarm SDASS</Spanish>
 				<Japanese>口径: ペレット&lt;br /&gt;装填数: 8&lt;br /&gt;次で使用: ファバーム SDASS</Japanese>
 			</Key>
-			<Key ID="str_ffaa_granada_c90">
+			<Key ID="str_ffaa_dn_alcotan_cr_rb">
 				<Original>Grenade C-90 CR-RB</Original>
 				<English>Grenade C-90 CR-RB</English>
 				<Spanish>Granada C-90 CR-RB</Spanish>
-				<Japanese>C-90 CR-RB ロケット ランチャー</Japanese>
+			</Key>
+			<Key ID="str_ffaa_dns_alcotan_cr_rb">
+				<Original>CR-RB</Original>
+				<English>CR-RB</English>
+				<Spanish>CR-RB</Spanish>
+			</Key>
+			<Key ID="str_ffaa_dn_alcotan_cr_am">
+				<Original>Grenade C-90 CR-AM</Original>
+				<English>Grenade C-90 CR-AM</English>
+				<Spanish>Granada C-90 CR-AM</Spanish>
+			</Key>
+			<Key ID="str_ffaa_dns_alcotan_cr_am">
+				<Original>CR-AM</Original>
+				<English>CR-AM</English>
+				<Spanish>CR-AM</Spanish>
+			</Key>
+			<Key ID="str_ffaa_dn_alcotan_cr_fim">
+				<Original>Grenade C-90 CR-FIM</Original>
+				<English>Grenade C-90 CR-FIM</English>
+				<Spanish>Granada C-90 CR-FIM</Spanish>
+			</Key>
+			<Key ID="str_ffaa_dns_alcotan_cr_fim">
+				<Original>CR-FIM</Original>
+				<English>CR-FIM</English>
+				<Spanish>CR-FIM</Spanish>
+			</Key>
+			<Key ID="str_ffaa_dn_alcotan_cr_bk">
+				<Original>Grenade C-90 CR-BK</Original>
+				<English>Grenade C-90 CR-BK</English>
+				<Spanish>Granada C-90 CR-BK</Spanish>
+			</Key>
+			<Key ID="str_ffaa_dnS_alcotan_cr_bk">
+				<Original>CR-BK</Original>
+				<English>CR-BK</English>
+				<Spanish>CR-BK</Spanish>
 			</Key>
 			<Key ID="str_ffaa_granada_c90_descripcion">
-				<Original>Efective range: 0 - 200 m &lt;br/&gt;Type: HEAT &lt;br/&gt;Used in: C-90C</Original>
-				<English>Efective range: 0 - 200 m &lt;br/&gt;Type: HEAT &lt;br/&gt;Used in: C-90C</English>
-				<Spanish>Alcance efectivo: 0 - 200 m &lt;br/&gt;Tipo: HEAT &lt;br/&gt;Uso: C-90C</Spanish>
-				<Japanese>有効射程: 0 - 200m&lt;br/&gt;種類: HEAT &lt;br/&gt;次で使用: C-90C</Japanese>
+				<Original>Efective range: 0 - 350 m &lt;br/&gt;Type: AT &lt;br/&gt;Used in: C-90C &lt;br/&gt;Used versus: APC,IFV</Original>
+				<English>Efective range: 0 - 350 m &lt;br/&gt;Type: AT &lt;br/&gt;Used in: C-90C &lt;br/&gt;Used versus: APC,IFV</English>
+				<Spanish>Alcance efectivo: 0 - 350 m &lt;br/&gt;Tipo: AT &lt;br/&gt;Uso: C-90C &lt;br/&gt;Usado contra: APC,IFV</Spanish>
+				<Japanese>有効射程: 0 - 350m&lt;br/&gt;種類: AT &lt;br/&gt;次で使用: C-90C &lt;br/&gt;使用済みと: APC,IFV</Japanese>
 			</Key>
-			<Key ID="str_ffaa_misil_c100">
-				<Original>Alcotan-100</Original>
-				<English>Alcotan-100</English>
-				<Spanish>Alcotan-100</Spanish>
-				<Japanese>アルコタン-100</Japanese>
+			<Key ID="str_ffaa_granada_c90_descripcion_CR_AM">
+				<Original>Efective range: 0 - 350 m &lt;br/&gt;Type: TandemHEAT &lt;br/&gt;Used in: C-90C &lt;br/&gt;Used versus: APC,IFV,Light Vehicles, Infantery</Original>
+				<English>Efective range: 0 - 350 m &lt;br/&gt;Type: TandemHEAT &lt;br/&gt;Used in: C-90C &lt;br/&gt;Used versus: APC,IFV,Light Vehicles, Infantery</English>
+				<Spanish>Alcance efectivo: 0 - 350 m &lt;br/&gt;Tipo: TandemHEAT &lt;br/&gt;Uso: C-90C &lt;br/&gt;Usado contra: APC,IFV,Vehículos Ligeros, Infantería</Spanish>
+				<Japanese>有効射程: 0 - 350m&lt;br/&gt;種類: TandemHEAT &lt;br/&gt;次で使用: C-90C &lt;br/&gt;使用済みと: APC,IFV</Japanese>
 			</Key>
-			<Key ID="str_ffaa_misil_c100_descripcion">
-				<Original>Efective range: 0 - 600 m &lt;br/&gt;Type: HEAT &lt;br/&gt;Used in: C-100</Original>
-				<English>Efective range: 0 - 600 m &lt;br/&gt;Type: HEAT &lt;br/&gt;Used in: C-100</English>
-				<Spanish>Alcance efectivo: 0 - 600 m &lt;br/&gt;Tipo: HEAT &lt;br/&gt;Uso: C-100</Spanish>
-				<Japanese>有効射程: 0 - 600m&lt;br/&gt;種類: HEAT &lt;br/&gt;次で使用: C-100</Japanese>
+			<Key ID="str_ffaa_granada_c90_descripcion_CR_FIM">
+				<Original>Efective range: 0 - 350 m &lt;br/&gt;Type: HE &lt;br/&gt;Used in: C-90C &lt;br/&gt;Used versus: Infantery</Original>
+				<English>Efective range: 0 - 350 m &lt;br/&gt;Type: HE &lt;br/&gt;Used in: C-90C &lt;br/&gt;Used versus: Infantery</English>
+				<Spanish>Alcance efectivo: 0 - 350 m &lt;br/&gt;Tipo: HE &lt;br/&gt;Uso: C-90C &lt;br/&gt;Usado contra: Infantería</Spanish>
+				<Japanese>有効射程: 0 - 350m&lt;br/&gt;種類: HE &lt;br/&gt;次で使用: C-90C &lt;br/&gt;使用済みと: Infantery</Japanese>
+			</Key>
+			<Key ID="str_ffaa_granada_c90_descripcion_CR_BK">
+				<Original>Efective range: 0 - 350 m &lt;br/&gt;Type: HE &lt;br/&gt;Used in: C-90C &lt;br/&gt;Used versus: Bunkers, Infantery</Original>
+				<English>Efective range: 0 - 350 m &lt;br/&gt;Type: HE &lt;br/&gt;Used in: C-90C &lt;br/&gt;Used versus: Bunkers, Infantery</English>
+				<Spanish>Alcance efectivo: 0 - 350 m &lt;br/&gt;Tipo: HE &lt;br/&gt;Uso: C-90C &lt;br/&gt;Used versus: Bunkers, Infantería</Spanish>
+				<Japanese>有効射程: 0 - 350m&lt;br/&gt;種類: HE &lt;br/&gt;次で使用: C-90C &lt;br/&gt;使用済みと: Bunkers, Infantery</Japanese>
+			</Key>			
+			<Key ID="str_ffaa_misil_c100_at">
+				<Original>Alcotan-AT (M2) Rocket</Original>
+				<English>Alcotan-AT (M2) Rocket</English>
+				<Spanish>Proyectil Alcotan-AT (M2)</Spanish>
+			</Key>
+			<Key ID="str_ffaa_misil_c100_at_descripcion">
+				<Original>Type: ALCOTAN-AT (M2) 100 Rocket&lt;br/&gt;Type: AT &lt;br/&gt;Used in: C100&lt;br/&gt;Used with: VOSEL (M2) &lt;br/&gt;Used versus: Tanks, APC, IFV</Original>
+				<Spanish>Tipo: Proyectil ALCOTAN-AT (M2) 100&lt;br/&gt;Type: AT &lt;br/&gt;Usado en: C100&lt;br/&gt;Usado con: VOSEL (M2)&lt;br/&gt;Usado contra: Carros de combate, APC, IFV</Spanish>
+			</Key>
+			<Key ID="str_ffaa_misil_c100_biv">
+				<Original>Alcotan-BIV (M2) Rocket</Original>
+				<English>Alcotan-BIV (M2) Rocket</English>
+				<Spanish>Proyectil Alcotan-BIV (M2)</Spanish>
+			</Key>
+			<Key ID="str_ffaa_misil_c100_biv_descripcion">
+				<Original>Type: ALCOTAN-BIV (M2) 100 Rocket&lt;br/&gt;Type: TandemHEAT &lt;br/&gt;Used in: C100&lt;br/&gt;Used with: VOSEL (M2)&lt;br/&gt;Used versus: Tanks, APC, IFV, Light Vehicles, Infantery</Original>
+				<Spanish>Tipo: Proyectil ALCOTAN-BIV (M2) 100&lt;br/&gt;Type: TandemHEAT &lt;br/&gt;Usado en: C100&lt;br/&gt;Usado con: VOSEL (M2)&lt;br/&gt;Usado contra: Carros de combate, APC, IFV, Vehículos Ligeros, Infanteria</Spanish>
+			</Key>
+			<Key ID="str_ffaa_misil_c100_abk">
+				<Original>Alcotan-ABK (M2) Rocket</Original>
+				<English>Alcotan-ABK (M2) Rocket</English>
+				<Spanish>Proyectil Alcotan-ABK (M2)</Spanish>
+			</Key>
+			<Key ID="str_ffaa_misil_c100_abk_descripcion">
+				<Original>Type: ALCOTAN-ABK (M2) 100 Rocket&lt;br/&gt;Type: HE&lt;br/&gt;Used in: C100&lt;br/&gt;Used with: VOSEL (M2) &lt;br/&gt;Used versus: Bunkers, Infantery</Original>
+				<Spanish>Tipo: Proyectil ALCOTAN-ABK (M2) 100&lt;br/&gt;Type: HE&lt;br/&gt;Usado en: C100&lt;br/&gt;Usado con: VOSEL (M2) &lt;br/&gt;Used versus: Bunkers, Infantería</Spanish>
 			</Key>
 		</Container>
 		<Container name="armas">
@@ -834,6 +963,16 @@
 				<Spanish>FN Minimi 5.56 mm</Spanish>
 				<Japanese>FN ミニミ 5.56mm</Japanese>
 			</Key>
+            <Key ID="str_ffaa_hk416A5_short">
+				<Original>HK 416 A5 11' (Black) 5.56 mm</Original>
+				<English>HK 416 A5 11' (Black) 5.56 mm</English>
+				<Spanish>HK 416 A5 11' (Negro) 5.56 mm</Spanish>
+			</Key>
+            <Key ID="str_ffaa_hk417A2_long">
+				<Original>HK 417 A2 20' (Black) 7.62 mm</Original>
+				<English>HK 417 A2 20' (Black) 7.62 mm</English>
+				<Spanish>HK 417 A2 20' (Negro) 7.62 mm</Spanish>
+			</Key>
 			<Key ID="str_ffaa_ameli_definicion">
 				<Original>Light Machine Gun&lt;br /&gt;Caliber: 5.56x45 mm</Original>
 				<English>Light Machine Gun&lt;br /&gt;Caliber: 5.56x45 mm</English>
@@ -859,11 +998,28 @@
 				<Spanish>El C-90 es un lanzacohetes que dispara una granada propulsada por cohete de 90 mm fabricado por Instalaza en Zaragoza, España. Es usado como un tipo de arma para la infantería.</Spanish>
 				<Japanese>インスタラザ C90 は口径が 90mm で使い捨ての肩撃ち式グレネード ランチャーである。主に歩兵によって使われる。</Japanese>
 			</Key>
+			<Key ID="str_ffaa_dn_c100">
+				<Original>C 100 (M2)</Original>
+				<English>C 100 (M2)</English>
+				<Spanish>C 100 (M2)</Spanish>
+			</Key>
+			<Key ID="str_ffaa_c100_used">
+				<Original>C 100 (M2)(Used)</Original>
+				<English>C 100 (M2)(Used)</English>
+				<Spanish>C 100 (M2)(Usado)</Spanish>
+				<Japanese>C 100 (M2)(使用済み)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_c100_empty">
+				<Original>C 100 (M2)(Empty)</Original>
+				<English>C 100 (M2)(Empty)</English>
+				<Spanish>C 100 (M2)(Vacío)</Spanish>
+				<Japanese>C 100 (M2)(空)</Japanese>
+			</Key>
 			<Key ID="str_ffaa_c100_definicion">
-				<Original>Rocket Launcher C100&lt;br /&gt;Caliber: 100 mm</Original>
-				<English>Rocket Launcher C100&lt;br /&gt;Caliber: 100 mm</English>
-				<Spanish>Lanzacohetes C100&lt;br /&gt;Calibre: 100 mm</Spanish>
-				<Japanese>ロケット ランチャー C100&lt;br /&gt;口径: 100 mm</Japanese>
+				<Original>Rocket Launcher C100 (M2)&lt;br /&gt;Caliber: 100 mm</Original>
+				<English>Rocket Launcher C100 (M2)&lt;br /&gt;Caliber: 100 mm</English>
+				<Spanish>Lanzacohetes C100 (M2)&lt;br /&gt;Calibre: 100 mm</Spanish>
+				<Japanese>ロケット ランチャー C100 (M2)&lt;br /&gt;口径: 100 mm</Japanese>
 			</Key>
 			<Key ID="str_ffaa_c100_lib_definicion">
 				<Original>Alcotán-100 is a recoilless, one-man portable, single-use anti-tank rocket launcher used by infantry, manufactured by Instalaza.</Original>
@@ -882,18 +1038,6 @@
 				<English>C 90 (Used)</English>
 				<Spanish>C 90 (Usado)</Spanish>
 				<Japanese>C 90 (使用済み)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_c100_empty">
-				<Original>C 90 (Empty)</Original>
-				<English>C 90 (Empty)</English>
-				<Spanish>C 90 (Vacío)</Spanish>
-				<Japanese>C 90 (空)</Japanese>
-			</Key>
-			<Key ID="str_ffaa_c100_used">
-				<Original>C 100 (Used)</Original>
-				<English>C 100 (Used)</English>
-				<Spanish>C 100 (Usado)</Spanish>
-				<Japanese>C 100 (使用済み)</Japanese>
 			</Key>
 			<Key ID="str_ffaa_c90_script_take">
 				<Original>Take</Original>
@@ -990,7 +1134,12 @@
 				<Spanish>Fue diseñada para el Ejército de Tierra de España por el instituto de investigación nacional "Centro de Estudios Técnicos de Materiales Especiales", CETME, fundado por el Gobierno Español en 1950.</Spanish>
 				<Japanese>アメリ（スペイン語で Spanish Ametralladora ligera）は国営の Centro de Estudios Técnicos de Materiales Especiales によって、スペイン陸軍向けに設計された 5.56mm の軽機関銃である。</Japanese>
 			</Key>
-			<Key ID="str_ffaa_mg42_lib_definicion">
+            <Key ID="str_ffaa_armas_mg42">
+				<Original>MG-42</Original>
+				<English>MG-42</English>
+				<Spanish>MG-42</Spanish>
+			</Key>
+			<Key ID="str_ffaa_mg3_lib_definicion">
 				<Original>The MG-3 has a proven record of reliability, durability, simplicity, and ease of operation, but is most notable for its ability to produce a high volume of suppressive fire. The MG-3 had one of the highest average cyclic rate of any
 					single-barreled man-portable machine gun: between 1,200 and 1,500 rpm, which results in a distinctive muzzle report.</Original>
 				<English>The MG-3 has a proven record of reliability, durability, simplicity, and ease of operation, but is most notable for its ability to produce a high volume of suppressive fire. The MG-3 had one of the highest average cyclic rate of any
@@ -1010,6 +1159,182 @@
 				<English>The UMP (Universale Maschinenpistole, German for "Universal Machine Pistol") is a submachine gun developed and manufactured by Heckler and Koch.</English>
 				<Spanish>El UMP (Universale Maschinepistole, "subfusil universal" en alemán) es un subfusil desarrollado y manufacturado en Alemania por Heckler and Koch.</Spanish>
 				<Japanese>UMP (Universale Maschinen pistole) はヘッケラー アンド コッホによって設計、製造される短機関銃である。</Japanese>
+			</Key>
+		</Container>
+		<Container name="mochilas">
+			<Key ID="str_ffaa_mochibosque_brilat">
+				<Original>Combat Backpack (Woodland)</Original>
+				<English>Combat Backpack (Woodland)</English>
+				<Spanish>Mochila de combate (Bosque)</Spanish>
+				<Japanese>戦闘バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesie_brilat">
+				<Original>Combat Backpack (Desert)</Original>
+				<English>Combat Backpack (Desert)</English>
+				<Spanish>Mochila de combate (Desertico)</Spanish>
+				<Japanese>戦闘バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochibosque_ligera_brilat">
+				<Original>Light Backpack (Woodland)</Original>
+				<English>Light Backpack (Woodland)</English>
+				<Spanish>Mochila ligera (Bosque)</Spanish>
+				<Japanese>軽装バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesie_ligera_brilat">
+				<Original>Light Backpack (Desert)</Original>
+				<English>Light Backpack (Desert)</English>
+				<Spanish>Mochila ligera (Desertico)</Spanish>
+				<Japanese>軽装バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochibosquebot_brilat">
+				<Original>First-aid kit Backpack (Woodland)</Original>
+				<English>First-aid kit Backpack (Woodland)</English>
+				<Spanish>Mochila botiquin (Bosque)</Spanish>
+				<Japanese>救急バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesiebot_brilat">
+				<Original>First-aid kit Backpack (Desert)</Original>
+				<English>First-aid kit Backpack (Desert)</English>
+				<Spanish>Mochila botiquin (Desertico)</Spanish>
+				<Japanese>救急バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochibosquetir_brilat">
+				<Original>Backpack marksman (Woodland)</Original>
+				<English>Backpack marksman (Woodland)</English>
+				<Spanish>Mochila tirador (Bosque)</Spanish>
+				<Japanese>選抜射手バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesietir_brilat">
+				<Original>Backpack marksman (Desert)</Original>
+				<English>Backpack marksman (Desert)</English>
+				<Spanish>Mochila tirador (Desertico)</Spanish>
+				<Japanese>選抜射手バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochibosquemuni_brilat">
+				<Original>Backpack Ammunition (Woodland)</Original>
+				<English>Backpack Ammunition (Woodland)</English>
+				<Spanish>Mochila municion (Bosque)</Spanish>
+				<Japanese>弾薬バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesiemuni_brilat">
+				<Original>Backpack Ammunition (Desert)</Original>
+				<English>Backpack Ammunition (Desert)</English>
+				<Spanish>Mochila Municion (Desertico)</Spanish>
+				<Japanese>弾薬バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochibosquemg4_brilat">
+				<Original>Backpack MG4 (Woodland)</Original>
+				<English>Backpack MG4 (Woodland)</English>
+				<Spanish>Mochila MG4 (Bosque)</Spanish>
+				<Japanese>MG4 バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesiemg4_brilat">
+				<Original>Backpack MG4 (Desert)</Original>
+				<English>Backpack MG4 (Desert)</English>
+				<Spanish>Mochila MG4 (Desertico)</Spanish>
+				<Japanese>MG4 バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochibosquemg42_brilat">
+				<Original>Backpack MG42 (Woodland)</Original>
+				<English>Backpack MG42 (Woodland)</English>
+				<Spanish>Mochila MG42 (Bosque)</Spanish>
+				<Japanese>MG42 バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesiemg42_brilat">
+				<Original>Backpack MG42 (Desert)</Original>
+				<English>Backpack MG42 (Desert)</English>
+				<Spanish>Mochila MG42 (Desertico)</Spanish>
+				<Japanese>MG42 バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochibosquec100_brilat">
+				<Original>Backpack C100 (Woodland)</Original>
+				<English>Backpack C100 (Woodland)</English>
+				<Spanish>Mochila C100 (Bosque)</Spanish>
+				<Japanese>C100 バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesiec100_brilat">
+				<Original>Backpack C100 (Desert)</Original>
+				<English>Backpack C100 (Desert)</English>
+				<Spanish>Mochila C100 (Desertico)</Spanish>
+				<Japanese>C100 バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochibosquec90_brilat">
+				<Original>Backpack C90 (Woodland)</Original>
+				<English>Backpack C90 (Woodland)</English>
+				<Spanish>Mochila C90 (Bosque)</Spanish>
+				<Japanese>C90 バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesiec90_brilat">
+				<Original>Backpack C90 (Desert)</Original>
+				<English>Backpack C90 (Desert)</English>
+				<Spanish>Mochila C90 (Desertico)</Spanish>
+				<Japanese>C90 バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochibosquespik_brilat">
+				<Original>Backpack Spike (Woodland)</Original>
+				<English>Backpack Spike (Woodland)</English>
+				<Spanish>Mochila Spike (Bosque)</Spanish>
+				<Japanese>スパイク バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesiespik_brilat">
+				<Original>Backpack Spike (Desert)</Original>
+				<English>Backpack Spike (Desert)</English>
+				<Spanish>Mochila Spike (Desertico)</Spanish>
+				<Japanese>スパイク バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochibosqueexplo_brilat">
+				<Original>Backpack Explosive (Woodland)</Original>
+				<English>Backpack Explosive (Woodland)</English>
+				<Spanish>Mochila Explosivos (Bosque)</Spanish>
+				<Japanese>爆発物バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochidesieexplo_brilat">
+				<Original>Backpack Explosives (Desert)</Original>
+				<English>Backpack Explosives (Desert)</English>
+				<Spanish>Mochila Explosivos (Desertico)</Spanish>
+				<Japanese>爆発物バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochimedica_brilat">
+				<Original>First-aid kit Backpack</Original>
+				<English>First-aid kit Backpack</English>
+				<Spanish>Mochila botiquin</Spanish>
+				<Japanese>救急バックパック</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochiasalto_bs_brilat">
+				<Original>Assault backpack (Woodland)</Original>
+				<English>Assault backpack (Woodland)</English>
+				<Spanish>Mochila de asalto (Bosque)</Spanish>
+				<Japanese>強襲バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochiasalto_ds_brilat">
+				<Original>Assault backpack (Desert)</Original>
+				<English>Assault backpack (Desert)</English>
+				<Spanish>Mochila de asalto (Desertico)</Spanish>
+				<Japanese>強襲バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochiviaje_ds_brilat">
+				<Original>Travel backpack (Desert)</Original>
+				<English>Travel backpack (Desert)</English>
+				<Spanish>Mochila de viaje (Desertico)</Spanish>
+				<Japanese>行軍バックパック (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochiviaje_bs_brilat">
+				<Original>Travel backpack (Woodland)</Original>
+				<English>Travel backpack (Woodland)</English>
+				<Spanish>Mochila de viaje (Bosque)</Spanish>
+				<Japanese>行軍バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochiuav_bs_brilat">
+				<Original>UAV backpack (Woodland)</Original>
+				<English>UAV backpack (Woodland)</English>
+				<Spanish>Mochila UAV (Bosque)</Spanish>
+				<Japanese>UAV バックパック (森林)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_mochiuav_ds_brilat">
+				<Original>UAV backpack (Desert)</Original>
+				<English>UAV backpack (Desert)</English>
+				<Spanish>Mochila UAV (Desertico)</Spanish>
+				<Japanese>UAV バックパック (砂漠)</Japanese>
 			</Key>
 		</Container>
 	</Package>

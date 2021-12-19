@@ -2,61 +2,15 @@
 <Project name="ffaa">
 	<Package name="ffaa_et_cougar">
 		<Container name="cougar">
-			<Key ID="str_ffaa_cougar_desplegar_rapel">
-				<Original>Deploy rappel</Original>
-				<Chinese>Deploy rappel</Chinese>
-				<French>Deploy rappel</French>
-				<Spanish>Desplegar rapel</Spanish>
-				<Italian>Deploy rappel</Italian>
-				<Hungarian>Deploy rappel</Hungarian>
-				<Polish>Deploy rappel</Polish>
-				<Russian>Deploy rappel</Russian>
-				<German>Deploy rappel</German>
-				<Czech>Deploy rappel</Czech>
-				<English>Deploy rappel</English>
-				<Japanese>ラペリング ロープを展開</Japanese>
+			<Key ID="str_ffaa_dn_cougar_armed">
+				<Original>AS532UL Cougar (Armed)</Original>
+				<Spanish>AS532UL Cougar (Armado)</Spanish>
+				<English>AS532UL Cougar (Armed)</English>
 			</Key>
-			<Key ID="str_ffaa_cougar_cancelar_rapel">
-				<Original>Cancel rappel</Original>
-				<Chinese>Cancel rappel</Chinese>
-				<French>Cancel rappel</French>
-				<Spanish>Desplegar rapel</Spanish>
-				<Italian>Cancel rappel</Italian>
-				<Hungarian>Cancel rappel</Hungarian>
-				<Polish>Cancel rappel</Polish>
-				<Russian>Cancel rappel</Russian>
-				<German>Cancel rappel</German>
-				<Czech>Cancel rappel</Czech>
-				<English>Cancel rappel</English>
-				<Japanese>ラペリング中止</Japanese>
-			</Key>
-			<Key ID="str_ffaa_cougar_cargo_rapel">
-				<Original>Cargo rappel</Original>
-				<Chinese>Cargo rappel</Chinese>
-				<French>Cargo rappel</French>
-				<Spanish>Cargo rapel</Spanish>
-				<Italian>Cargo rappel</Italian>
-				<Hungarian>Cargo rappel</Hungarian>
-				<Polish>Cargo rappel</Polish>
-				<Russian>Cargo rappel</Russian>
-				<German>Cargo rappel</German>
-				<Czech>Cargo rappel</Czech>
-				<English>Cargo rappel</English>
-				<Japanese>カーゴ ラペリング</Japanese>
-			</Key>
-			<Key ID="str_ffaa_cougar_rapel">
-				<Original>Rappel</Original>
-				<Chinese>Rappel</Chinese>
-				<French>Rappel</French>
-				<Spanish>Rapel</Spanish>
-				<Italian>Rappel</Italian>
-				<Hungarian>Rappel</Hungarian>
-				<Polish>Rappel</Polish>
-				<Russian>Rappel</Russian>
-				<German>Rappel</German>
-				<Czech>Rappel</Czech>
-				<English>Rappel</English>
-				<Japanese>ラペリング</Japanese>
+			<Key ID="str_ffaa_dn_cougar_transport">
+				<Original>AS532UL Cougar (Transport)</Original>
+				<Spanish>AS532UL Cougar (Transporte)</Spanish>
+				<English>AS532UL Cougar (Transport)</English>
 			</Key>
 		</Container>
 	</Package>

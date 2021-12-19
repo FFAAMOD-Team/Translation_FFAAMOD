@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Container name="lince">
+		<Key ID="STR_FFAA_DN_PIRANHAIIIC">
+			<Original>Piraña IIIC</Original>
+			<English>Piranha IIIC</English>
+			<Spanish>Piraña IIIC</Spanish>
+		</Key>
+		<Key ID="STR_FFAA_DN_PIRANHAIIIC_LANCE">
+			<Original>Piraña IIIC (Lance)</Original>
+			<English>Piranha IIIC (Lance)</English>
+			<Spanish>Piraña IIIC (Lance)</Spanish>
+		</Key>
+		<Key ID="STR_FFAA_LIB_PIRANHAIIIC">
+			<Original>The Piranha IIIC is an infantry fighting vehicle. El Piranha IIIC is armed with a 40 mm grenade launcher LAG40 and a coaxial 12,70 mm machinegun, providing not only a carrying capacity, but also reliable fire support.</Original>
+			<Spanish>El Piranha IIIC es un vehículo de combate de infantería. El Piranha IIIC está armado con un lanzagradas LAG 40 mm y una ametralladora coaxial 12,70 mm. No solo proporciona capacidad de transporte, sino también un fuego de apoyo fiable.</Spanish>
+			<English>The Piranha IIIC is an infantry fighting vehicle. El Piranha IIIC is armed with a 40 mm grenade launcher LAG40 and a coaxial 12,70 mm machinegun, providing not only a carrying capacity, but also reliable fire support.</English>
+		</Key>
+		<Key ID="STR_FFAA_LIB_PIRANHAIIIC_LANCE">
+			<Original>The Piranha IIIC (Recon) is an infantry fighting vehicle. El Piranha IIIC (Recon) is armed with a Mk 30 mm cannon and a coaxial 7,62 mm machinegun, providing not only a carrying capacity, but also reliable fire support against light vehicles.</Original>
+			<Spanish>El Piranha IIIC (Recon) es un vehículo de combate de reconocimiento. El Piranha IIIC (Recon) está armado con un cañon de Mk 30 mm y una ametralladora coaxial 7,62 mm. No solo proporciona capacidad de transporte, sino también un fuego de apoyo contra vehículos ligeros.</Spanish>
+			<English>The Piranha IIIC (Recon) is an infantry fighting vehicle. El Piranha IIIC (Recon) is armed with a Mk 30 mm cannon and a coaxial 7,62 mm machinegun, providing not only a carrying capacity, but also reliable fire support against light vehicles.</English>
+		</Key>
+	</Container>
+</Project>

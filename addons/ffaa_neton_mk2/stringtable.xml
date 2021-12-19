@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_neton_mk2">
+		<Key ID="str_ffaa_dn_neton_mk2">
+			<Original>Neton Mk2</Original>
+			<English>Neton Mk2</English>
+			<Spanish>Neton Mk2</Spanish>
+		</Key>
+        <Key ID="str_ffaa_dn_neton_mk2_ocultar_cinta_seguridad">
+          <Original>Show Wood Log</Original>
+          <Spanish>Ocultar cintas de seguridad</Spanish>
+          <English>Hide security belts</English>
+        </Key>
+		<Key ID="str_ffaa_lib_neton_mk2">
+			<Original>Vehiculo medio ligero caracterizado de una gran movilidad estratégica y especializado en cometidos de exploración y reconocimiento, labores que buscaría llevar a cabo de forma especialmente sigilosa y en la profundidad del despliegue, incluso en territorio enemigo.</Original>	
+			<English>Light medium vehicle characterized by a great strategic mobility and specialized in exploration and reconnaissance tasks, tasks that it would seek to carry out in a particularly stealthy way and in the depth of the deployment, even in enemy territory.</English>			
+			<Spanish>Vehiculo medio ligero caracterizado de una gran movilidad estratégica y especializado en cometidos de exploración y reconocimiento, labores que buscaría llevar a cabo de forma especialmente sigilosa y en la profundidad del despliegue, incluso en territorio enemigo.</Spanish>	
+		</Key>
+	</Package>
+</Project>

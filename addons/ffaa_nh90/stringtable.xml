@@ -2,13 +2,25 @@
 <Project name="ffaa">
 	<Package name="ffaa_nh90">
 		<Container name="nh90">
-			<Key ID="str_ffaa_nh90_tth">
-				<Original>NH90 TTH </Original>
-				<Japanese>NH90 TTH</Japanese>
+			<Key ID="str_ffaa_nh90_tth_transport">
+				<Original>NH90 TTH (Transport)</Original>
+				<English>NH90 TTH (Transport)</English>
+				<Spanish>NH90 TTH (Transporte)</Spanish>
 			</Key>
-			<Key ID="str_ffaa_nh90_nfh">
-				<Original>NH90 NFH</Original>
-				<Japanese>NH90 NFH</Japanese>
+			<Key ID="str_ffaa_nh90_tth_armed">
+				<Original>NH90 TTH (Armed)</Original>
+				<English>NH90 TTH (Armed)</English>
+				<Spanish>NH90 TTH (Armado)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_nh90_tth_cargo">
+				<Original>NH90 TTH (Cargo)</Original>
+				<English>NH90 TTH (Cargo)</English>
+				<Spanish>NH90 TTH (Cargo)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_nh90_nfh_transport">
+				<Original>NH90 NFH (Transport)</Original>
+				<English>NH90 NFH (Transport)</English>
+				<Spanish>NH90 NFH (Transporte)</Spanish>
 			</Key>
 			<Key ID="str_ffaa_nh90_marte">
 				<Original>Marte Mk2/S</Original>

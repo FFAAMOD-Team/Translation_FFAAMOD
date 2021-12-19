@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_vamtac_st5">
+		<Container name="lince">
+			<Key ID="STR_FFAA_DN_VAMTAC_ST5_VSP">
+				<Original>VAMTAC ST5 (VSP)</Original>
+				<English>VAMTAC ST5 (Fording)</English>
+				<Spanish>VAMTAC ST5 (VSP)</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_DN_VAMTAC_ST5">
+				<Original>VAMTAC ST5</Original>
+				<English>VAMTAC ST5</English>
+				<Spanish>VAMTAC ST5</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_DN_VAMTAC_ST5_VSP_M2">
+				<Original>VAMTAC ST5 (VSP/M2)</Original>
+				<English>VAMTAC ST5 (Fording/M2)</English>
+				<Spanish>VAMTAC ST5 (VSP/M2)</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_DN_VAMTAC_ST5_VSP_LAG40">
+				<Original>VAMTAC ST5 (VSP/LAG40)</Original>
+				<English>VAMTAC ST5 (Fording/LAG40)</English>
+				<Spanish>VAMTAC ST5 (VSP/LAG40)</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_DN_VAMTAC_ST5_M2">
+				<Original>VAMTAC ST5 (M2)</Original>
+				<English>VAMTAC ST5 (M2)</English>
+				<Spanish>VAMTAC ST5 (M2)</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_DN_VAMTAC_ST5_LAG40">
+				<Original>VAMTAC ST5 (LAG40)</Original>
+				<English>VAMTAC ST5 (LAG40)</English>
+				<Spanish>VAMTAC ST5 (LAG40)</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_DN_VAMTAC_ST5_MG3">
+				<Original>VAMTAC ST5 (MG3)</Original>
+				<English>VAMTAC ST5 (MG3)</English>
+				<Spanish>VAMTAC ST5 (MG3)</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_DN_VAMTAC_ST5_SPIKE">
+				<Original>VAMTAC ST5 (Spike)</Original>
+				<English>VAMTAC ST5 (Spike)</English>
+				<Spanish>VAMTAC ST5 (Spike)</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_DN_VAMTAC_ST5_VSP_SPIKE">
+				<Original>VAMTAC ST5 (VSP/Spike)</Original>
+				<English>VAMTAC ST5 (Fording/Spike)</English>
+				<Spanish>VAMTAC ST5 (VSP/Spike)</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_DN_VAMTAC_ST5_VSP_MINIMI">
+				<Original>VAMTAC ST5 (VSP/Minimi)</Original>
+				<English>VAMTAC ST5 (Fording/Minimi)</English>
+				<Spanish>VAMTAC ST5 (VSP/Minimi)</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_VAMTAC_ST5_Library">
+				<Original>El VAMTAC puede moverse a altas velocidades en todo tipo de terrenos y zonas adversas donde otros 4x4 tienen serias dificultades. Ha mostrado su eficacia, versatilidad y capacidad de reacción con plena operatividad allí donde ha sido necesario.</Original>
+				<Spanish>El VAMTAC puede moverse a altas velocidades en todo tipo de terrenos y zonas adversas donde otros 4x4 tienen serias dificultades. Ha mostrado su eficacia, versatilidad y capacidad de reacción con plena operatividad allí donde ha sido necesario.</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_NAMESOUND_VEH_VEHICLE_VAMTAC_S">
+				<Original>High Mobility Tactical Vehicle</Original>
+				<English>High Mobility Tactical Vehicle</English>
+				<Spanish>Vehículo de Alta Movilidad Táctico</Spanish>
+			</Key>
+            <Key ID="STR_FFAA_NAMESOUND_VEH_VEHICLE_VAMTAC_P">
+				<Original>High Mobility Tactical Vehicles</Original>
+				<English>High Mobility Tactical Vehicles</English>
+				<Spanish>Vehículos de Alta Movilidad Tácticos</Spanish>
+            </Key>
+            <Key ID="STR_FFAA_EDSUBCAT_COCHES_ARMADA">
+				<Original>Cars (Navy)</Original>
+				<English>Cars (Navy)</English>
+				<Spanish>Coches (Armada)</Spanish>
+            </Key>
+            <Key ID="STR_FFAA_DN_HIDE_TURRET_SHIELD">
+				<Original>Hide gunner shield</Original>
+				<English>Hide gunner shield</English>
+				<Spanish>Ocultar protección del tirador</Spanish>
+            </Key>
+            <Key ID="STR_FFAA_DN_HIDE_FRONT_SHIELD">
+				<Original>Hide front shield</Original>
+				<English>Hide front shield</English>
+				<Spanish>Ocultar protección delantera</Spanish>
+            </Key>
+		</Container>
+	</Package>
+</Project>

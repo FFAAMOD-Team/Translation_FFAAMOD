@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="FFAA">
+	<Package name="ffaa_et_brilat">
+		<Container name="unidades">
+			<Key ID="str_ffaa_fusi_brilat">
+				<Original>Rifleman (Woodland)</Original>
+				<English>Rifleman (Woodland)</English>
+				<Spanish>Fusilero (Boscoso)</Spanish>
+				<Japanese>森林 小銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusmo_brilat">
+				<Original>Rifleman Backpack (Woodland)</Original>
+				<English>Rifleman Backpack (Woodland)</English>
+				<Spanish>Fusilero Mochila (Boscoso)</Spanish>
+				<Japanese>森林 小銃手バックパック</Japanese>
+			</Key>
+			<Key ID="str_ffaa_opeuav_brilat">
+				<Original>UAV Operator (Woodland)</Original>
+				<English>UAV Operator (Woodland)</English>
+				<Spanish>Operador VANT (Boscoso)</Spanish>
+				<Japanese>砂漠 UAV オペレータ</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ofic_brilat">
+				<Original>Officer (Woodland)</Original>
+				<English>Officer (Woodland)</English>
+				<Spanish>Oficial (Boscoso)</Spanish>
+				<Japanese>森林 士官</Japanese>
+			</Key>
+			<Key ID="str_ffaa_sani_brilat">
+				<Original>Medic (Woodland)</Original>
+				<English>Medic (Woodland)</English>
+				<Spanish>Sanitario (Boscoso)</Spanish>
+				<Japanese>森林 衛生兵</Japanese>
+			</Key>
+			<Key ID="str_ffaa_jefepel_brilat">
+				<Original>Team Leader (Woodland)</Original>
+				<English>Team Leader (Woodland)</English>
+				<Spanish>Jefe de equipo (Boscoso)</Spanish>
+				<Japanese>森林 班長</Japanese>
+			</Key>
+			<Key ID="str_ffaa_jefescu_brilat">
+				<Original>Squadron commander (Woodland)</Original>
+				<English>Squadron commander (Woodland)</English>
+				<Spanish>Jefe de escuadra (Boscoso)</Spanish>
+				<Japanese>森林 分隊長</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ingeniero_brilat">
+				<Original>Engineer (Woodland)</Original>
+				<English>Engineer (Woodland)</English>
+				<Spanish>Ingeniero (Boscoso)</Spanish>
+				<Japanese>森林 工兵</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tripulacion_brilat">
+				<Original>Crew (Woodland)</Original>
+				<English>Crew (Woodland)</English>
+				<Spanish>Tripulacion (Boscoso)</Spanish>
+				<Japanese>森林 乗員</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tiradorobse_brilat">
+				<Original>Sniper Observer (Woodland)</Original>
+				<English>Sniper Observer (Woodland)</English>
+				<Spanish>Francotirador Observador (Boscoso)</Spanish>
+				<Japanese>森林 観測手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tiradoraccu_brilat">
+				<Original>Sniper Accuracy (Woodland)</Original>
+				<English>Sniper Accuracy (Woodland)</English>
+				<Spanish>Francotirador Accuracy (Boscoso)</Spanish>
+				<Japanese>森林 アキュラシー狙撃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tiradorbarr_brilat">
+				<Original>Sniper Barrett (Woodland)</Original>
+				<English>Sniper Barrett (Woodland)</English>
+				<Spanish>Francotirador Barrett (Boscoso)</Spanish>
+				<Japanese>森林 バレット狙撃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusictir_ameli_brilat">
+				<Original>Rifleman Ameli (Woodland)</Original>
+				<English>Rifleman Ameli (Woodland)</English>
+				<Spanish>Fusilero Ameli (Boscoso)</Spanish>
+				<Japanese>森林 アメリ小銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusic90_brilat">
+				<Original>Rifleman C90 (Woodland)</Original>
+				<English>Rifleman C90 (Woodland)</English>
+				<Spanish>Fusilero C90 (Boscoso)</Spanish>
+				<Japanese>森林 C90 小銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusic100_brilat">
+				<Original>Rifleman C100 (Woodland)</Original>
+				<English>Rifleman C100 (Woodland)</English>
+				<Spanish>Fusilero C100 (Boscoso)</Spanish>
+				<Japanese>森林 C100 小銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_provec100_brilat">
+				<Original>Supplier C100 (Woodland)</Original>
+				<English>Supplier C100 (Woodland)</English>
+				<Spanish>Proveedor C100 (Boscoso)</Spanish>
+				<Japanese>森林 C100 弾薬手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_provespik_brilat">
+				<Original>Supplier Spike (Woodland)</Original>
+				<English>Supplier Spike (Woodland)</English>
+				<Spanish>Proveedor Spike (Boscoso)</Spanish>
+				<Japanese>森林 スパイク弾薬手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ametramg42_brilat">
+				<Original>Machine gunner MG42 (Woodland)</Original>
+				<English>Machine gunner MG42 (Woodland)</English>
+				<Spanish>Ametrallador MG42 (Boscoso)</Spanish>
+				<Japanese>森林 MG42 機関銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_provemg42_brilat">
+				<Original>Supplier MG42 (Woodland)</Original>
+				<English>Supplier MG42 (Woodland)</English>
+				<Spanish>Proveedor MG42 (Boscoso)</Spanish>
+				<Japanese>森林 MG42 弾薬手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ametramg4_brilat">
+				<Original>Machine gunner MG4 (Woodland)</Original>
+				<English>Machine gunner MG4 (Woodland)</English>
+				<Spanish>Ametrallador MG4 (Boscoso)</Spanish>
+				<Japanese>森林 MG4 機関銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_provemg4_brilat">
+				<Original>Supplier MG4 (Woodland)</Original>
+				<English>Supplier MG4 (Woodland)</English>
+				<Spanish>Proveedor MG4 (Boscoso)</Spanish>
+				<Japanese>森林 MG4 弾薬手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusiclg_brilat">
+				<Original>Rifleman GL (Woodland)</Original>
+				<English>Rifleman GL (Woodland)</English>
+				<Spanish>Fusilero LG (Boscoso)</Spanish>
+				<Japanese>森林 てき弾手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusictir_brilat">
+				<Original>Marksman (Woodland)</Original>
+				<English>Marksman (Woodland)</English>
+				<Spanish>Tirador selecto (Boscoso)</Spanish>
+				<Japanese>森林 選抜射手</Japanese>
+			</Key>
+            <Key ID="str_ffaa_nbq_brilat">
+				<Original>Rifleman (Woodland/NBQ)</Original>
+				<English>Rifleman (Woodland/NBQ)</English>
+				<Spanish>Fusilero (Boscoso/NBQ)</Spanish>
+			</Key>
+			<Key ID="str_ffaa_fusi_brilat_ds">
+				<Original>Rifleman (Arid)</Original>
+				<English>Rifleman (Arid)</English>
+				<Spanish>Fusilero (Arido)</Spanish>
+				<Japanese>砂漠 小銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusmo_brilat_ds">
+				<Original>Rifleman Backpack (Arid)</Original>
+				<English>Rifleman Backpack (Arid)</English>
+				<Spanish>Fusilero Mochila (Arido)</Spanish>
+				<Japanese>砂漠 小銃手バックパック</Japanese>
+			</Key>
+			<Key ID="str_ffaa_opeuav_brilat_ds">
+				<Original>UAV Operator (Arid)</Original>
+				<English>UAV Operator (Arid)</English>
+				<Spanish>Operador VANT (Arido)</Spanish>
+				<Japanese>砂漠 UAV オペレータ</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ofic_brilat_ds">
+				<Original>Officer (Arid)</Original>
+				<English>Officer (Arid)</English>
+				<Spanish>Oficial (Arido)</Spanish>
+				<Japanese>砂漠 士官</Japanese>
+			</Key>
+			<Key ID="str_ffaa_sani_brilat_ds">
+				<Original>Medic (Arid)</Original>
+				<English>Medic (Arid)</English>
+				<Spanish>Sanitario (Arido)</Spanish>
+				<Japanese>砂漠 衛生兵</Japanese>
+			</Key>
+			<Key ID="str_ffaa_jefepel_brilat_ds">
+				<Original>Team Leader (Arid)</Original>
+				<English>Team Leader (Arid)</English>
+				<Spanish>Jefe de equipo (Arido)</Spanish>
+				<Japanese>砂漠 班長</Japanese>
+			</Key>
+			<Key ID="str_ffaa_jefescu_brilat_ds">
+				<Original>Squadron commander (Arid)</Original>
+				<English>Squadron commander (Arid)</English>
+				<Spanish>Jefe de escuadra (Arido)</Spanish>
+				<Japanese>砂漠 分隊長</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ingeniero_brilat_ds">
+				<Original>Engineer (Arid)</Original>
+				<English>Engineer (Arid)</English>
+				<Spanish>Ingeniero (Arido)</Spanish>
+				<Japanese>砂漠 工兵</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tripulacion_brilat_ds">
+				<Original>Crew (Arid)</Original>
+				<English>Crew (Arid)</English>
+				<Spanish>Tripulacion (Arido)</Spanish>
+				<Japanese>砂漠 乗員</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tiradorobse_brilat_ds">
+				<Original>Sniper Observer (Arid)</Original>
+				<English>Sniper Observer (Arid)</English>
+				<Spanish>Francotirador Observador (Arido)</Spanish>
+				<Japanese>砂漠 観測手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tiradoraccu_brilat_ds">
+				<Original>Sniper Accuracy (Arid)</Original>
+				<English>Sniper Accuracy (Arid)</English>
+				<Spanish>Francotirador Accuracy (Arido)</Spanish>
+				<Japanese>砂漠 アキュラシー狙撃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_tiradorbarr_brilat_ds">
+				<Original>Sniper Barrett (Arid)</Original>
+				<English>Sniper Barrett (Arid)</English>
+				<Spanish>Francotirador Barrett (Arido)</Spanish>
+				<Japanese>砂漠 バレット狙撃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusictir_ameli_brilat_ds">
+				<Original>Rifleman Ameli (Arid)</Original>
+				<English>Rifleman Ameli (Arid)</English>
+				<Spanish>Fusilero Ameli (Arido)</Spanish>
+				<Japanese>砂漠 アメリ小銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusic90_brilat_ds">
+				<Original>Rifleman C90 (Arid)</Original>
+				<English>Rifleman C90 (Arid)</English>
+				<Spanish>Fusilero C90 (Arido)</Spanish>
+				<Japanese>砂漠 C90 小銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusic100_brilat_ds">
+				<Original>Rifleman C100 (Arid)</Original>
+				<English>Rifleman C100 (Arid)</English>
+				<Spanish>Fusilero C100 (Arido)</Spanish>
+				<Japanese>砂漠 C100 小銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_provec100_brilat_ds">
+				<Original>Supplier C100 (Arid)</Original>
+				<English>Supplier C100 (Arid)</English>
+				<Spanish>Proveedor C100 (Arido)</Spanish>
+				<Japanese>砂漠 C100 弾薬手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_provespik_brilat_ds">
+				<Original>Supplier Spike (Arid)</Original>
+				<English>Supplier Spike (Arid)</English>
+				<Spanish>Proveedor Spike (Arido)</Spanish>
+				<Japanese>砂漠 スパイク弾薬手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ametramg42_brilat_ds">
+				<Original>Machine gunner MG42 (Arid)</Original>
+				<English>Machine gunner MG42 (Arid)</English>
+				<Spanish>Ametrallador MG42 (Arido)</Spanish>
+				<Japanese>砂漠 MG42 機関銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_provemg42_brilat_ds">
+				<Original>Supplier MG42 (Arid)</Original>
+				<English>Supplier MG42 (Arid)</English>
+				<Spanish>Proveedor MG42 (Arido)</Spanish>
+				<Japanese>砂漠 MG42 弾薬手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_ametramg4_brilat_ds">
+				<Original>Machine gunner MG4 (Arid)</Original>
+				<English>Machine gunner MG4 (Arid)</English>
+				<Spanish>Ametrallador MG4 (Arido)</Spanish>
+				<Japanese>砂漠 MG4 機関銃手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_provemg4_brilat_ds">
+				<Original>Supplier MG4 (Arid)</Original>
+				<English>Supplier MG4 (Arid)</English>
+				<Spanish>Proveedor MG4 (Arido)</Spanish>
+				<Japanese>砂漠 MG4 弾薬手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusiclg_brilat_ds">
+				<Original>Rifleman GL (Arid)</Original>
+				<English>Rifleman GL (Arid)</English>
+				<Spanish>Fusilero LG (Arido)</Spanish>
+				<Japanese>砂漠 てき弾手</Japanese>
+			</Key>
+			<Key ID="str_ffaa_fusictir_brilat_ds">
+				<Original>Marksman (Arid)</Original>
+				<English>Marksman (Arid)</English>
+				<Spanish>Tirador selecto (Arido)</Spanish>
+				<Japanese>砂漠 選抜射手</Japanese>
+			</Key>
+            <Key ID="str_ffaa_nbq_brilat_ds">
+				<Original>Rifleman (Arid/NBQ)</Original>
+				<English>Rifleman (Arid/NBQ)</English>
+				<Spanish>Fusilero (Arido/NBQ)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_platoon_bs">
+				<Original>Platoon (BRILAT/Woodland)</Original>
+				<English>Platoon (BRILAT/Woodland)</English>
+				<Spanish>Peloton (BRILAT/Boscoso)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_platoon_ds">
+				<Original>Platoon (BRILAT/Arid)</Original>
+				<English>Platoon (BRILAT/Arid)</English>
+				<Spanish>Peloton (BRILAT/Arido)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_francoteam_bs">
+				<Original>Binomial of snipers (BRILAT/Woodland)</Original>
+				<English>Binomial of snipers (BRILAT/Woodland)</English>
+				<Spanish>Binomio de tiradores (BRILAT/Boscoso)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_francoteam_ds">
+				<Original>Binomial of snipers (BRILAT/Arid)</Original>
+				<English>Binomial of snipers (BRILAT/Arid)</English>
+				<Spanish>Binomio de tiradores (BRILAT/Arid)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_atteam_bs">
+				<Original>Anti-Tank squad (BRILAT/Woodland)</Original>
+				<English>Anti-Tank squad (BRILAT/Woodland)</English>
+				<Spanish>Escuadra Anti-Tanque (BRILAT/Boscoso)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_atteam_ds">
+				<Original>Anti-Tank squad (BRILAT/Arid)</Original>
+				<English>Anti-Tank squad (BRILAT/Arid)</English>
+				<Spanish>Escuadra Anti-Tanque (BRILAT/Arido)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_reconteam_bs">
+				<Original>Recon Team (BRILAT/Woodland)</Original>
+				<English>Recon Team (BRILAT/Woodland)</English>
+				<Spanish>Equipo de Recon (BRILAT/Boscoso)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_reconteam_ds">
+				<Original>Recon Team (BRILAT/Arid)</Original>
+				<English>Recon Team (BRILAT/Arid)</English>
+				<Spanish>Equipo de Recon (BRILAT/Arido)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_patrolteam_bs">
+				<Original>Patrol Team (BRILAT/Woodland)</Original>
+				<English>Patrol Team (BRILAT/Woodland)</English>
+				<Spanish>Patrulla de Recon (BRILAT/Boscoso)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_patrolteam_ds">
+				<Original>Patrol Team (BRILAT/Arid)</Original>
+				<English>Patrol Team (BRILAT/Arid)</English>
+				<Spanish>Patrulla de Recon (BRILAT/Arido)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_ingteam_bs">
+				<Original>Engineers Team (BRILAT/Woodland)</Original>
+				<English>Engineers Team (BRILAT/Woodland)</English>
+				<Spanish>Equipo de Ingenieros (BRILAT/Boscoso)</Spanish>
+			</Key>
+            <Key ID="str_ffaa_brilat_ingteam_ds">
+				<Original>Engineers Team (BRILAT/Arid)</Original>
+				<English>Engineers Team (BRILAT/Arid)</English>
+				<Spanish>Equipo de Ingenieros (BRILAT/Arido)</Spanish>
+			</Key>
+		</Container>
+	</Package>
+</Project>

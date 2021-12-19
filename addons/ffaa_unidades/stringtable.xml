@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project name="ffaa">
+	<Package name="ffaa_unidades">
+		<Container name="editor">
+			<Key ID="str_ffaa_edsubcat_personal_armada">
+				<Original>Man (ARMADA)</Original>
+				<English>Man (ARMADA)</English>
+				<Spanish>Hombres (ARMADA)</Spanish>
+				<Japanese>兵士 (海軍)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_edsubcat_personal_brilat">
+				<Original>Man (BRILAT)</Original>
+				<English>Man (BRILAT)</English>
+				<Spanish>Hombres (BRILAT)</Spanish>
+				<Japanese>兵士 (BRILAT)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_edsubcat_personal_moe">
+				<Original>Hombres (MOE)</Original>
+				<English>Men (MOE)</English>
+				<Spanish>Hombres (MOE)</Spanish>
+				<Japanese>兵士 (MOE)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_edsubcat_personal_ea">
+				<Original>Man (EA)</Original>
+				<English>Man (EA)</English>
+				<Spanish>Hombres (EA)</Spanish>
+				<Japanese>兵士 (EA)</Japanese>
+			</Key>
+			<Key ID="str_ffaa_edsubcat_personal_fgne">
+				<Original>Man (FGNE)</Original>
+				<English>Man (FGNE)</English>
+				<Spanish>Hombres (FGNE)</Spanish>
+				<Japanese>兵士 (FGNE)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_edsubcat_personal_famet">
+				<Original>Man (FAMET)</Original>
+				<English>Man (FAMET)</English>
+				<Spanish>Hombres (FAMET)</Spanish>
+				<Japanese>兵士 (FAMET)</Japanese>
+			</Key>
+            <Key ID="str_ffaa_edsubcat_personal_bripac">
+				<Original>Man (BRIPAC)</Original>
+				<English>Man (BRIPAC)</English>
+				<Spanish>Hombres (BRIPAC)</Spanish>
+				<Japanese>兵士 (BRIPAC)</Japanese>
+			</Key>
+		</Container>
+		<Container name="CfgUnits">
+			<Key ID="str_insignia_ala31_1">
+				<Original>31 SQN Spanish Air Force</Original>
+				<English>31 SQN Spanish Air Force</English>
+				<Spanish>ALA 31 del Ejercito del Aire</Spanish>
+				<Japanese>スペイン空軍第 31 飛行隊</Japanese>
+			</Key>
+            <Key ID="str_insignia_ala12_1">
+				<Original>12 SQN Spanish Air Force</Original>
+				<English>12 SQN Spanish Air Force</English>
+				<Spanish>ALA 12 del Ejercito del Aire</Spanish>
+				<Japanese>スペイン空軍第 12 飛行隊</Japanese>
+			</Key>
+			<Key ID="str_insignia_armada_1">
+				<Original>Spanish Navy Marines</Original>
+				<English>Spanish Navy Marines</English>
+				<Spanish>Infantería de Marina</Spanish>
+				<Japanese>スペイン海軍海兵隊</Japanese>
+			</Key>
+			<Key ID="str_insignia_armada_2">
+				<Original>9 SQN Spanish Naval Aviation</Original>
+				<English>9 SQN Spanish Naval Aviation</English>
+				<Spanish>9 Escuadrilla de Aeronaves de la Armada</Spanish>
+				<Japanese>スペイン海軍第 9 飛行隊</Japanese>
+			</Key>
+			<Key ID="str_insignia_brilat_1_bs">
+				<Original>BRILAT "GALICIA" VII (WOODLAND)</Original>
+				<English>BRILAT "GALICIA" VII (WOODLAND)</English>
+				<Spanish>BRILAT "GALICIA" VII (BOSQUE)</Spanish>
+				<Japanese>第 7 "ガリシア" 空中機動軽歩兵旅団 (森林)</Japanese>
+			</Key>
+			<Key ID="str_insignia_brilat_1_ds">
+				<Original>BRILAT "GALICIA" VII (ARID)</Original>
+				<English>BRILAT "GALICIA" VII (ARID)</English>
+				<Spanish>BRILAT "GALICIA" VII (ARIDO)</Spanish>
+				<Japanese>第 7 "ガリシア" 空中機動軽歩兵旅団 (砂漠)</Japanese>
+			</Key>
+            <Key ID="str_insignia_bripac_1_bs">
+				<Original>BRIGADA PARACAIDISTA "ALMOGÁVARES" VI (WOODLAND)</Original>
+				<English>BRIGADA PARACAIDISTA "ALMOGÁVARES" VI (WOODLAND)</English>
+				<Spanish>BRIGADA PARACAIDISTA "ALMOGÁVARES" VI (BOSQUE)</Spanish>
+			</Key>
+			<Key ID="str_insignia_bripac_1_ds">
+				<Original>BRIGADA PARACAIDISTA "ALMOGÁVARES" VI (ARID)</Original>
+				<English>BRIGADA PARACAIDISTA "ALMOGÁVARES" VI (ARID)</English>
+				<Spanish>BRIGADA PARACAIDISTA "ALMOGÁVARES" VI (ARIDO)</Spanish>
+			</Key>
+			<Key ID="str_insignia_moe_1_ds">
+				<Original>M.O.E (ARID)</Original>
+				<English>M.O.E (ARID)</English>
+				<Spanish>M.O.E (ARIDO)</Spanish>
+				<Japanese>特殊作戦コマンド (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_insignia_moe_1_bs">
+				<Original>M.O.E (WOODLAND)</Original>
+				<English>M.O.E (WOODLAND)</English>
+				<Spanish>M.O.E (BOSQUE)</Spanish>
+				<Japanese>特殊作戦コマンド (森林)</Japanese>
+			</Key>
+			<Key ID="str_insignia_brimec_1_bs">
+				<Original>BRIMZ "GUZMAN EL BUENO X" (WOODLAND)</Original>
+				<English>BRIMZ "GUZMAN EL BUENO X" (WOODLAND)</English>
+				<Spanish>BRIMZ "GUZMAN EL BUENO X" (BOSQUE)</Spanish>
+				<Japanese>第 10 "グスマン・エル・ブエノ" 機械化歩兵旅団 (森林)</Japanese>
+			</Key>
+			<Key ID="str_insignia_brimec_1_ds">
+				<Original>BRIMZ "GUZMAN EL BUENO X" (ARID)</Original>
+				<English>BRIMZ "GUZMAN EL BUENO X" (ARID)</English>
+				<Spanish>BRIMZ "GUZMAN EL BUENO X" (ARIDO)</Spanish>
+				<Japanese>第 10 "グスマン・エル・ブエノ" 機械化歩兵旅団 (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_insignia_famet_1_ds">
+				<Original>F.A.M.E.T (ARID)</Original>
+				<English>F.A.M.E.T (ARID)</English>
+				<Spanish>F.A.M.E.T (ARIDO)</Spanish>
+				<Japanese>陸軍航空隊 (砂漠)</Japanese>
+			</Key>
+			<Key ID="str_insignia_famet_1_bs">
+				<Original>F.A.M.E.T (WOODLAND)</Original>
+				<English>F.A.M.E.T (WOODLAND)</English>
+				<Spanish>F.A.M.E.T (BOSQUE)</Spanish>
+				<Japanese>陸軍航空隊 (森林)</Japanese>
+			</Key>
+		</Container>
+	</Package>
+</Project>

@@ -9,52 +9,24 @@
 			<Key ID="str_ffaa_dn_cargadortorreta">
 				<Original>Loader</Original>
 				<English>Loader</English>
-				<Czech>Loader</Czech>
-				<French>Loader</French>
-				<German>Loader</German>
-				<Italian>Loader</Italian>
-				<Polish>Loader</Polish>
-				<Portuguese>Loader</Portuguese>
-				<Russian>Loader</Russian>
 				<Spanish>Cargador</Spanish>
 				<Japanese>装填手</Japanese>
 			</Key>
 			<Key ID="str_ffaa_leo_activar_espejo">
 				<Original>Fold out rearmirrors</Original>
 				<English>Fold out rearmirrors</English>
-				<Czech>Fold out rearmirrors</Czech>
-				<French>Fold out rearmirrors</French>
-				<German>Fold out rearmirrors</German>
-				<Italian>Fold out rearmirrors</Italian>
-				<Polish>Fold out rearmirrors</Polish>
-				<Portuguese>Fold out rearmirrors</Portuguese>
-				<Russian>Fold out rearmirrors</Russian>
 				<Spanish>Desplegar espejos retrovisores</Spanish>
 				<Japanese>リア ミラーを展開</Japanese>
 			</Key>
 			<Key ID="str_ffaa_leo_desactivar_espejo">
 				<Original>Fold in rearmirrors</Original>
 				<English>Fold in rearmirrors</English>
-				<Czech>Fold in rearmirrors</Czech>
-				<French>Fold in rearmirrors</French>
-				<German>Fold in rearmirrors</German>
-				<Italian>Fold in rearmirrors</Italian>
-				<Polish>Fold in rearmirrors</Polish>
-				<Portuguese>Fold in rearmirrors</Portuguese>
-				<Russian>Fold in rearmirrors</Russian>
 				<Spanish>Doblar espejos retrovisores</Spanish>
 				<Japanese>リア ミラーを格納</Japanese>
 			</Key>
 			<Key ID="str_ffaa_tank_platoon_leopard">
 				<Original>Leopard Tanks Platoon</Original>
 				<English>Leopard Tanks Platoon</English>
-				<Czech>Leopard Tanks Platoon</Czech>
-				<French>Leopard Tanks Platoon</French>
-				<German>Leopard Tanks Platoon</German>
-				<Italian>Leopard Tanks Platoon</Italian>
-				<Polish>Leopard Tanks Platoon</Polish>
-				<Portuguese>Leopard Tanks Platoon</Portuguese>
-				<Russian>Leopard Platoon</Russian>
 				<Spanish>Escuadrón de tanques Leopardo</Spanish>
 				<Japanese>レオパルド戦車小隊</Japanese>
 			</Key>
